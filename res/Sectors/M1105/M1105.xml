@@ -3064,11 +3064,15 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Y>6</Y>
     <X>5</X>
     <Name Lang="hv" Publisher="HIWG">Muarne</Name>
+    <DataFile Type="SecondSurvey">muarne.txt</DataFile>
+    <MetadataFile>muarne.xml</MetadataFile>
   </Sector>
   <Sector>
     <Y>6</Y>
     <X>6</X>
     <Name Lang="hv" Publisher="HIWG">Lancask</Name>
+    <DataFile Type="SecondSurvey">lancask.txt</DataFile>
+    <MetadataFile>lancask.xml</MetadataFile>
   </Sector>
   <Sector>
     <Y>6</Y>

@@ -1,0 +1,34 @@
+﻿<Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+  <X>5</X>
+  <Y>6</Y>
+  <Name Lang="hv">Muarne</Name>
+  <DataFile Type="SecondSurvey">muarne.txt</DataFile>
+  <Subsectors>
+    <Subsector Index="A">Amuar</Subsector>
+    <Subsector Index="B">Barnes</Subsector>
+    <Subsector Index="C">Clamuar</Subsector>
+    <Subsector Index="D">Dluarne</Subsector>
+    <Subsector Index="E">Emuart</Subsector>
+    <Subsector Index="F">Fruardi</Subsector>
+    <Subsector Index="G">Grauarn</Subsector>
+    <Subsector Index="H">Haluarg</Subsector>
+    <Subsector Index="I">Imuarff</Subsector>
+    <Subsector Index="J">Juarnest</Subsector>
+    <Subsector Index="K">Klinuar</Subsector>
+    <Subsector Index="L">Lonuarneb</Subsector>
+    <Subsector Index="M">Muaring</Subsector>
+    <Subsector Index="N">Nevuan</Subsector>
+    <Subsector Index="O">Omonuar</Subsector>
+    <Subsector Index="P">Pluast</Subsector>
+  </Subsectors>
+  <Routes> 
+  </Routes>
+  <Allegiances>
+    <Allegiance Code="Hi">Hillayag Federation</Allegiance>
+    <Allegiance Code="Ki">Kitram Ascendancy</Allegiance>
+  </Allegiances>
+  <Borders>
+    <Border Allegiance="Ki" Color="olivedrab">2407 2507 2506 2606 2706 2705 2706 2707 2607 2508 2407</Border>
+    <Border Allegiance="Hi" Color="blue">2712 2812 2912 3011 3112 3012 3013 2913 2813 2814 2813 2812 2712</Border>
+  </Borders>
+</Sector>

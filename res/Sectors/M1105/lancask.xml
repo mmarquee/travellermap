@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+  <X>6</X>
+  <Y>6</Y>
+  <Name Lang="hv">Lancask</Name>
+  <DataFile Type="SecondSurvey">lancask.txt</DataFile>  
+  <Subsectors>
+    <Subsector Index="A">Alanca</Subsector>
+    <Subsector Index="B">Bancass</Subsector>
+    <Subsector Index="C">Casklier</Subsector>
+    <Subsector Index="D">Dancask</Subsector>
+    <Subsector Index="E">Erancl</Subsector>
+    <Subsector Index="F">Frocask</Subsector>
+    <Subsector Index="G">Ghancask</Subsector>
+    <Subsector Index="H">Hacasell</Subsector>
+    <Subsector Index="I">Icaskarn</Subsector>
+    <Subsector Index="J">Jananca</Subsector>
+    <Subsector Index="K">Kloonac</Subsector>
+    <Subsector Index="L">Lanikasc</Subsector>
+    <Subsector Index="M">Milanco</Subsector>
+    <Subsector Index="N">Nolcask</Subsector>
+    <Subsector Index="O">Olannak</Subsector>
+    <Subsector Index="P">Pocanask</Subsector>
+  </Subsectors>
+  <Routes> 
+  </Routes>
+  <Allegiances>
+    <Allegiance Code="It">Itaurrec Unification</Allegiance>
+    <Allegiance Code="Ki">Klushan Universal Imperium</Allegiance>
+  </Allegiances>
+  <Borders>
+<!--
+    <Border Allegiance="It">0402 0502 0501 0601 0702 0802 0902 1001 1102 1202 1302 1401 1502 1601 1701 1801 1902 2002 2103 2203 2303 2403 2503 2502 2602 2702 2802 2902 2901 3001 3002 3103 3104 3105 3205 3206 3207 3208 3209 3210 3211 3212 3213 3214 3215 3216 3117 3016 2916 2815 2715 2615 2515 2414 2314 2213 2114 2013 1913 1812 1712 1711 1610 1609 1509 1408 1309 1308 1307 1306 1305 1304 1303 1202 1102 1002 0903 0803 0704 0604 0504 0503 0402</Border>
+    <Border Allegiance="Ki">2641 2741 2840 2940 3039 3038 3139 3238 3239 3340 3341 3241 3141 3041 2941 2841 2741 2641</Border>
+    -->
+  </Borders>
+</Sector>
