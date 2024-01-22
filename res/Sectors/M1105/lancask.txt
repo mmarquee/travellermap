@@ -2,26 +2,26 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 ---- -------------------- --------- -------------------- ---- ---- ---- - -- - --- - -- -------
 0102                      D859749-3                                     - S  - 903   Na        
 0107                      B100423-C Ni Va                               - S  - 400   Na        
-0109                      C382265-6 Lo Ni                               - -  - 704   Na        
-0110                      C457784-B Hi                                  - S  - 313   Na        
+0109                      C382265-6 Lo                                  - -  - 704   Na        
+0110                      C457784-9 Ag                                  - S  - 313   Na        
 0202                      C458641-8 Ag Ni                               - -  - 301   Na        
-0204                      B5A0000-7 Ba De Lo Ni                         - N  - 313   Na        
-0207                      C6747FG-8 Hi In                               - -  A 903   Na        
-0209                      C767674-8 Ag Ni Ri                            - S  A 632   Na        
-0210                      A7A3566-D Fl Ni                               - N  - 214   Na        
-0303                      C502227-6 Ic Lo Ni Va                         - S  - 905   Na        
+0204                      B5A0000-0 Ba He                               - -  - 013   Na        
+0207                      C6747FG-8 Ag Pi                               - -  A 603   Na        
+0209                      C767674-8 Ag Ni Ri Ga                         - S  A 632   Na        
+0210                      A7A3566-A Fl Ni                               - N  - 214   Na        
+0303                      C502227-6 Ic Lo Va                            - S  - 905   Na        
 0304                      C313411-A Ic Ni                               - S  - 200   Na        
-0306                      BAA4202-B Fl Lo Ni                            - -  - 704   Na        
-0307                      C756531-9 Ag Ni                               - S  - 303   Na        
-0310                      E5658C8-5                                     - -  - 800   Na        
+0306                      BAA4202-B Fl Lo                               - -  - 704   Na        
+0307                      C756531-9 Ag Ni Ga                            - S  - 303   Na        
+0310                      E5658C8-5 Ph Pa Ri                            - -  - 800   Na        
 0402                      C10059C-A Ni Va                               - S  - 902   Na        
-0406                      C456413-A Ni                                  - -  - 613   Na        
-0407                      C000589-9 As Ni                               - -  - 402   Na        
-0409                      E678000-2 Ba Lo Ni                            - -  - 603   Na        
-0410                      C558411-5 Ni                                  - -  - 810   Na        
-0501                      C699244-5 Lo Ni                               - -  - 813   Na        
-0502                      C201856-A Hi Ic Na Va                         - -  - 903   Na        
-0504                      C688498-6 Ni                                  - S  - 513   Na        
+0406                      C456413-A Ni Pa                               - -  - 613   Na        
+0407                      C000589-9 As Va Ni                            - -  - 402   Na        
+0409                      X678000-0 Ba                                  - -  - 003   Na        
+0410                      C558411-5 Ni Pa                               - -  - 810   Na        
+0501                      C699244-5 Lo                                  - -  - 813   Na        
+0502                      C201856-A Ph Pi Ic Na Va                      - -  - 903   Na        
+0504                      C688498-6 Ni Pa                               - S  - 513   Na        
 0508                      E565520-6 Ag Ni                               - -  - 402   Na        
 0509                      CAA9537-9 Fl Ni                               - -  - 734   Na        
 0601                      E67A424-8 Ni Wa                               - -  - 712   Na        
@@ -31,10 +31,10 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 0703                      C562488-9 Ni                                  - S  - 200   Na        
 0704                      B2108BE-7 Na                                  - S  - 203   Na        
 0706                      C54888A-5                                     - -  - 503   Na        
-0707                      C66288A-6 Hi                                  - S  - 304   Na        
+0707                      C66288A-6 Ph Ri                               - S  - 304   Na        
 0803                      A977668-9 Ag Ni                               - N  - 805   Na        
 0806                      C565120-4 Lo Ni                               - S  - 105   Na        
-0902                      E75A869-8 Hi Wa                               - -  - 400   Na        
+0902                      E75A869-8 Ph Wa                               - -  - 400   Na        
 0906                      C747675-5 Ag Ni                               - -  A 303   Na        
 0909                      B251677-B Ni Po                               - NS A 300   Na        
 1001                      B6867A9-7 Ag                                  - -  - 401   Na        
@@ -46,7 +46,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 1305                      C210467-A Ni                                  - -  - 602   Na        
 1308                      E76A432-9 Ni Wa                               - -  - 223   Na        
 1309                      C788665-3 Ag Ni Ri                            - S  - 425   Na        
-1401                      C2108BE-B Hi Na                               - -  - 724   Na        
+1401                      C2108BE-A Ph Pi Na                            - -  - 724   Na        
 1406                      B6A2863-7 Fl                                  - NS - 624   Na        
 1408                      C8B4855-6 Fl                                  - -  - 225   Na        
 1409                      C000678-6 As Na Ni                            - -  A 205   Na        
@@ -57,7 +57,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 1602                      D76A567-8 Ni Wa                               - S  - 603   Na        
 1605                      C72A78A-7 Wa                                  - S  - 901   Na        
 1607                      C547768-3 Ag                                  - S  - 320   Na        
-1610                      E4737B7-4 Hi In                               - -  - 705   Na        
+1610                      E4737B7-4 Pi                                  - -  - 705   Na        
 1701                      C303765-9 Ic Na Va                            - -  - 701   Na        
 1705                      B8797BC-9                                     - S  - 200   Na        
 1706                      C632575-5 Ni Po                               - -  A 404   Na        
@@ -88,7 +88,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 2402                      A536778-B Hi In                               - -  A 403   Na        
 2404                      E898257-5 Lo Ni                               - -  - 504   Na        
 2405                      C634854-8                                     - -  - 202   Na        
-2406                      D6108CF-9 Hi Na                               - S  - 602   Na        
+2406                      D6108CF-7 Hi Na                               - S  - 602   Na        
 2407                      C968664-6 Ag Ni Ri                            - -  - 503   Na        
 2410                      C140769-8 De Hi In Po                         - S  - 425   Na        
 2502                      E99A78A-6 Wa                                  - -  - 812   Na        
@@ -154,7 +154,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 0916                      X201420-1 Ic Ni Va                            - -  R 401   Na        
 0917                      C559200-9 Lo Ni                               - S  - 700   Na        
 1012                      E443123-5 Lo Ni Po                            - -  - 504   Na        
-1014                      C88A779-C Hi Wa                               - -  A 703   Na        
+1014                      C88A779-A Wa                                  - -  A 703   Na        
 1016                      C220897-A De Na Po                            - S  - 510   Na        
 1017                      B787315-A Lo Ni                               - -  - 211   Na        
 1018                      C484577-9 Ag Ni                               - -  A 701   Na        
@@ -173,17 +173,17 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 1312                      E300000-8 Ba Lo Ni Va                         - -  - 713   Na        
 1316                      C579566-A Ni                                  - S  - 404   Na        
 1319                      D230347-5 De Lo Ni Po                         - S  - 805   Na        
-1320                      C63477B-A Hi In                               - -  A 414   Na        
+1320                      C63477B-8 Hi In                               - -  A 414   Na        
 1411                      C541975-7 Hi In Po                            - S  A 605   Na        
 1414                      B511675-6 Ic Na Ni                            - N  A 402   Na        
-1516                      B565688-B Hi                                  - -  - 904   Na        
+1516                      B565688-A Hi                                  - -  - 904   Na        
 1517                      B100334-E Lo Ni Va                            - -  - 300   Na        
 1519                      E9B5400-9 Fl Ni                               - -  - 512   Na        
 1520                      C643697-8 Ni Po                               - S  - 514   Na        
 1614                      E424300-A Lo Ni                               - -  - 620   Na        
 1615                      C340200-9 De Lo Ni Po                         - S  - 700   Na        
 1616                      C6A049B-5 De Ni                               - -  - 512   Na        
-1711                      C000987-E As Hi Na                            - -  - 213   Na        
+1711                      C000987-B As Hi Na                            - -  - 213   Na        
 1712                      E7A258B-8 Fl Ni                               - -  - 223   Na        
 1716                      C574567-4 Ag Ni                               - -  - 904   Na        
 1717                      A6B4147-E Fl Lo Ni                            - -  - 104   Na        
@@ -248,9 +248,9 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 3213                      B9A4441-9 Fl Ni                               - N  - 915   Na        
 3214                      C5268C7-7 Hi In                               - -  - 203   Na        
 3216                      D535254-6 Lo Ni                               - S  - 812   Na        
-3219                      C6458DF-7 Hi In                               - -  - 504   Na        
+3219                      C6458DF-6 Hi In                               - -  - 504   Na        
 0125                      E220457-A De Ni Po                            - -  - 603   Na        
-0126                      D7867DB-6 Hi                                  - S  - 111   Na        
+0126                      D7867DB-3 Hi                                  - S  - 111   Na        
 0127                      C632530-7 Ni Po                               - -  - 903   Na        
 0128                      BAB4676-9 Fl Ni                               - -  A 310   Na        
 0221                      C36157B-8 Ni                                  - S  A 102   Na        
@@ -524,7 +524,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 2833                      C325542-8 Ni                                  - -  - 303   Na        
 2836                      C9C7330-8 Fl Lo Ni                            - S  - 510   Na        
 2838                      C9C5320-6 Fl Lo Ni                            - S  - 913   Na        
-2840                      A986110-D Lo Ni                               - -  - 703   Na        
+2840                      A986110-D Lo Ni                               - -  - 703   Na         
 2931                      E88A300-6 Lo Ni Wa                            - -  - 502   Na        
 2932                      C7A6000-5 Ba Fl Lo Ni                         - S  - 615   Na        
 2933                      A692764-B Hi In                               - N  - 204   Na        
