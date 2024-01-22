@@ -22,16 +22,30 @@
     <Subsector Index="O">Olannak</Subsector>
     <Subsector Index="P">Pocanask</Subsector>
   </Subsectors>
-  <Routes> 
+  <Routes>
+    <!-- Hide Rim Route
+    <Route Start="0209" End="0412" Type="10" />
+    <Route Start="0209" End="3107" EndOffsetX="-1" EndOffsetY="0" Type="10" />
+    <Route Start="0412" End="0516" Type="10" />
+    <Route Start="0516" End="0618" Type="10" />
+    <Route Start="0618" End="1020" Type="10" />
+    <Route Start="1020" End="1124" Type="10" />
+    <Route Start="1124" End="1327" Type="10" />
+    <Route Start="1327" End="1330" Type="10" />
+    <Route Start="1330" End="1533" Type="10" />
+    <Route Start="1533" End="1636" Type="10" />
+    <Route Start="1636" End="1940" Type="10" />
+    <Route Start="1940" End="2302" EndOffsetX="0" EndOffsetY="1" Type="10" />
+    -->
   </Routes>
   <Allegiances>
     <Allegiance Code="It">Itaurrec Unification</Allegiance>
     <Allegiance Code="Ki">Klushan Universal Imperium</Allegiance>
+    <Allegiance Code="Lr">Lasiir Domination</Allegiance>
   </Allegiances>
   <Borders>
-<!--
-    <Border Allegiance="It">0402 0502 0501 0601 0702 0802 0902 1001 1102 1202 1302 1401 1502 1601 1701 1801 1902 2002 2103 2203 2303 2403 2503 2502 2602 2702 2802 2902 2901 3001 3002 3103 3104 3105 3205 3206 3207 3208 3209 3210 3211 3212 3213 3214 3215 3216 3117 3016 2916 2815 2715 2615 2515 2414 2314 2213 2114 2013 1913 1812 1712 1711 1610 1609 1509 1408 1309 1308 1307 1306 1305 1304 1303 1202 1102 1002 0903 0803 0704 0604 0504 0503 0402</Border>
-    <Border Allegiance="Ki">2641 2741 2840 2940 3039 3038 3139 3238 3239 3340 3341 3241 3141 3041 2941 2841 2741 2641</Border>
-    -->
+    <Border Allegiance="Ki" Color="blue">1738 1838 1839 1940 2040 1940 1839 1739 1738</Border>
+    <Border Allegiance="It" Color="red">1536 1636 1736 1835 1834 1734 1834 1934 1935 2035 2136 2137 2237 2137 2036 1937 1836 1736 1636 1536</Border>
+    <Border Allegiance="Lr" Color="yellow">1926 2026 2126 2225 2326 2327 2427 2327 2227 2128 2027 2026</Border>
   </Borders>
 </Sector>
