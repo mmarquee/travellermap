@@ -26,7 +26,7 @@ Hex  Name                 UWP       Remarks                      {Ix}   (Ex)    
 0606                      C748365-9 Lo O:????                    { -1 } (D20-3) [3299] - S  - 504  9 NaXX M6 V
 0607                      E8A6678-7 Fl Ni                        { -3 } (752-1) [7316] - -  A 204 10 NaXX M7 V
 0610                      E150478-9 De Ni Po                     { -2 } (C30+2) [4279] - -  A 502  9 NaXX M0 V
-0702                      A314120-E Ic Lo                        {  1 } (D01+1) [123A] - -  - 604 11 NaXX G2 V M2 V M7 V
+0702                      A314120-B Ic Lo                        {  1 } (D01+1) [123A] - -  - 604 11 NaXX G2 V M2 V M7 V
 0705                      C000866-6 As Va Ph Na Pi O:XXXX        { -1 } (872+1) [9757] - S  - 903  8 NaXX M2 V M5 V 
 0708                      B86A445-B Ni Wa                        {  1 } (F32+2) [454A] - S  - 503 14 NaXX M9 V
 0710                      C87A225-9 Lo Wa                        { -1 } (A10+2) [316D] - S  - 903  8 NaXX F1 V
@@ -37,9 +37,9 @@ Hex  Name                 UWP       Remarks                      {Ix}   (Ex)    
 0902                      D413553-5 Ic Ni                        { -3 } (C43-4) [5243] - S  - 724 11 NaXX K8 V M5 V 
 0903                      E524100-4 Lo                           { -3 } (A00-2) [1182] - -  - 100  8 NaXX M2 V
 0904                      C986336-5 Lo                           { -2 } (620-2) [1177] - -  - 304  7 NaXX M1 V M3 V 
-0906                      A20047A-F Ni Va                        {  1 } (D33-5) [552F] - N  A 414 13 NaXX G1 V
+0906                      A20047A-C Ni Va                        {  1 } (D33-5) [552F] - N  A 414 13 NaXX G1 V
 0907                      X9A887A-2 Fl Ph                        { -2 } (779+1) [A645] - -  R 720  6 NaXX M0 V M2 V 
-1001                      B130755-E De Na Po                     {  2 } (C68-1) [799F] - S  - 204 13 NaXX M5 V M6 V 
+1001                      B130755-A De Na Po                     {  2 } (C68-1) [799F] - S  - 204 13 NaXX M5 V M6 V 
 1002                      C8B4322-8 Fl Lo                        { -2 } (920+1) [1169] - S  - 923 12 NaXX M6 V M7 V 
 1004                      B9A5764-8 Fl                           {  0 } (668+2) [971C] - N  - 312 12 NaXX M8 V
 1005                      C646543-6 Ag Ni                        { -1 } (A45+1) [5446] - S  - 603 12 NaXX G9 V
@@ -173,7 +173,7 @@ Hex  Name                 UWP       Remarks                      {Ix}   (Ex)    
 0512                      B65A100-A Lo Wa                        {  1 } (C01+1) [121B] - -  - 323 13 NaXX K0 V M2 V M9 V
 0513                      D568301-4 Lo                           { -3 } (220+5) [4134] - -  - 831  7 NaXX A1 V
 0514                      C000453-C Va As Ni                     {  0 } (636-1) [1439] - -  - 502 12 NaXX M6 V
-0515 Erruat               A636522-E Ni                           {  2 } (847+2) [873A] - NS - 614  9 NaXX G2 V M1 V 
+0515 Erruat               A636522-C Ni                           {  2 } (847+2) [873A] - NS - 614  9 NaXX G2 V M1 V 
 0517                      C510420-A Ni                           {  0 } (533+1) [145A] - -  - 100  6 NaXX M6 V M9 V
 0519                      C5A2544-5 He Fl Ni                     { -2 } (844-2) [6324] - -  - 104 14 NaXX M1 V
 0520                      D637301-6 Lo                           { -3 } (820-1) [5172] - S  - 811  8 NaXX M6 V
@@ -206,7 +206,7 @@ Hex  Name                 UWP       Remarks                      {Ix}   (Ex)    
 1316                      E511154-7 Ic Lo                        { -3 } (500+1) [5138] - -  - 100  7 NaXX F6 V M0 V
 1317                      C459333-7 Lo                           { -2 } (420-2) [6196] - S  - 710 10 NaXX M0 V M8 V
 1319                      C75A522-A Ni Wa                        {  0 } (643+2) [157D] - S  - 500 11 NaXX M0 V
-1411                      B210401-E Ni                           {  1 } (735-2) [758C] - N  - 812 11 NaXX F7 V
+1411                      B210401-C Ni                           {  1 } (735-2) [758C] - N  - 812 11 NaXX F7 V
 1412 Sberesta             C97A997-9 Hi In Wa                     {  2 } (E88+2) [5B36] - S  - 304 12 NaXX G3 V
 1413 Flataur              B636989-A Hi                           {  3 } (B8D+1) [EC38] - S  - 403  9 NaXX M0 V M0 V
 1414                      C4307CF-A De Na Po                     {  1 } (F6A+1) [589A] - S  - 414 16 NaXX M0 V
@@ -365,7 +365,7 @@ Hex  Name                 UWP       Remarks                      {Ix}   (Ex)    
 1426                      C566320-5 Lo                           { -2 } (720+1) [5154] - -  - 104 14 NaXX K3 V M2 V
 1427                      D452645-4 Ni Po                        { -3 } (952+2) [4341] - S  - 504 12 NaXX K6 V M5 V
 1430                      C200889-6 Na Va Ph Pi                  { -1 } (578+5) [8763] - S  A 502 11 NaXX M3 V
-1521                      A425455-E Ni                           {  1 } (B32+4) [351F] - N  - 613 11 NaXX K7 V M6 V 
+1521                      A425455-C Ni                           {  1 } (B32+4) [351F] - N  - 613 11 NaXX K7 V M6 V 
 1523                      B422787-C He Na Po Pi                  {  2 } (B66+1) [597A] - -  - 323 10 NaXX G1 V
 1524                      B541557-9 He Ni Po                     {  0 } (A41-3) [35AB] - N  - 324 10 NaXX A6 V K2 V
 1622                      D885663-5 Ga Ag Ni Ri                  { -1 } (455-2) [7564] - S  - 503 10 NaXX M9 V
@@ -388,7 +388,7 @@ Hex  Name                 UWP       Remarks                      {Ix}   (Ex)    
 1928                      B222630-7 Na Ni Po                     { -1 } (850+3) [3596] - N  - 620 15 NaXX F8 V M4 V
 2023                      E568514-5 Ag Ni Pr                     { -2 } (443-1) [3389] - -  - 403 10 NaXX M8 V M9 V 
 2024                      B4728A8-8 He Ph Pi                     {  0 } (977+1) [C88D] - -  - 513 13 NaXX K8 V M7 V
-2124                      A400511-F Ni Va                        {  1 } (A42+2) [269C] - -  - 900 10 NaXX M0 V
+2124                      A400511-B Ni Va                        {  1 } (A42+2) [269C] - -  - 900 10 NaXX M0 V
 2125                      D340655-7 He De Po Ni                  { -3 } (551+1) [7356] - -  - 210 13 NaXX M4 V M8 V
 2126                      C200114-A Lo Va                        {  0 } (600+1) [41AB] - -  - 304 10 NaXX M6 V M6 V
 2128                      B572202-9 He Lo                        {  0 } (710+1) [1256] - N  - 503  9 NaXX M4 V M5 V 
@@ -526,7 +526,7 @@ Hex  Name                 UWP       Remarks                      {Ix}   (Ex)    
 1437                      C30069B-9 Na Ni Va                     { -1 } (254+4) [8568] - -  - 800  7 NaXX M3 V M8 V
 1532                      EAD1651-6 Ni                           { -3 } (551+1) [9336] - -  - 402  9 NaXX M4 V
 1533 Natuaan              C4629CA-8 Hi Pr                        {  0 } (886-3) [B948] - -  - 803  8 NaXX M1 V M3 V
-1534                      A000405-F As Va Ni                     {  1 } (634+1) [555F] - N  - 700  6 NaXX F9 IV
+1534                      A000405-C As Va Ni                     {  1 } (634+1) [555F] - N  - 700  6 NaXX F9 IV
 1535                      B493441-7 Ni                           { -1 } (731-2) [9376] - -  - 704 10 NaXX K4 V M8 V
 1536                      B100478-D Ni Va                        {  1 } (635+1) [551E] - -  A 600  7 NaXX M2 V
 1537                      B455623-A Ag Ni                        {  2 } (958+1) [6897] - N  - 404 10 NaXX M3 V
