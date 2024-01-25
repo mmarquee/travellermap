@@ -22,12 +22,10 @@
     <Subsector Index="P">Pluast</Subsector>
   </Subsectors>
   <Routes>
-    <!-- Hide Rim Route
     <Route Start="2601" End="2339" EndOffsetX="0" EndOffsetY="-1" Type="10" />
     <Route Start="2601" End="2705" Type="10" />
     <Route Start="2705" End="3107" Type="10" />
     <Route Start="3107" End="0209" EndOffsetX="1" EndOffsetY="0" Type="10" />
-    -->
   </Routes>
   <Allegiances>
     <Allegiance Code="Hi">Hillayag Federation</Allegiance>

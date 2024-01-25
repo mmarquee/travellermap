@@ -23,7 +23,6 @@
     <Subsector Index="P">Pocanask</Subsector>
   </Subsectors>
   <Routes>
-    <!-- Hide Rim Route
     <Route Start="0209" End="0412" Type="10" />
     <Route Start="0209" End="3107" EndOffsetX="-1" EndOffsetY="0" Type="10" />
     <Route Start="0412" End="0516" Type="10" />
@@ -36,7 +35,6 @@
     <Route Start="1533" End="1636" Type="10" />
     <Route Start="1636" End="1940" Type="10" />
     <Route Start="1940" End="2302" EndOffsetX="0" EndOffsetY="1" Type="10" />
-    -->
   </Routes>
   <Allegiances>
     <Allegiance Code="It">Itaurrec Unification</Allegiance>
