@@ -638,6 +638,11 @@
     <Content Include="res\Sectors\M1105\Harbinger.txt" />
     <Content Include="res\Sectors\M1105\Harea.txt" />
     <Content Include="res\Sectors\M1105\Harea.xml" />
+    <Content Include="res\Sectors\M1105\Folprack.sec" />
+    <Content Include="res\Sectors\M1105\Dilk.sec" />
+    <Content Include="res\Sectors\M1105\Amkril.sec" />
+    <Content Include="res\Sectors\M1105\Julienne.sec" />
+    <None Include="res\Sectors\M1105\Haust.sec" />
     <Content Include="res\Sectors\M1105\Heakhafaw.sec" />
     <Content Include="res\Sectors\M1105\Hfiywitir.txt" />
     <Content Include="res\Sectors\M1105\Hinterworlds.tab" />
@@ -671,6 +676,8 @@
     <Content Include="res\Sectors\M1105\Binaurie.sec" />
     <Content Include="res\Sectors\M1105\Femengaal.sec" />
     <Content Include="res\Sectors\M1105\Grevanne.sec" />
+    <Content Include="res\Sectors\M1105\Koirtrua.sec" />
+    <Content Include="res\Sectors\M1105\Gimbaine.sec" />
     <None Include="res\Sectors\M1105\Iturokil.sec" />
     <Content Include="res\Sectors\M1105\Itvikiastaf.xml" />
     <Content Include="res\Sectors\M1105\Iwahfuah.tab" />
@@ -841,6 +848,7 @@
     <Content Include="res\Sectors\M1105\Kwaaok.sec" />
     <Content Include="res\Sectors\M1105\Lampaanier.sec" />
     <Content Include="res\Sectors\M1105\Lazulu.sec" />
+    <Content Include="res\Sectors\M1105\Kaqvir.sec" />
     <None Include="res\Sectors\M1105\Mawass.sec" />
     <Content Include="res\Sectors\M1105\Wrenton.txt" />
     <Content Include="res\Sectors\M1105\Wrenton.xml" />
@@ -890,6 +898,15 @@
     <Content Include="res\Sectors\M1105\Uumpallu.sec" />
     <Content Include="res\Sectors\M1105\Yasktier.sec" />
     <Content Include="res\Sectors\M1105\Wobanna.sec" />
+    <Content Include="res\Sectors\M1105\Orna.sec" />
+    <Content Include="res\Sectors\M1105\Uaftdual.sec" />
+    <Content Include="res\Sectors\M1105\Ultret.sec" />
+    <Content Include="res\Sectors\M1105\Quavos.sec" />
+    <Content Include="res\Sectors\M1105\Winkrill.sec" />
+    <Content Include="res\Sectors\M1105\Muertos.sec" />
+    <Content Include="res\Sectors\M1105\Nuuvaal.sec" />
+    <Content Include="res\Sectors\M1105\Sporinne.sec" />
+    <Content Include="res\Sectors\M1105\Vokral.sec" />
     <None Include="res\Sectors\M1105\Zlekkenn.sec" />
     <Content Include="res\Sectors\M1105\Zortakh.sec" />
     <Content Include="res\Sectors\M1120\1120_Core.sec" />

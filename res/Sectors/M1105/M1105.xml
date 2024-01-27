@@ -3126,6 +3126,7 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Y>7</Y>
     <X>6</X>
     <Name Lang="hv" Publisher="HIWG">Uaftdual</Name>
+    <DataFile>Uaftdual.sec</DataFile>
     <Routes>
       <Route Start="0202" End="3140" EndOffsetX="-1" EndOffsetY="-1" Type="2" />
       <Route Start="0202" End="0306" Type="2" />
@@ -3155,15 +3156,28 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Y>7</Y>
     <X>7</X>
     <Name Lang="hv" Publisher="HIWG">Orna</Name>
+    <DataFile>Orna.sec</DataFile>
+    <Routes>
+      <Route Start="0312" End="0613" Type="10" />
+      <Route Start="0312" End="3110" EndOffsetX="-1" EndOffsetY="0" Type="10" />
+      <Route Start="0613" End="0717" Type="10" />
+      <Route Start="0717" End="1019" Type="10" />
+      <Route Start="1019" End="1121" Type="10" />
+      <Route Start="1121" End="1523" Type="10" />
+      <Route Start="1523" End="1824" Type="10" />
+      <Route Start="1824" End="2027" Type="10" />
+      <Route Start="2027" End="2230" Type="10" />
+      <Route Start="2230" End="2334" Type="10" />
+      <Route Start="2334" End="2437" Type="10" />
+      <Route Start="2437" End="2640" Type="10" />
+      <Route Start="2640" End="2903" EndOffsetX="0" EndOffsetY="1" Type="10" />
+    </Routes>
   </Sector>
   <Sector>
     <Y>7</Y>
     <X>8</X>
     <Name Lang="hv" Publisher="HIWG">Noontask</Name>
   </Sector>
-
-
-
   <Sector>
     <Y>8</Y>
     <X>2</X>
@@ -3195,20 +3209,58 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Y>8</Y>
     <X>7</X>
     <Name Lang="hv" Publisher="HIWG">Koirtrua</Name>
+    <DataFile>Koirtrua.sec</DataFile>
+    <Routes>
+      <Route Start="0302" End="0405" Type="2" />
+      <Route Start="0302" End="3240" EndOffsetX="-1" EndOffsetY="-1" Type="2" />
+      <Route Start="0405" End="0608" Type="2" />
+      <Route Start="0608" End="0711" Type="2" />
+      <Route Start="0711" End="1013" Type="2" />
+      <Route Start="1013" End="1215" Type="2" />
+      <Route Start="1215" End="1418" Type="2" />
+      <Route Start="1418" End="1621" Type="2" />
+      <Route Start="1621" End="1823" Type="2" />
+      <Route Start="1823" End="2026" Type="2" />
+      <Route Start="2026" End="2229" Type="2" />
+      <Route Start="2229" End="2333" Type="2" />
+      <Route Start="2333" End="2635" Type="2" />
+      <Route Start="2635" End="3036" Type="2" />
+      <Route Start="3036" End="0139" EndOffsetX="1" EndOffsetY="0" Type="2" />
+      <Route Start="2903" End="2640" EndOffsetX="0" EndOffsetY="-1" Type="10" />
+      <Route Start="2903" End="3106" Type="10" />
+      <Route Start="3106" End="0107" EndOffsetX="1" EndOffsetY="0" Type="10" />
+    </Routes>
   </Sector>
   <Sector>
     <Y>8</Y>
     <X>8</X>
     <Name Lang="hv" Publisher="HIWG">Ultret</Name>
+    <DataFile>Ultret.sec</DataFile>
     <Routes>
       <Route Start="0139" End="0302" EndOffsetX="0" EndOffsetY="1" Type="2" />
       <Route Start="0139" End="3036" EndOffsetX="-1" EndOffsetY="0" Type="2" />
+
+
+      <Route Start="0107" End="3106" EndOffsetX="-1" EndOffsetY="0" Type="10" />
+      <Route Start="0107" End="0310" Type="10" />
+      <Route Start="0310" End="0413" Type="10" />
+      <Route Start="0413" End="0716" Type="10" />
+      <Route Start="0716" End="0919" Type="10" />
+      <Route Start="0919" End="1122" Type="10" />
+      <Route Start="1122" End="1225" Type="10" />
+      <Route Start="1225" End="1528" Type="10" />
+      <Route Start="1528" End="1830" Type="10" />
+      <Route Start="1830" End="2232" Type="10" />
+      <Route Start="2232" End="2634" Type="10" />
+      <Route Start="2634" End="2837" Type="10" />
+      <Route Start="2837" End="3040" Type="10" />
+      <Route Start="3040" End="0202" EndOffsetX="1" EndOffsetY="1" Type="10" />
+      
+      
+      
     </Routes>
   </Sector>
 
-
-
-  <!-- Names of the Rim Route -->
   <Sector>
     <Y>9</Y>
     <X>8</X>
@@ -4670,6 +4722,160 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     </Routes>
   </Sector>
 
+  <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+    <X>41</X>
+    <Y>42</Y>
+    <Name>Amkril</Name>
+    <DataFile>Amkril.sec</DataFile>
+  </Sector>
+  <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+    <X>42</X>
+    <Y>42</Y>
+    <Name>Sporinne</Name>
+    <DataFile>Sporinne.sec</DataFile>
+  </Sector>
+  <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+    <X>42</X>
+    <Y>43</Y>
+    <Name>Dilk</Name>
+    <DataFile>Dilk.sec</DataFile>
+  </Sector>
+  <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+    <X>41</X>
+    <Y>43</Y>
+    <Name>Vokral</Name>
+    <DataFile>Vokral.sec</DataFile>
+  </Sector>
+  <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+    <X>43</X>
+    <Y>43</Y>
+    <Name>Folprack</Name>
+    <DataFile>Folprack.sec</DataFile>
+  </Sector>
+  <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+    <X>43</X>
+    <Y>44</Y>
+    <Name>Gimbaine</Name>
+    <DataFile>Gimbaine.sec</DataFile>
+  </Sector>
+  <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+    <X>44</X>
+    <Y>44</Y>
+    <Name>Haust</Name>
+    <DataFile>Haust.sec</DataFile>
+  </Sector>
+  <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+    <X>44</X>
+    <Y>45</Y>
+    <Name>Julienne</Name>
+    <DataFile>Julienne.sec</DataFile>
+  </Sector>
+  <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+    <X>45</X>
+    <Y>45</Y>
+    <Name>Kaqvir</Name>
+    <DataFile>Kaqvir.sec</DataFile>
+  </Sector>
+  <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+    <X>45</X>
+    <Y>46</Y>
+    <Name>Nuuvaal</Name>
+    <DataFile>Nuuvaal.sec</DataFile>
+  </Sector>
+
+  <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+    <X>46</X>
+    <Y>46</Y>
+    <Name>Muertos</Name>
+    <DataFile>Muertos.sec</DataFile>
+  </Sector>
+
+    <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+    <X>46</X>
+    <Y>47</Y>
+    <Name>Quavos</Name>
+    <DataFile>Quavos.sec</DataFile> 
+    <Subsectors>
+      <Subsector Index="A">Aqav</Subsector>
+      <Subsector Index="B">Baqan</Subsector>
+      <Subsector Index="C">Caqass</Subsector>
+      <Subsector Index="D">Deqos</Subsector>
+      <Subsector Index="E">Equie</Subsector>
+      <Subsector Index="F">Feqav</Subsector>
+      <Subsector Index="G">Gavaq</Subsector>
+      <Subsector Index="H">Hoqaz</Subsector>
+      <Subsector Index="I">Iquinnas</Subsector>
+      <Subsector Index="J">Jaqwa</Subsector>
+      <Subsector Index="K">Kalkasq</Subsector>
+      <Subsector Index="L">Lamaq</Subsector>
+      <Subsector Index="M">Minquil</Subsector>
+      <Subsector Index="N">Nyqan</Subsector>
+      <Subsector Index="O">Oqava</Subsector>
+      <Subsector Index="P">Paqaq</Subsector>
+    </Subsectors>
+    <Routes>
+      <Route Start="0514" End="0711" Type="2" />
+      <Route Start="0514" End="0717" Type="2" />
+      <Route Start="0608" End="0711" Type="2" />
+      <Route Start="0608" End="0806" Type="2" />
+      <Route Start="0701" End="0738" EndOffsetX="0" EndOffsetY="-1" Type="2" />
+      <Route Start="0701" End="0803" Type="2" />
+      <Route Start="0717" End="0920" Type="2" />
+      <Route Start="0803" End="0806" Type="2" />
+      <Route Start="0920" End="1322" Type="2" />
+      <Route Start="1322" End="1724" Type="2" />
+      <Route Start="1724" End="1827" Type="2" />
+      <Route Start="1827" End="2129" Type="2" />
+      <Route Start="2129" End="2430" Type="2" />
+      <Route Start="2430" End="2729" Type="2" />
+      <Route Start="2729" End="2928" Type="2" />
+      <Route Start="2926" End="2928" Type="10" />
+      <Route Start="2926" End="3023" Type="10" />
+      <Route Start="3001" End="0203" EndOffsetX="1" EndOffsetY="0" Type="10" />
+      <Route Start="3001" End="2640" EndOffsetX="0" EndOffsetY="-1" Type="10" />
+      <Route Start="3019" End="3023" Type="10" />
+      <Route Start="3019" End="3217" Type="10" />
+      <Route Start="3114" End="0211" EndOffsetX="1" EndOffsetY="0" Type="10" />
+      <Route Start="3114" End="3217" Type="10" />
+    </Routes>
+    <Allegiances>
+    </Allegiances>
+    <Borders>
+    </Borders>
+  </Sector>
+
+  <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+    <X>47</X>
+    <Y>47</Y>
+    <Name>Winkrill</Name>
+    <DataFile>Winkrill.sec</DataFile>  
+    <Subsectors>
+      <Subsector Index="A">Awin</Subsector>
+      <Subsector Index="B">Baween</Subsector>
+      <Subsector Index="C">Cekrill</Subsector>
+      <Subsector Index="D">Dewin</Subsector>
+      <Subsector Index="E">Ekraw</Subsector>
+      <Subsector Index="F">Finkra</Subsector>
+      <Subsector Index="G">Genwa</Subsector>
+      <Subsector Index="H">Hink</Subsector>
+      <Subsector Index="I">Inkrall</Subsector>
+      <Subsector Index="J">Jinkreen</Subsector>
+      <Subsector Index="K">Krill</Subsector>
+      <Subsector Index="L">Linkrin</Subsector>
+      <Subsector Index="M">Mawin</Subsector>
+      <Subsector Index="N">Namill</Subsector>
+      <Subsector Index="O">Owiin</Subsector>
+      <Subsector Index="P">Pakrin</Subsector>
+    </Subsectors>
+    <Routes>
+      <Route Start="0203" End="0207" Type="10" />
+      <Route Start="0203" End="3001" EndOffsetX="-1" EndOffsetY="0" Type="10" />
+      <Route Start="0207" End="0211" Type="10" />
+      <Route Start="0211" End="3114" EndOffsetX="-1" EndOffsetY="0" Type="10" />
+    </Routes>
+  </Sector>
+
+  
   <!-- Distant Rimward Corridor Sectors -->
 
   <Sector>
