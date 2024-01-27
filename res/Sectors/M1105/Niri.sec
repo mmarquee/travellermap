@@ -261,7 +261,6 @@ D-4           2602 E34757A-6    Ag Ni           B  304 Df
 D-5           2605 C402855-8  S Ic Na Va           505 Na
 D-6           2607 D686873-3    Ri              B  321 Na
 D-7           2702 CA8A200-7    Lo Ni Wa           612 Df
-Avayan        2703 B559689-8    Ni                 614 Df
 D-9           2710 B5A36BB-6    Fl Ni              600 Mp
 D-10          2802 A454896-D                       420 Df
 D-11          2804 D465798-7  S Ag Ri              913 Na
@@ -272,10 +271,10 @@ D-15          2904 C66549C-8  S Ni                 304 Na
 D-16          2908 C6679B7-A    Hi                 304 Mp
 D-17          2910 C120889-B  D De Na Po           405 Mp
 D-18          3002 C368500-7    Ag Ni              813 Na
-Dlorra        3005 C403320-B  S Ic Lo Ni Va        414 Na
 D-20          3007 B747425-9  E Ni                 204 Mp
-D-21          3105 C433443-7  S Ni Po              324 Na
+Dlorra        3105 C403320-B  S Ic Lo Ni Va        414 Na 
 D-22          3106 C7558A6-5                       700 Na
+Avayan        3201 B559689-8    Ni                 614 Df
 D-23          3207 CAB49CH-9  S Fl Hi           A  400 Na
 D-24          3209 D99668D-6    Ag Ni              203 Mp
 D-25          3210 B525448-A    Ni                 913 Mp

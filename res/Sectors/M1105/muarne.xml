@@ -22,26 +22,26 @@
     <Subsector Index="P">Pluast</Subsector>
   </Subsectors>
   <Routes>
-    <Route Start="2601" End="2339" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-    <Route Start="2601" End="2705" Type="10" />
-    <Route Start="2705" End="3107" Type="10" />
-    <Route Start="3107" End="0209" EndOffsetX="1" EndOffsetY="0" Type="10" />
+    <Route Start="2601" End="2339" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+    <Route Start="2601" End="2705" Color="Blue" Style="Dashed" />
+    <Route Start="2705" End="3107" Color="Blue" Style="Dashed" />
+    <Route Start="3107" End="0209" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
 
-    <Route Start="0220" End="3220" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-    <Route Start="0220" End="0521" Type="10" />
-    <Route Start="0922" End="0521" Type="10" />
-    <Route Start="0922" End="1123" Type="10" />
-    <Route Start="1524" End="1123" Type="10" />
-    <Route Start="1524" End="1726" Type="10" />
-    <Route Start="2027" End="1726" Type="10" />
-    <Route Start="2027" End="2130" Type="10" />
-    <Route Start="2430" End="2130" Type="10" />
-    <Route Start="2430" End="2632" Type="10" />
-    <Route Start="2834" End="2632" Type="10" />
-    <Route Start="2834" End="2936" Type="10" />
-    <Route Start="3138" End="2936" Type="10" />
-    <Route Start="3138" End="3140" Type="10" />
-    <Route Start="3140" End="0202" EndOffsetX="1" EndOffsetY="1" Type="10" />
+    <Route Start="0220" End="3220" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+    <Route Start="0220" End="0521" Color="Yellow" Style="Dashed" />
+    <Route Start="0922" End="0521" Color="Yellow" Style="Dashed" />
+    <Route Start="0922" End="1123" Color="Yellow" Style="Dashed" />
+    <Route Start="1524" End="1123" Color="Yellow" Style="Dashed" />
+    <Route Start="1524" End="1726" Color="Yellow" Style="Dashed" />
+    <Route Start="2027" End="1726" Color="Yellow" Style="Dashed" />
+    <Route Start="2027" End="2130" Color="Yellow" Style="Dashed" />
+    <Route Start="2430" End="2130" Color="Yellow" Style="Dashed" />
+    <Route Start="2430" End="2632" Color="Yellow" Style="Dashed" />
+    <Route Start="2834" End="2632" Color="Yellow" Style="Dashed" />
+    <Route Start="2834" End="2936" Color="Yellow" Style="Dashed" />
+    <Route Start="3138" End="2936" Color="Yellow" Style="Dashed" />
+    <Route Start="3138" End="3140" Color="Yellow" Style="Dashed" />
+    <Route Start="3140" End="0202" EndOffsetX="1" EndOffsetY="1" Color="Yellow" Style="Dashed" />
   </Routes>
   <Allegiances>
     <Allegiance Code="Hi">Hillayag Federation</Allegiance>

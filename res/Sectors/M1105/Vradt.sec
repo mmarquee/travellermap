@@ -843,38 +843,18 @@ M-1           0137 D67A474-9    Ni Wa           B  924 Na
 M-2           0138 B432553-A  D Ni Po              710 Ic
 M-3           0139 C1005AA-8  D Ni Va              104 Ic
 M-4           0140 C300845-6    Na Va              223 Ic
-M-5           0231 EA7A212-4    Lo Ni Wa           513 Ic
-M-6           0235 B410300-A  E Lo Ni              922 Ic
-M-7           0236 C574834-8  D                    225 Ic
-M-8           0238 C858204-7  E Lo Ni              200 Ic
-M-9           0239 B667856-9  D Ri                 705 Ic
+M-5           0231 EA7A212-4    Lo Ni Wa           513 Ic 
 M-10          0240 C764457-A    Ni                 103 Ic
 M-11          0331 B432896-9  G Na Po              734 Ic
-M-12          0332 C23046A-9    De Ni Po           600 Ic
-M-13          0333 D200897-3  G Na Va              915 Ic
-M-14          0334 A345A76-D    Hi In           B  111 Na
-M-15          0336 C44467B-9    Ag Ni           B  400 Na
+M-12          0332 C23046A-9    De Ni Po           600 Ic 
 M-16          0338 D656400-8    Ni                 903 Na
 M-17          0340 EAD5694-2    Fl Ni              824 Na
 M-18          0432 B5968AB-8  D                    400 Ic
-M-19          0433 C502220-5  E Ic Lo Ni Va        300 Ic
-M-20          0439 C513564-6  S Ic Ni              511 Na
-M-21          0440 C8A2389-7  S Fl Lo Ni           913 Na
-M-22          0532 A331103-E  H Lo Ni Po           805 Ic
-M-23          0535 E667557-4    Ag Ni              505 Na
+M-19          0433 C502220-5  E Ic Lo Ni Va        300 Ic 
 M-24          0538 CAA9562-8    Fl Ni              610 Na
-M-25          0540 C343662-8  S Ni Po              112 Na
-M-26          0631 B520578-C    De Ni Po        B  302 Na
-M-27          0632 B323410-A  E Ni Po              504 Ic
-M-28          0636 C532100-B  S Lo Ni Po           320 Na
-M-29          0639 E130555-8    De Ni Po           601 Na
+M-25          0540 C343662-8  S Ni Po              112 Na 
 M-30          0640 C888104-7    Lo Ni              413 Na
-M-31          0731 C566788-4  D Ag Ri              203 Ic
-M-32          0732 B585549-8    Ag Ni              325 Ic
-M-33          0737 C3449AB-9    Hi In              701 Na
-M-34          0738 A310346-E  N Lo Ni              802 Na
-M-35          0831 E8558AA-6                       715 Ic
-M-36          0836 X360232-4    De Lo           R  524 Na
+M-31          0731 C566788-4  D Ag Ri              203 Ic  
 
 
 ----------------------------------------------------------------------
@@ -896,43 +876,12 @@ $1539 1837 1 0 13
 $1632 1733 1 0 13
 #--------1---------2---------3---------4---------5---------6---
 #PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
-#----------   ---- ---------  - --------------- -  --- -- --- -
-N-1           0932 C767564-6    Ag Ni              313 Ic
-N-2           0933 B588563-9  D Ag Ni              700 Ic
-N-3           0936 C541300-5    Lo Ni Po           200 Na
-N-4           1031 C7A3237-6  E Fl Lo Ni           900 Ic
-N-5           1032 E556404-4    Ni                 803 Ic
-N-6           1033 C384231-A    Lo Ni              103 Ic
-N-7           1034 B533342-7  E Lo Ni Po           803 Ic
-N-8           1037 D797314-3  S Lo Ni              505 Na
-N-9           1038 C89A78A-7    Wa                 125 Na
+#----------   ---- ---------  - --------------- -  --- -- --- - 
 N-10          1039 D46178A-4    Ri                 404 Na
 N-11          1132 D476222-4  E Lo Ni              101 Ic
-N-12          1136 E768322-2    Lo Ni              424 Ic
-N-13          1138 C65A788-A    Wa                 902 Na
-N-14          1139 E43268B-7    Na Ni Po           704 Na
-N-15          1235 B232562-8  D Ni Po              804 Ic
-N-16          1236 C545522-9  D Ag Ni              604 Ic
-N-17          1331 DA5A462-7    Ni Wa              204 Ic
-N-18          1332 C443354-7  E Lo Ni Po           800 Ic
-N-19          1333 C663502-5    Ni                 703 Ic
-N-20          1334 B58A401-9  E Ni Wa              300 Ic
-N-21          1335 E434AEG-8    Hi In           A  402 Ic
 N-22          1432 X746473-0  I                 R  101 Ic
-N-23          1434 C7B0000-6  H Ba De Lo Ni     A  204 Ic
-N-24          1435 C000888-B    As Na              401 Ic
-N-25          1436 B400651-B    Na Ni Va           604 Ic
-N-26          1437 C695644-3    Ag Ni              402 Ic
 N-27          1439 D5A4357-6  E Fl Lo Ni           704 Ic
-N-28          1532 E456410-4    Ni                 413 Ic
-N-29          1533 D87798A-3    Hi In              904 Ic
-N-30          1534 C67666A-8  D Ag Ni              513 Ic
-N-31          1535 C202015-A  H Ic Lo Ni Va        213 Ic
-N-32          1536 D99A686-3    Ni Wa              620 Ic
-N-33          1539 A2008CD-C    Na Va              912 Ic
-N-34          1632 B54A967-B    Hi In Wa           605 Ic
-N-35          1634 C537325-7    Lo Ni              902 Ic
-N-36          1638 D9C2768-4  G Fl              A  805 Ic
+N-28          1532 E456410-4    Ni                 413 Ic 
 
 
 ----------------------------------------------------------------------

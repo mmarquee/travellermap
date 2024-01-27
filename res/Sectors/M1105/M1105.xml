@@ -3128,28 +3128,28 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name Lang="hv" Publisher="HIWG">Uaftdual</Name>
     <DataFile>Uaftdual.sec</DataFile>
     <Routes>
-      <Route Start="0202" End="3140" EndOffsetX="-1" EndOffsetY="-1" Type="2" />
-      <Route Start="0202" End="0306" Type="2" />
-      <Route Start="0306" End="0310" Type="2" />
-      <Route Start="0310" End="0412" Type="2" />
-      <Route Start="0412" End="0516" Type="2" />
-      <Route Start="0516" End="0619" Type="2" />
-      <Route Start="0619" End="0623" Type="2" />
-      <Route Start="0623" End="0926" Type="2" />
-      <Route Start="0926" End="1129" Type="2" />
-      <Route Start="1129" End="1531" Type="2" />
-      <Route Start="1531" End="1933" Type="2" />
-      <Route Start="1933" End="2233" Type="2" />
-      <Route Start="2233" End="2536" Type="2" />
-      <Route Start="2536" End="2938" Type="2" />
-      <Route Start="2938" End="3240" Type="2" />
-      <Route Start="3240" End="0302" EndOffsetX="1" EndOffsetY="1" Type="2" />
+      <Route Start="0202" End="3140" EndOffsetX="-1" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0202" End="0306" Color="Yellow" Style="Dashed" />
+      <Route Start="0306" End="0310" Color="Yellow" Style="Dashed" />
+      <Route Start="0310" End="0412" Color="Yellow" Style="Dashed" />
+      <Route Start="0412" End="0516" Color="Yellow" Style="Dashed" />
+      <Route Start="0516" End="0619" Color="Yellow" Style="Dashed" />
+      <Route Start="0619" End="0623" Color="Yellow" Style="Dashed" />
+      <Route Start="0623" End="0926" Color="Yellow" Style="Dashed" />
+      <Route Start="0926" End="1129" Color="Yellow" Style="Dashed" />
+      <Route Start="1129" End="1531" Color="Yellow" Style="Dashed" />
+      <Route Start="1531" End="1933" Color="Yellow" Style="Dashed" />
+      <Route Start="1933" End="2233" Color="Yellow" Style="Dashed" />
+      <Route Start="2233" End="2536" Color="Yellow" Style="Dashed" />
+      <Route Start="2536" End="2938" Color="Yellow" Style="Dashed" />
+      <Route Start="2938" End="3240" Color="Yellow" Style="Dashed" />
+      <Route Start="3240" End="0302" EndOffsetX="1" EndOffsetY="1" Color="Yellow" Style="Dashed" />
 
-      <Route Start="2302" End="1940" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="2302" End="2604" Type="10" />
-      <Route Start="2604" End="2807" Type="10" />
-      <Route Start="2807" End="3110" Type="10" />
-      <Route Start="3110" End="0312" EndOffsetX="1" EndOffsetY="0" Type="10" />
+      <Route Start="2302" End="1940" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="2302" End="2604" Color="Blue" Style="Dashed" />
+      <Route Start="2604" End="2807" Color="Blue" Style="Dashed" />
+      <Route Start="2807" End="3110" Color="Blue" Style="Dashed" />
+      <Route Start="3110" End="0312" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector>
@@ -3158,19 +3158,19 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name Lang="hv" Publisher="HIWG">Orna</Name>
     <DataFile>Orna.sec</DataFile>
     <Routes>
-      <Route Start="0312" End="0613" Type="10" />
-      <Route Start="0312" End="3110" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-      <Route Start="0613" End="0717" Type="10" />
-      <Route Start="0717" End="1019" Type="10" />
-      <Route Start="1019" End="1121" Type="10" />
-      <Route Start="1121" End="1523" Type="10" />
-      <Route Start="1523" End="1824" Type="10" />
-      <Route Start="1824" End="2027" Type="10" />
-      <Route Start="2027" End="2230" Type="10" />
-      <Route Start="2230" End="2334" Type="10" />
-      <Route Start="2334" End="2437" Type="10" />
-      <Route Start="2437" End="2640" Type="10" />
-      <Route Start="2640" End="2903" EndOffsetX="0" EndOffsetY="1" Type="10" />
+      <Route Start="0312" End="0613" Color="Blue" Style="Dashed" />
+      <Route Start="0312" End="3110" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0613" End="0717" Color="Blue" Style="Dashed" />
+      <Route Start="0717" End="1019" Color="Blue" Style="Dashed" />
+      <Route Start="1019" End="1121" Color="Blue" Style="Dashed" />
+      <Route Start="1121" End="1523" Color="Blue" Style="Dashed" />
+      <Route Start="1523" End="1824" Color="Blue" Style="Dashed" />
+      <Route Start="1824" End="2027" Color="Blue" Style="Dashed" />
+      <Route Start="2027" End="2230" Color="Blue" Style="Dashed" />
+      <Route Start="2230" End="2334" Color="Blue" Style="Dashed" />
+      <Route Start="2334" End="2437" Color="Blue" Style="Dashed" />
+      <Route Start="2437" End="2640" Color="Blue" Style="Dashed" />
+      <Route Start="2640" End="2903" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector>
@@ -3211,24 +3211,24 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name Lang="hv" Publisher="HIWG">Koirtrua</Name>
     <DataFile>Koirtrua.sec</DataFile>
     <Routes>
-      <Route Start="0302" End="0405" Type="2" />
-      <Route Start="0302" End="3240" EndOffsetX="-1" EndOffsetY="-1" Type="2" />
-      <Route Start="0405" End="0608" Type="2" />
-      <Route Start="0608" End="0711" Type="2" />
-      <Route Start="0711" End="1013" Type="2" />
-      <Route Start="1013" End="1215" Type="2" />
-      <Route Start="1215" End="1418" Type="2" />
-      <Route Start="1418" End="1621" Type="2" />
-      <Route Start="1621" End="1823" Type="2" />
-      <Route Start="1823" End="2026" Type="2" />
-      <Route Start="2026" End="2229" Type="2" />
-      <Route Start="2229" End="2333" Type="2" />
-      <Route Start="2333" End="2635" Type="2" />
-      <Route Start="2635" End="3036" Type="2" />
-      <Route Start="3036" End="0139" EndOffsetX="1" EndOffsetY="0" Type="2" />
-      <Route Start="2903" End="2640" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="2903" End="3106" Type="10" />
-      <Route Start="3106" End="0107" EndOffsetX="1" EndOffsetY="0" Type="10" />
+      <Route Start="0302" End="0405" Color="Yellow" Style="Dashed" />
+      <Route Start="0302" End="3240" EndOffsetX="-1" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0405" End="0608" Color="Yellow" Style="Dashed" />
+      <Route Start="0608" End="0711" Color="Yellow" Style="Dashed" />
+      <Route Start="0711" End="1013" Color="Yellow" Style="Dashed" />
+      <Route Start="1013" End="1215" Color="Yellow" Style="Dashed" />
+      <Route Start="1215" End="1418" Color="Yellow" Style="Dashed" />
+      <Route Start="1418" End="1621" Color="Yellow" Style="Dashed" />
+      <Route Start="1621" End="1823" Color="Yellow" Style="Dashed" />
+      <Route Start="1823" End="2026" Color="Yellow" Style="Dashed" />
+      <Route Start="2026" End="2229" Color="Yellow" Style="Dashed" />
+      <Route Start="2229" End="2333" Color="Yellow" Style="Dashed" />
+      <Route Start="2333" End="2635" Color="Yellow" Style="Dashed" />
+      <Route Start="2635" End="3036" Color="Yellow" Style="Dashed" />
+      <Route Start="3036" End="0139" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="2903" End="2640" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="2903" End="3106" Color="Blue" Style="Dashed" />
+      <Route Start="3106" End="0107" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector>
@@ -3237,24 +3237,24 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name Lang="hv" Publisher="HIWG">Ultret</Name>
     <DataFile>Ultret.sec</DataFile>
     <Routes>
-      <Route Start="0139" End="0302" EndOffsetX="0" EndOffsetY="1" Type="2" />
-      <Route Start="0139" End="3036" EndOffsetX="-1" EndOffsetY="0" Type="2" />
+      <Route Start="0139" End="0302" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+      <Route Start="0139" End="3036" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
 
 
-      <Route Start="0107" End="3106" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-      <Route Start="0107" End="0310" Type="10" />
-      <Route Start="0310" End="0413" Type="10" />
-      <Route Start="0413" End="0716" Type="10" />
-      <Route Start="0716" End="0919" Type="10" />
-      <Route Start="0919" End="1122" Type="10" />
-      <Route Start="1122" End="1225" Type="10" />
-      <Route Start="1225" End="1528" Type="10" />
-      <Route Start="1528" End="1830" Type="10" />
-      <Route Start="1830" End="2232" Type="10" />
-      <Route Start="2232" End="2634" Type="10" />
-      <Route Start="2634" End="2837" Type="10" />
-      <Route Start="2837" End="3040" Type="10" />
-      <Route Start="3040" End="0202" EndOffsetX="1" EndOffsetY="1" Type="10" />
+      <Route Start="0107" End="3106" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0107" End="0310" Color="Blue" Style="Dashed" />
+      <Route Start="0310" End="0413" Color="Blue" Style="Dashed" />
+      <Route Start="0413" End="0716" Color="Blue" Style="Dashed" />
+      <Route Start="0716" End="0919" Color="Blue" Style="Dashed" />
+      <Route Start="0919" End="1122" Color="Blue" Style="Dashed" />
+      <Route Start="1122" End="1225" Color="Blue" Style="Dashed" />
+      <Route Start="1225" End="1528" Color="Blue" Style="Dashed" />
+      <Route Start="1528" End="1830" Color="Blue" Style="Dashed" />
+      <Route Start="1830" End="2232" Color="Blue" Style="Dashed" />
+      <Route Start="2232" End="2634" Color="Blue" Style="Dashed" />
+      <Route Start="2634" End="2837" Color="Blue" Style="Dashed" />
+      <Route Start="2837" End="3040" Color="Blue" Style="Dashed" />
+      <Route Start="3040" End="0202" EndOffsetX="1" EndOffsetY="1" Color="Blue" Style="Dashed" />
       
       
       
@@ -3267,21 +3267,21 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Binaurie</Name>
     <DataFile>Binaurie.sec</DataFile>
     <Routes>
-      <Route Start="0302" End="0139" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-      <Route Start="0302" End="0405" Type="2" />
-      <Route Start="0405" End="0509" Type="2" />
-      <Route Start="0509" End="0712" Type="2" />
-      <Route Start="0712" End="0815" Type="2" />
-      <Route Start="0815" End="1018" Type="2" />
-      <Route Start="1018" End="1122" Type="2" />
-      <Route Start="1122" End="1225" Type="2" />
-      <Route Start="1225" End="1427" Type="2" />
-      <Route Start="1427" End="1729" Type="2" />
-      <Route Start="1729" End="2133" Type="2" />
-      <Route Start="2133" End="2435" Type="2" />
-      <Route Start="2435" End="2837" Type="2" />
-      <Route Start="2837" End="3140" Type="2" />
-      <Route Start="3140" End="0201" EndOffsetX="1" EndOffsetY="1" Type="2" />
+      <Route Start="0302" End="0139" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0302" End="0405" Color="Yellow" Style="Dashed" />
+      <Route Start="0405" End="0509" Color="Yellow" Style="Dashed" />
+      <Route Start="0509" End="0712" Color="Yellow" Style="Dashed" />
+      <Route Start="0712" End="0815" Color="Yellow" Style="Dashed" />
+      <Route Start="0815" End="1018" Color="Yellow" Style="Dashed" />
+      <Route Start="1018" End="1122" Color="Yellow" Style="Dashed" />
+      <Route Start="1122" End="1225" Color="Yellow" Style="Dashed" />
+      <Route Start="1225" End="1427" Color="Yellow" Style="Dashed" />
+      <Route Start="1427" End="1729" Color="Yellow" Style="Dashed" />
+      <Route Start="1729" End="2133" Color="Yellow" Style="Dashed" />
+      <Route Start="2133" End="2435" Color="Yellow" Style="Dashed" />
+      <Route Start="2435" End="2837" Color="Yellow" Style="Dashed" />
+      <Route Start="2837" End="3140" Color="Yellow" Style="Dashed" />
+      <Route Start="3140" End="0201" EndOffsetX="1" EndOffsetY="1" Color="Yellow" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector>
@@ -3291,20 +3291,20 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <DataFile>Grevanne.sec</DataFile>
     <Routes>
  
-      <Route Start="0202" End="3040" EndOffsetX="-1" EndOffsetY="-1" Type="10" />
-      <Route Start="0202" End="0306" Type="10" />
-      <Route Start="0306" End="0509" Type="10" /> 
-      <Route Start="0509" End="0712" Type="10" /> 
-      <Route Start="0712" End="0915" Type="10" /> 
-      <Route Start="0915" End="1018" Type="10" /> 
-      <Route Start="1018" End="1122" Type="10" /> 
-      <Route Start="1122" End="1325" Type="10" /> 
-      <Route Start="1325" End="1627" Type="10" /> 
-      <Route Start="1627" End="1830" Type="10" /> 
-      <Route Start="1830" End="2033" Type="10" />  
-      <Route Start="2033" End="2235" Type="10" /> 
-      <Route Start="2235" End="2438" Type="10" /> 
-      <Route Start="2438" End="2601" EndOffsetX="0" EndOffsetY="1" Type="10" /> 
+      <Route Start="0202" End="3040" EndOffsetX="-1" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="0202" End="0306" Color="Blue" Style="Dashed" />
+      <Route Start="0306" End="0509" Color="Blue" Style="Dashed" /> 
+      <Route Start="0509" End="0712" Color="Blue" Style="Dashed" /> 
+      <Route Start="0712" End="0915" Color="Blue" Style="Dashed" /> 
+      <Route Start="0915" End="1018" Color="Blue" Style="Dashed" /> 
+      <Route Start="1018" End="1122" Color="Blue" Style="Dashed" /> 
+      <Route Start="1122" End="1325" Color="Blue" Style="Dashed" /> 
+      <Route Start="1325" End="1627" Color="Blue" Style="Dashed" /> 
+      <Route Start="1627" End="1830" Color="Blue" Style="Dashed" /> 
+      <Route Start="1830" End="2033" Color="Blue" Style="Dashed" />  
+      <Route Start="2033" End="2235" Color="Blue" Style="Dashed" /> 
+      <Route Start="2235" End="2438" Color="Blue" Style="Dashed" /> 
+      <Route Start="2438" End="2601" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" /> 
     </Routes>
   </Sector>
 
@@ -3314,21 +3314,21 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Femengaal</Name>
     <DataFile>Femengaal.sec</DataFile>
     <Routes>
-      <Route Start="0201" End="3140" EndOffsetX="-1" EndOffsetY="-1" Type="2" />
-      <Route Start="0201" End="0404" Type="2" />
-      <Route Start="0404" End="0607" Type="2" />
-      <Route Start="0607" End="0810" Type="2" />
-      <Route Start="0810" End="0913" Type="2" />
-      <Route Start="0913" End="1015" Type="2" />
-      <Route Start="1015" End="1218" Type="2" />
-      <Route Start="1218" End="1322" Type="2" />
-      <Route Start="1322" End="1723" Type="2" />
-      <Route Start="1723" End="2123" Type="2" />
-      <Route Start="2123" End="2425" Type="2" />
-      <Route Start="2425" End="2628" Type="2" />
-      <Route Start="2628" End="2831" Type="2" />
-      <Route Start="2831" End="3034" Type="2" />
-      <Route Start="3034" End="0236" EndOffsetX="1" EndOffsetY="0" Type="2" />
+      <Route Start="0201" End="3140" EndOffsetX="-1" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0201" End="0404" Color="Yellow" Style="Dashed" />
+      <Route Start="0404" End="0607" Color="Yellow" Style="Dashed" />
+      <Route Start="0607" End="0810" Color="Yellow" Style="Dashed" />
+      <Route Start="0810" End="0913" Color="Yellow" Style="Dashed" />
+      <Route Start="0913" End="1015" Color="Yellow" Style="Dashed" />
+      <Route Start="1015" End="1218" Color="Yellow" Style="Dashed" />
+      <Route Start="1218" End="1322" Color="Yellow" Style="Dashed" />
+      <Route Start="1322" End="1723" Color="Yellow" Style="Dashed" />
+      <Route Start="1723" End="2123" Color="Yellow" Style="Dashed" />
+      <Route Start="2123" End="2425" Color="Yellow" Style="Dashed" />
+      <Route Start="2425" End="2628" Color="Yellow" Style="Dashed" />
+      <Route Start="2628" End="2831" Color="Yellow" Style="Dashed" />
+      <Route Start="2831" End="3034" Color="Yellow" Style="Dashed" />
+      <Route Start="3034" End="0236" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector>
@@ -3337,23 +3337,23 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Wobanna</Name>
     <DataFile>Wobanna.sec</DataFile>
     <Routes>
-      <Route Start="0236" End="3034" EndOffsetX="-1" EndOffsetY="0" Type="2" />
-      <Route Start="0236" End="0439" Type="2" />
-      <Route Start="0439" End="0702" EndOffsetX="0" EndOffsetY="1" Type="2" />
+      <Route Start="0236" End="3034" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0236" End="0439" Color="Yellow" Style="Dashed" />
+      <Route Start="0439" End="0702" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
 
-        <Route Start="0110" End="0412" Type="10" />
-        <Route Start="0110" End="3107" EndOffsetX="-1" EndOffsetY="0" Type="10" /> 
-        <Route Start="0412" End="0615" Type="10" /> 
-        <Route Start="0615" End="0719" Type="10" />  
-        <Route Start="0719" End="0922" Type="10" /> 
-        <Route Start="0922" End="1125" Type="10" /> 
-        <Route Start="1125" End="1527" Type="10" /> 
-        <Route Start="1527" End="1828" Type="10" />  
-        <Route Start="1828" End="2230" Type="10" /> 
-        <Route Start="2230" End="2532" Type="10" />  
-        <Route Start="2532" End="2735" Type="10" /> 
-        <Route Start="2735" End="2938" Type="10" /> 
-        <Route Start="2938" End="3001" EndOffsetX="0" EndOffsetY="1" Type="10" /> 
+        <Route Start="0110" End="0412" Color="Blue" Style="Dashed" />
+        <Route Start="0110" End="3107" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" /> 
+        <Route Start="0412" End="0615" Color="Blue" Style="Dashed" /> 
+        <Route Start="0615" End="0719" Color="Blue" Style="Dashed" />  
+        <Route Start="0719" End="0922" Color="Blue" Style="Dashed" /> 
+        <Route Start="0922" End="1125" Color="Blue" Style="Dashed" /> 
+        <Route Start="1125" End="1527" Color="Blue" Style="Dashed" /> 
+        <Route Start="1527" End="1828" Color="Blue" Style="Dashed" />  
+        <Route Start="1828" End="2230" Color="Blue" Style="Dashed" /> 
+        <Route Start="2230" End="2532" Color="Blue" Style="Dashed" />  
+        <Route Start="2532" End="2735" Color="Blue" Style="Dashed" /> 
+        <Route Start="2735" End="2938" Color="Blue" Style="Dashed" /> 
+        <Route Start="2938" End="3001" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" /> 
 
     </Routes>
   </Sector>
@@ -3364,24 +3364,24 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Poinmaali</Name>
     <DataFile>Poinmaali.sec</DataFile>
     <Routes>
-      <Route Start="0702" End="0439" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-      <Route Start="0702" End="0706" Type="2" />
-      <Route Start="0706" End="0710" Type="2" />
-      <Route Start="0710" End="0912" Type="2" />
-      <Route Start="0912" End="0916" Type="2" />
-      <Route Start="0916" End="1318" Type="2" />
-      <Route Start="1318" End="1619" Type="2" />
-      <Route Start="1619" End="1822" Type="2" />
-      <Route Start="1822" End="2025" Type="2" />
-      <Route Start="2025" End="2228" Type="2" />
-      <Route Start="2228" End="2431" Type="2" />
-      <Route Start="2431" End="2634" Type="2" />
-      <Route Start="2634" End="2837" Type="2" />
-      <Route Start="2837" End="3239" Type="2" />
-      <Route Start="3239" End="0102" EndOffsetX="1" EndOffsetY="1" Type="2" />
-      <Route Start="3001" End="2938" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="3001" End="3005" Type="10" /> 
-      <Route Start="3005" End="0107" EndOffsetX="1" EndOffsetY="0" Type="10" />
+      <Route Start="0702" End="0439" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0702" End="0706" Color="Yellow" Style="Dashed" />
+      <Route Start="0706" End="0710" Color="Yellow" Style="Dashed" />
+      <Route Start="0710" End="0912" Color="Yellow" Style="Dashed" />
+      <Route Start="0912" End="0916" Color="Yellow" Style="Dashed" />
+      <Route Start="0916" End="1318" Color="Yellow" Style="Dashed" />
+      <Route Start="1318" End="1619" Color="Yellow" Style="Dashed" />
+      <Route Start="1619" End="1822" Color="Yellow" Style="Dashed" />
+      <Route Start="1822" End="2025" Color="Yellow" Style="Dashed" />
+      <Route Start="2025" End="2228" Color="Yellow" Style="Dashed" />
+      <Route Start="2228" End="2431" Color="Yellow" Style="Dashed" />
+      <Route Start="2431" End="2634" Color="Yellow" Style="Dashed" />
+      <Route Start="2634" End="2837" Color="Yellow" Style="Dashed" />
+      <Route Start="2837" End="3239" Color="Yellow" Style="Dashed" />
+      <Route Start="3239" End="0102" EndOffsetX="1" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+      <Route Start="3001" End="2938" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="3001" End="3005" Color="Blue" Style="Dashed" /> 
+      <Route Start="3005" End="0107" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector>
@@ -3390,20 +3390,20 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Hintrab</Name>
     <DataFile>Hintrab.sec</DataFile>
     <Routes>
-        <Route Start="0107" End="0409" Type="10" />
-        <Route Start="0107" End="3005" EndOffsetX="-1" EndOffsetY="0" Type="10" /> 
-        <Route Start="0409" End="0612" Type="10" /> 
-        <Route Start="0612" End="0915" Type="10" /> 
-        <Route Start="0915" End="1217" Type="10" /> 
-        <Route Start="1217" End="1420" Type="10" /> 
-        <Route Start="1420" End="1623" Type="10" /> 
-        <Route Start="1623" End="1727" Type="10" /> 
-        <Route Start="1727" End="1930" Type="10" /> 
-        <Route Start="1930" End="2232" Type="10" /> 
-        <Route Start="2232" End="2336" Type="10" /> 
-        <Route Start="2336" End="2539" Type="10" /> 
-        <Route Start="2539" End="2640" Type="10" />
-        <Route Start="2640" End="2703" EndOffsetX="0" EndOffsetY="1" Type="10" />
+        <Route Start="0107" End="0409" Color="Blue" Style="Dashed" />
+        <Route Start="0107" End="3005" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" /> 
+        <Route Start="0409" End="0612" Color="Blue" Style="Dashed" /> 
+        <Route Start="0612" End="0915" Color="Blue" Style="Dashed" /> 
+        <Route Start="0915" End="1217" Color="Blue" Style="Dashed" /> 
+        <Route Start="1217" End="1420" Color="Blue" Style="Dashed" /> 
+        <Route Start="1420" End="1623" Color="Blue" Style="Dashed" /> 
+        <Route Start="1623" End="1727" Color="Blue" Style="Dashed" /> 
+        <Route Start="1727" End="1930" Color="Blue" Style="Dashed" /> 
+        <Route Start="1930" End="2232" Color="Blue" Style="Dashed" /> 
+        <Route Start="2232" End="2336" Color="Blue" Style="Dashed" /> 
+        <Route Start="2336" End="2539" Color="Blue" Style="Dashed" /> 
+        <Route Start="2539" End="2640" Color="Blue" Style="Dashed" />
+        <Route Start="2640" End="2703" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
       </Routes>     
   </Sector>
 
@@ -3414,27 +3414,27 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <DataFile Author="Bari Z. Stafford Sr." Type="SecondSurvey">Ebollan.txt</DataFile>
     <MetadataFile>Ebollan.xml</MetadataFile>
     <Routes>
-      <Route Start="0102" End="3239" EndOffsetX="-1" EndOffsetY="-1" Type="2" />
-      <Route Start="0102" End="0404" Type="2" />
-      <Route Start="0404" End="0707" Type="2" />
-      <Route Start="0707" End="0810" Type="2" />
-      <Route Start="0810" End="1013" Type="2" />
-      <Route Start="1013" End="1215" Type="2" />
-      <Route Start="1215" End="1518" Type="2" />
-      <Route Start="1518" End="1720" Type="2" />
-      <Route Start="1720" End="1823" Type="2" />
-      <Route Start="1823" End="2025" Type="2" />
-      <Route Start="2025" End="2328" Type="2" />
-      <Route Start="2328" End="2531" Type="2" />
-      <Route Start="2531" End="2932" Type="2" />
-      <Route Start="2932" End="3135" Type="2" />
-      <Route Start="3135" End="3238" Type="2" />
-      <Route Start="3238" End="0101" EndOffsetX="1" EndOffsetY="1" Type="2" />
+      <Route Start="0102" End="3239" EndOffsetX="-1" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0102" End="0404" Color="Yellow" Style="Dashed" />
+      <Route Start="0404" End="0707" Color="Yellow" Style="Dashed" />
+      <Route Start="0707" End="0810" Color="Yellow" Style="Dashed" />
+      <Route Start="0810" End="1013" Color="Yellow" Style="Dashed" />
+      <Route Start="1013" End="1215" Color="Yellow" Style="Dashed" />
+      <Route Start="1215" End="1518" Color="Yellow" Style="Dashed" />
+      <Route Start="1518" End="1720" Color="Yellow" Style="Dashed" />
+      <Route Start="1720" End="1823" Color="Yellow" Style="Dashed" />
+      <Route Start="1823" End="2025" Color="Yellow" Style="Dashed" />
+      <Route Start="2025" End="2328" Color="Yellow" Style="Dashed" />
+      <Route Start="2328" End="2531" Color="Yellow" Style="Dashed" />
+      <Route Start="2531" End="2932" Color="Yellow" Style="Dashed" />
+      <Route Start="2932" End="3135" Color="Yellow" Style="Dashed" />
+      <Route Start="3135" End="3238" Color="Yellow" Style="Dashed" />
+      <Route Start="3238" End="0101" EndOffsetX="1" EndOffsetY="1" Color="Yellow" Style="Dashed" />
 
-      <Route Start="2703" End="2640" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="2703" End="2804" Type="10" />
-      <Route Start="2804" End="3106" Type="10" />
-      <Route Start="3106" End="0107" EndOffsetX="1" EndOffsetY="0" Type="10" />
+      <Route Start="2703" End="2640" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="2703" End="2804" Color="Blue" Style="Dashed" />
+      <Route Start="2804" End="3106" Color="Blue" Style="Dashed" />
+      <Route Start="3106" End="0107" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector>
@@ -3443,21 +3443,21 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Tumluun</Name>
     <DataFile>Tumluun.sec</DataFile>
     <Routes>
-      <Route Start="0107" End="2905" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-      <Route Start="0107" End="0310" Type="10" />
+      <Route Start="0107" End="2905" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0107" End="0310" Color="Blue" Style="Dashed" />
       
-      <Route Start="0310" End="0712" Type="10" /> 
-      <Route Start="0712" End="0915" Type="10" /> 
-      <Route Start="0915" End="1018" Type="10" /> 
-      <Route Start="1018" End="1122" Type="10" /> 
-      <Route Start="1122" End="1225" Type="10" /> 
-      <Route Start="1225" End="1528" Type="10" /> 
-      <Route Start="1528" End="1930" Type="10" /> 
-      <Route Start="1930" End="2332" Type="10" /> 
-      <Route Start="2332" End="2535" Type="10" /> 
-      <Route Start="2535" End="2738" Type="10" /> 
-      <Route Start="2738" End="3140" Type="10" /> 
-      <Route Start="3140" End="0102" EndOffsetX="1" EndOffsetY="1" Type="10" />
+      <Route Start="0310" End="0712" Color="Blue" Style="Dashed" /> 
+      <Route Start="0712" End="0915" Color="Blue" Style="Dashed" /> 
+      <Route Start="0915" End="1018" Color="Blue" Style="Dashed" /> 
+      <Route Start="1018" End="1122" Color="Blue" Style="Dashed" /> 
+      <Route Start="1122" End="1225" Color="Blue" Style="Dashed" /> 
+      <Route Start="1225" End="1528" Color="Blue" Style="Dashed" /> 
+      <Route Start="1528" End="1930" Color="Blue" Style="Dashed" /> 
+      <Route Start="1930" End="2332" Color="Blue" Style="Dashed" /> 
+      <Route Start="2332" End="2535" Color="Blue" Style="Dashed" /> 
+      <Route Start="2535" End="2738" Color="Blue" Style="Dashed" /> 
+      <Route Start="2738" End="3140" Color="Blue" Style="Dashed" /> 
+      <Route Start="3140" End="0102" EndOffsetX="1" EndOffsetY="1" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
 
@@ -3467,21 +3467,21 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Yasktier</Name>
     <DataFile>Yasktier.sec</DataFile>
     <Routes>
-      <Route Start="0101" End="3238" EndOffsetX="-1" EndOffsetY="-1" Type="2" />
-      <Route Start="0101" End="0204" Type="2" />
-      <Route Start="0204" End="0308" Type="2" />
-      <Route Start="0308" End="0511" Type="2" />
-      <Route Start="0511" End="0714" Type="2" />
-      <Route Start="0714" End="0916" Type="2" />
-      <Route Start="0916" End="1218" Type="2" />
-      <Route Start="1218" End="1421" Type="2" />
-      <Route Start="1421" End="1624" Type="2" />
-      <Route Start="1624" End="1827" Type="2" />
-      <Route Start="1827" End="2130" Type="2" />
-      <Route Start="2130" End="2333" Type="2" />
-      <Route Start="2333" End="2634" Type="2" />
-      <Route Start="2634" End="2937" Type="2" />
-      <Route Start="2937" End="0138" EndOffsetX="1" EndOffsetY="0" Type="2" />
+      <Route Start="0101" End="3238" EndOffsetX="-1" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0101" End="0204" Color="Yellow" Style="Dashed" />
+      <Route Start="0204" End="0308" Color="Yellow" Style="Dashed" />
+      <Route Start="0308" End="0511" Color="Yellow" Style="Dashed" />
+      <Route Start="0511" End="0714" Color="Yellow" Style="Dashed" />
+      <Route Start="0714" End="0916" Color="Yellow" Style="Dashed" />
+      <Route Start="0916" End="1218" Color="Yellow" Style="Dashed" />
+      <Route Start="1218" End="1421" Color="Yellow" Style="Dashed" />
+      <Route Start="1421" End="1624" Color="Yellow" Style="Dashed" />
+      <Route Start="1624" End="1827" Color="Yellow" Style="Dashed" />
+      <Route Start="1827" End="2130" Color="Yellow" Style="Dashed" />
+      <Route Start="2130" End="2333" Color="Yellow" Style="Dashed" />
+      <Route Start="2333" End="2634" Color="Yellow" Style="Dashed" />
+      <Route Start="2634" End="2937" Color="Yellow" Style="Dashed" />
+      <Route Start="2937" End="0138" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector>
@@ -3490,24 +3490,24 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Uumpallu</Name>
     <DataFile>Uumpallu.sec</DataFile>
     <Routes>
-      <Route Start="0138" End="2937" EndOffsetX="-1" EndOffsetY="0" Type="2" />
-      <Route Start="0138" End="0440" Type="2" />
-      <Route Start="0440" End="0402" EndOffsetX="0" EndOffsetY="1" Type="2" />
+      <Route Start="0138" End="2937" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0138" End="0440" Color="Yellow" Style="Dashed" />
+      <Route Start="0440" End="0402" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
 
-      <Route Start="0102" End="3140" EndOffsetX="-1" EndOffsetY="-1" Type="10" />
-      <Route Start="0102" End="0404" Type="10" />
-      <Route Start="0404" End="0607" Type="10" />
-      <Route Start="0607" End="0910" Type="10" />
-      <Route Start="0910" End="1212" Type="10" />
-      <Route Start="1212" End="1415" Type="10" />
-      <Route Start="1415" End="1618" Type="10" />
-      <Route Start="1618" End="1722" Type="10" />
-      <Route Start="1722" End="1825" Type="10" />
-      <Route Start="1825" End="2028" Type="10" />
-      <Route Start="2028" End="2032" Type="10" />
-      <Route Start="2032" End="2235" Type="10" />
-      <Route Start="2235" End="2438" Type="10" />
-      <Route Start="2438" End="2502" EndOffsetX="0" EndOffsetY="1" Type="10" />
+      <Route Start="0102" End="3140" EndOffsetX="-1" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="0102" End="0404" Color="Blue" Style="Dashed" />
+      <Route Start="0404" End="0607" Color="Blue" Style="Dashed" />
+      <Route Start="0607" End="0910" Color="Blue" Style="Dashed" />
+      <Route Start="0910" End="1212" Color="Blue" Style="Dashed" />
+      <Route Start="1212" End="1415" Color="Blue" Style="Dashed" />
+      <Route Start="1415" End="1618" Color="Blue" Style="Dashed" />
+      <Route Start="1618" End="1722" Color="Blue" Style="Dashed" />
+      <Route Start="1722" End="1825" Color="Blue" Style="Dashed" />
+      <Route Start="1825" End="2028" Color="Blue" Style="Dashed" />
+      <Route Start="2028" End="2032" Color="Blue" Style="Dashed" />
+      <Route Start="2032" End="2235" Color="Blue" Style="Dashed" />
+      <Route Start="2235" End="2438" Color="Blue" Style="Dashed" />
+      <Route Start="2438" End="2502" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
     </Routes>  
   </Sector>
 
@@ -3517,27 +3517,27 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Quavas</Name>
     <DataFile>Quavas.sec</DataFile>
     <Routes>
-      <Route Start="0402" End="0440" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-      <Route Start="0402" End="0605" Type="2" />
-      <Route Start="0605" End="0808" Type="2" />
-      <Route Start="0808" End="0812" Type="2" />
-      <Route Start="0812" End="1015" Type="2" />
-      <Route Start="1015" End="1218" Type="2" />
-      <Route Start="1218" End="1421" Type="2" />
-      <Route Start="1421" End="1823" Type="2" />
-      <Route Start="1823" End="2026" Type="2" />
-      <Route Start="2026" End="2130" Type="2" />
-      <Route Start="2130" End="2532" Type="2" />
-      <Route Start="2532" End="2735" Type="2" />
-      <Route Start="2735" End="2938" Type="2" />
-      <Route Start="2938" End="3240" Type="2" />
-      <Route Start="3240" End="0302" EndOffsetX="1" EndOffsetY="1" Type="2" />
+      <Route Start="0402" End="0440" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0402" End="0605" Color="Yellow" Style="Dashed" />
+      <Route Start="0605" End="0808" Color="Yellow" Style="Dashed" />
+      <Route Start="0808" End="0812" Color="Yellow" Style="Dashed" />
+      <Route Start="0812" End="1015" Color="Yellow" Style="Dashed" />
+      <Route Start="1015" End="1218" Color="Yellow" Style="Dashed" />
+      <Route Start="1218" End="1421" Color="Yellow" Style="Dashed" />
+      <Route Start="1421" End="1823" Color="Yellow" Style="Dashed" />
+      <Route Start="1823" End="2026" Color="Yellow" Style="Dashed" />
+      <Route Start="2026" End="2130" Color="Yellow" Style="Dashed" />
+      <Route Start="2130" End="2532" Color="Yellow" Style="Dashed" />
+      <Route Start="2532" End="2735" Color="Yellow" Style="Dashed" />
+      <Route Start="2735" End="2938" Color="Yellow" Style="Dashed" />
+      <Route Start="2938" End="3240" Color="Yellow" Style="Dashed" />
+      <Route Start="3240" End="0302" EndOffsetX="1" EndOffsetY="1" Color="Yellow" Style="Dashed" />
 
-      <Route Start="2502" End="2438" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="2502" End="2605" Type="10" />
-      <Route Start="2605" End="2908" Type="10" />
-      <Route Start="2908" End="3210" Type="10" />
-      <Route Start="3210" End="0212" EndOffsetX="1" EndOffsetY="0" Type="10" />
+      <Route Start="2502" End="2438" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="2502" End="2605" Color="Blue" Style="Dashed" />
+      <Route Start="2605" End="2908" Color="Blue" Style="Dashed" />
+      <Route Start="2908" End="3210" Color="Blue" Style="Dashed" />
+      <Route Start="3210" End="0212" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector>
@@ -3546,18 +3546,18 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Indierri</Name>
     <DataFile>Indierri.sec</DataFile>
     <Routes> 
-      <Route Start="0212" End="0216" Type="10" />
-      <Route Start="0212" End="3210" EndOffsetX="-1" EndOffsetY="0" Type="10" /> 
-      <Route Start="0216" End="0519" Type="10" /> 
-      <Route Start="0519" End="0722" Type="10" /> 
-      <Route Start="0722" End="0925" Type="10" />  
-      <Route Start="0925" End="1327" Type="10" /> 
-      <Route Start="1327" End="1728" Type="10" /> 
-      <Route Start="1728" End="2030" Type="10" /> 
-      <Route Start="2030" End="2233" Type="10" /> 
-      <Route Start="2233" End="2635" Type="10" /> 
-      <Route Start="2635" End="2838" Type="10" />
-      <Route Start="2838" End="3001" EndOffsetX="0" EndOffsetY="1" Type="10" />
+      <Route Start="0212" End="0216" Color="Blue" Style="Dashed" />
+      <Route Start="0212" End="3210" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" /> 
+      <Route Start="0216" End="0519" Color="Blue" Style="Dashed" /> 
+      <Route Start="0519" End="0722" Color="Blue" Style="Dashed" /> 
+      <Route Start="0722" End="0925" Color="Blue" Style="Dashed" />  
+      <Route Start="0925" End="1327" Color="Blue" Style="Dashed" /> 
+      <Route Start="1327" End="1728" Color="Blue" Style="Dashed" /> 
+      <Route Start="1728" End="2030" Color="Blue" Style="Dashed" /> 
+      <Route Start="2030" End="2233" Color="Blue" Style="Dashed" /> 
+      <Route Start="2233" End="2635" Color="Blue" Style="Dashed" /> 
+      <Route Start="2635" End="2838" Color="Blue" Style="Dashed" />
+      <Route Start="2838" End="3001" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
 
@@ -3650,12 +3650,56 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Y>22</Y>
     <Name>Vradt</Name>
     <DataFile>Vradt.sec</DataFile>
+    <Routes>
+      <Route Start="0102" End="0404" Color="Yellow" Style="Dashed" />
+      <Route Start="0102" End="3239" EndOffsetX="-1" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0404" End="0707" Color="Yellow" Style="Dashed" />
+      <Route Start="0707" End="1109" Color="Yellow" Style="Dashed" />
+      <Route Start="1109" End="1510" Color="Yellow" Style="Dashed" />
+      <Route Start="1510" End="1910" Color="Yellow" Style="Dashed" />
+      <Route Start="1910" End="2113" Color="Yellow" Style="Dashed" />
+      <Route Start="2113" End="2513" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2513" End="2914" Color="Yellow" Style="Dashed" />
+      <Route Start="2914" End="0116" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      
+      <Route Start="2703" End="2638" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="2906" End="2703" Color="Blue" Style="Dashed" />      
+      <Route Start="2906" End="3109" Color="Blue" Style="Dashed" />
+      <Route Start="3109" End="0111" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+    </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
     <X>22</X>
     <Y>22</Y>
     <Name>Bhuinawol</Name>
     <DataFile>Bhuinawol.sec</DataFile>
+    <Routes>
+      <Route Start="0111" End="3109" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0111" End="0313" Color="Blue" Style="Dashed" />
+      <Route Start="0116" End="0518" Color="Yellow" Style="Dashed" />
+      <Route Start="0116" End="2914" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0313" End="0715" Color="Blue" Style="Dashed" />
+      <Route Start="0518" End="0920" Color="Yellow" Style="Dashed" />
+      <Route Start="0715" End="1115" Color="Blue" Style="Dashed" />
+      <Route Start="0740" End="0704" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+      <Route Start="0740" End="0937" Color="Yellow" Style="Dashed" />
+      <Route Start="0920" End="1023" Color="Yellow" Style="Dashed" />
+      <Route Start="0926" End="0930" Color="Yellow" Style="Dashed" />
+      <Route Start="0926" End="1023" Color="Yellow" Style="Dashed" />
+      <Route Start="0930" End="1033" Color="Yellow" Style="Dashed" />
+      <Route Start="0937" End="1033" Color="Yellow" Style="Dashed" />
+      <Route Start="1115" End="1517" Color="Blue" Style="Dashed" />
+      <Route Start="1517" End="1917" Color="Blue" Style="Dashed" />
+      <Route Start="1917" End="2317" Color="Blue" Style="Dashed" />
+      <Route Start="2317" End="2718" Color="Blue" Style="Dashed" />
+      <Route Start="2718" End="2921" Color="Blue" Style="Dashed" />
+      <Route Start="2921" End="3024" Color="Blue" Style="Dashed" />
+      <Route Start="3024" End="3028" Color="Blue" Style="Dashed" />
+      <Route Start="3028" End="3131" Color="Blue" Style="Dashed" />
+      <Route Start="3131" End="3134" Color="Blue" Style="Dashed" />
+      <Route Start="3134" End="3237" Color="Blue" Style="Dashed" />
+      <Route Start="3237" End="3201" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
+    </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
     <X>22</X>
@@ -3663,26 +3707,25 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Niri</Name>
     <DataFile>Niri.sec</DataFile>
     <Routes>
-      <Route Start="2703" End="2540" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="2703" End="3005" Type="10" />
-      <Route Start="3005" End="0207" EndOffsetX="1" EndOffsetY="0" Type="10" />
+      <Route Start="3201" End="3240" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="3201" End="3104" Color="Blue" Style="Dashed" />
+      <Route Start="3105" End="0207" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
       
-        <Route Start="0501" End="0238" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-        <Route Start="0501" End="0704" Type="2" />
-        <Route Start="0704" End="0907" Type="2" />
-        <Route Start="0907" End="0911" Type="2" />
-        <Route Start="0911" End="0914" Type="2" />
-        <Route Start="0914" End="1215" Type="2" />
-        <Route Start="1215" End="1219" Type="2" />
-        <Route Start="1219" End="1522" Type="2" />
-        <Route Start="1522" End="1625" Type="2" />
-        <Route Start="1625" End="1828" Type="2" />
-        <Route Start="1828" End="1832" Type="2" />
-        <Route Start="1832" End="2035" Type="2" />
-        <Route Start="2035" End="2436" Type="2" />
-        <Route Start="2436" End="2737" Type="2" />
-        <Route Start="2737" End="3139" Type="2" />
-        <Route Start="3139" End="0239" EndOffsetX="1" EndOffsetY="0" Type="2" />
+        <Route Start="0704" End="0740" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+        <Route Start="0907" End="0704" Color="Yellow" Style="Dashed" />
+        <Route Start="0907" End="0911" Color="Yellow" Style="Dashed" />
+        <Route Start="0911" End="0914" Color="Yellow" Style="Dashed" />
+        <Route Start="0914" End="1215" Color="Yellow" Style="Dashed" />
+        <Route Start="1215" End="1219" Color="Yellow" Style="Dashed" />
+        <Route Start="1219" End="1522" Color="Yellow" Style="Dashed" />
+        <Route Start="1522" End="1625" Color="Yellow" Style="Dashed" />
+        <Route Start="1625" End="1828" Color="Yellow" Style="Dashed" />
+        <Route Start="1828" End="1832" Color="Yellow" Style="Dashed" />
+        <Route Start="1832" End="2035" Color="Yellow" Style="Dashed" />
+        <Route Start="2035" End="2436" Color="Yellow" Style="Dashed" />
+        <Route Start="2436" End="2737" Color="Yellow" Style="Dashed" />
+        <Route Start="2737" End="3139" Color="Yellow" Style="Dashed" />
+        <Route Start="3139" End="0239" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
       </Routes>
     <Allegiances>
       <Allegiance Code="Df">Drek Trade Federation</Allegiance>
@@ -3699,23 +3742,23 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Mawass</Name>
     <DataFile>Mawass.sec</DataFile>
     <Routes>
-      <Route Start="0207" End="0510" Type="10" />
-      <Route Start="0207" End="3005" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-      <Route Start="0239" End="0502" EndOffsetX="0" EndOffsetY="1" Type="2" />
-      <Route Start="0239" End="3139" EndOffsetX="-1" EndOffsetY="0" Type="2" />
-      <Route Start="0413" End="0510" Type="10" />
-      <Route Start="0413" End="0616" Type="10" />
-      <Route Start="0616" End="0919" Type="10" />
-      <Route Start="0919" End="1122" Type="10" />
-      <Route Start="1122" End="1225" Type="10" />
-      <Route Start="1225" End="1428" Type="10" />
-      <Route Start="1428" End="1629" Type="10" />
-      <Route Start="1629" End="1733" Type="10" />
-      <Route Start="1733" End="2035" Type="10" />
-      <Route Start="2035" End="2336" Type="10" />
-      <Route Start="2336" End="2537" Type="10" />
-      <Route Start="2537" End="2839" Type="10" />
-      <Route Start="2839" End="3101" EndOffsetX="0" EndOffsetY="1" Type="10" />
+      <Route Start="0207" End="0510" Color="Blue" Style="Dashed" />
+      <Route Start="0207" End="3105" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0239" End="0502" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+      <Route Start="0239" End="3139" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0413" End="0510" Color="Blue" Style="Dashed" />
+      <Route Start="0413" End="0616" Color="Blue" Style="Dashed" />
+      <Route Start="0616" End="0919" Color="Blue" Style="Dashed" />
+      <Route Start="0919" End="1122" Color="Blue" Style="Dashed" />
+      <Route Start="1122" End="1225" Color="Blue" Style="Dashed" />
+      <Route Start="1225" End="1428" Color="Blue" Style="Dashed" />
+      <Route Start="1428" End="1629" Color="Blue" Style="Dashed" />
+      <Route Start="1629" End="1733" Color="Blue" Style="Dashed" />
+      <Route Start="1733" End="2035" Color="Blue" Style="Dashed" />
+      <Route Start="2035" End="2336" Color="Blue" Style="Dashed" />
+      <Route Start="2336" End="2537" Color="Blue" Style="Dashed" />
+      <Route Start="2537" End="2839" Color="Blue" Style="Dashed" />
+      <Route Start="2839" End="3101" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
     </Routes>
     <Allegiances> 
       <Allegiance Code="Mc">Malawii Consortium</Allegiance>
@@ -3730,26 +3773,26 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Qwii</Name>
     <DataFile>Qwii.sec</DataFile>
     <Routes>
-      <Route Start="0404" End="0502" Type="2" />
-      <Route Start="0404" End="0606" Type="2" />
-      <Route Start="0502" End="0239" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-      <Route Start="0606" End="0710" Type="2" />
-      <Route Start="0619" End="0816" Type="2" />
-      <Route Start="0619" End="0821" Type="2" />
-      <Route Start="0710" End="0812" Type="2" />
-      <Route Start="0812" End="0816" Type="2" />
-      <Route Start="0821" End="0924" Type="2" />
-      <Route Start="0924" End="1326" Type="2" />
-      <Route Start="1326" End="1628" Type="2" />
-      <Route Start="1628" End="1831" Type="2" />
-      <Route Start="1831" End="2033" Type="2" />
-      <Route Start="2033" End="2234" Type="2" />
-      <Route Start="2234" End="2636" Type="2" />
-      <Route Start="2636" End="2837" Type="2" />
-      <Route Start="2837" End="3237" Type="2" />
-      <Route Start="3101" End="0104" EndOffsetX="1" EndOffsetY="0" Type="10" />
-      <Route Start="3101" End="2839" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="3237" End="0238" EndOffsetX="1" EndOffsetY="0" Type="2" />
+      <Route Start="0404" End="0502" Color="Yellow" Style="Dashed" />
+      <Route Start="0404" End="0606" Color="Yellow" Style="Dashed" />
+      <Route Start="0502" End="0239" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0606" End="0710" Color="Yellow" Style="Dashed" />
+      <Route Start="0619" End="0816" Color="Yellow" Style="Dashed" />
+      <Route Start="0619" End="0821" Color="Yellow" Style="Dashed" />
+      <Route Start="0710" End="0812" Color="Yellow" Style="Dashed" />
+      <Route Start="0812" End="0816" Color="Yellow" Style="Dashed" />
+      <Route Start="0821" End="0924" Color="Yellow" Style="Dashed" />
+      <Route Start="0924" End="1326" Color="Yellow" Style="Dashed" />
+      <Route Start="1326" End="1628" Color="Yellow" Style="Dashed" />
+      <Route Start="1628" End="1831" Color="Yellow" Style="Dashed" />
+      <Route Start="1831" End="2033" Color="Yellow" Style="Dashed" />
+      <Route Start="2033" End="2234" Color="Yellow" Style="Dashed" />
+      <Route Start="2234" End="2636" Color="Yellow" Style="Dashed" />
+      <Route Start="2636" End="2837" Color="Yellow" Style="Dashed" />
+      <Route Start="2837" End="3237" Color="Yellow" Style="Dashed" />
+      <Route Start="3101" End="0104" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="3101" End="2839" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="3237" End="0238" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -3758,26 +3801,26 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Wratwani</Name>
     <DataFile>Wratwani.sec</DataFile>
     <Routes>
-      <Route Start="0104" End="0307" Type="10" />
-      <Route Start="0104" End="3101" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-      <Route Start="0238" End="0101" EndOffsetX="0" EndOffsetY="1" Type="2" />
-      <Route Start="0238" End="3237" EndOffsetX="-1" EndOffsetY="0" Type="2" />
-      <Route Start="0307" End="0410" Type="10" />
-      <Route Start="0410" End="0512" Type="10" />
-      <Route Start="0512" End="0516" Type="10" />
-      <Route Start="0516" End="0618" Type="10" />
-      <Route Start="0618" End="0821" Type="10" />
-      <Route Start="0821" End="0925" Type="10" />
-      <Route Start="0925" End="1227" Type="10" />
-      <Route Start="1227" End="1429" Type="10" />
-      <Route Start="1429" End="1830" Type="10" />
-      <Route Start="1830" End="2033" Type="10" />
-      <Route Start="2033" End="2435" Type="10" />
-      <Route Start="2435" End="2438" Type="10" />
-      <Route Start="2438" End="2501" EndOffsetX="0" EndOffsetY="1" Type="10" />
-      <Route Start="2840" End="2501" EndOffsetX="0" EndOffsetY="1" Type="10" />
-      <Route Start="2840" End="3140" EndOffsetX="0" Type="10" />
-      <Route Start="3140" End="0301" EndOffsetX="1" EndOffsetY="1" Type="10" />
+      <Route Start="0104" End="0307" Color="Blue" Style="Dashed" />
+      <Route Start="0104" End="3101" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0238" End="0101" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+      <Route Start="0238" End="3237" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0307" End="0410" Color="Blue" Style="Dashed" />
+      <Route Start="0410" End="0512" Color="Blue" Style="Dashed" />
+      <Route Start="0512" End="0516" Color="Blue" Style="Dashed" />
+      <Route Start="0516" End="0618" Color="Blue" Style="Dashed" />
+      <Route Start="0618" End="0821" Color="Blue" Style="Dashed" />
+      <Route Start="0821" End="0925" Color="Blue" Style="Dashed" />
+      <Route Start="0925" End="1227" Color="Blue" Style="Dashed" />
+      <Route Start="1227" End="1429" Color="Blue" Style="Dashed" />
+      <Route Start="1429" End="1830" Color="Blue" Style="Dashed" />
+      <Route Start="1830" End="2033" Color="Blue" Style="Dashed" />
+      <Route Start="2033" End="2435" Color="Blue" Style="Dashed" />
+      <Route Start="2435" End="2438" Color="Blue" Style="Dashed" />
+      <Route Start="2438" End="2501" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
+      <Route Start="2840" End="2501" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
+      <Route Start="2840" End="3140" EndOffsetX="0" Color="Blue" Style="Dashed" />
+      <Route Start="3140" End="0301" EndOffsetX="1" EndOffsetY="1" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -3786,24 +3829,24 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Eweil</Name>
     <DataFile>Eweil.sec</DataFile>
     <Routes>
-      <Route Start="0101" End="0238" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-      <Route Start="0101" End="0203" Type="2" />
-      <Route Start="0203" End="0206" Type="2" />
-      <Route Start="0206" End="0509" Type="2" />
-      <Route Start="0412" End="0509" Type="2" />
-      <Route Start="0412" End="0715" Type="2" />
-      <Route Start="0715" End="1115" Type="2" />
-      <Route Start="1115" End="1218" Type="2" />
-      <Route Start="1122" End="1218" Type="2" />
-      <Route Start="1122" End="1325" Type="2" />
-      <Route Start="1325" End="1528" Type="2" />
-      <Route Start="1528" End="1830" Type="2" />
-      <Route Start="1830" End="2032" Type="2" />
-      <Route Start="2032" End="2136" Type="2" />
-      <Route Start="2136" End="2537" Type="2" />
-      <Route Start="2537" End="2739" Type="2" />
-      <Route Start="2739" End="2940" Type="2" />
-      <Route Start="2940" End="0101" EndOffsetX="1" EndOffsetY="1" Type="2" />
+      <Route Start="0101" End="0238" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0101" End="0203" Color="Yellow" Style="Dashed" />
+      <Route Start="0203" End="0206" Color="Yellow" Style="Dashed" />
+      <Route Start="0206" End="0509" Color="Yellow" Style="Dashed" />
+      <Route Start="0412" End="0509" Color="Yellow" Style="Dashed" />
+      <Route Start="0412" End="0715" Color="Yellow" Style="Dashed" />
+      <Route Start="0715" End="1115" Color="Yellow" Style="Dashed" />
+      <Route Start="1115" End="1218" Color="Yellow" Style="Dashed" />
+      <Route Start="1122" End="1218" Color="Yellow" Style="Dashed" />
+      <Route Start="1122" End="1325" Color="Yellow" Style="Dashed" />
+      <Route Start="1325" End="1528" Color="Yellow" Style="Dashed" />
+      <Route Start="1528" End="1830" Color="Yellow" Style="Dashed" />
+      <Route Start="1830" End="2032" Color="Yellow" Style="Dashed" />
+      <Route Start="2032" End="2136" Color="Yellow" Style="Dashed" />
+      <Route Start="2136" End="2537" Color="Yellow" Style="Dashed" />
+      <Route Start="2537" End="2739" Color="Yellow" Style="Dashed" />
+      <Route Start="2739" End="2940" Color="Yellow" Style="Dashed" />
+      <Route Start="2940" End="0101" EndOffsetX="1" EndOffsetY="1" Color="Yellow" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -3812,23 +3855,23 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Rhataq</Name>
     <DataFile>Rhataq.sec</DataFile>
     <Routes>
-      <Route Start="0301" End="3140" EndOffsetX="-1" EndOffsetY="-1" Type="10" />
-      <Route Start="0301" End="0603" Type="10" />
-      <Route Start="0603" End="0906" Type="10" />
-      <Route Start="0906" End="1009" Type="10" />
-      <Route Start="1009" End="1113" Type="10" />
-      <Route Start="1113" End="1414" Type="10" />
-      <Route Start="1414" End="1617" Type="10" />
-      <Route Start="1617" End="1820" Type="10" />
-      <Route Start="1820" End="1923" Type="10" />
-      <Route Start="1923" End="2125" Type="10" />
-      <Route Start="2125" End="2328" Type="10" />
-      <Route Start="2328" End="2431" Type="10" />
-      <Route Start="2333" End="2431" Type="10" />
-      <Route Start="2333" End="2536" Type="10" />
-      <Route Start="2536" End="2737" Type="10" />
-      <Route Start="2737" End="3039" Type="10" />
-      <Route Start="3039" End="2801" EndOffsetX="0" EndOffsetY="1" Type="10" />
+      <Route Start="0301" End="3140" EndOffsetX="-1" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="0301" End="0603" Color="Blue" Style="Dashed" />
+      <Route Start="0603" End="0906" Color="Blue" Style="Dashed" />
+      <Route Start="0906" End="1009" Color="Blue" Style="Dashed" />
+      <Route Start="1009" End="1113" Color="Blue" Style="Dashed" />
+      <Route Start="1113" End="1414" Color="Blue" Style="Dashed" />
+      <Route Start="1414" End="1617" Color="Blue" Style="Dashed" />
+      <Route Start="1617" End="1820" Color="Blue" Style="Dashed" />
+      <Route Start="1820" End="1923" Color="Blue" Style="Dashed" />
+      <Route Start="1923" End="2125" Color="Blue" Style="Dashed" />
+      <Route Start="2125" End="2328" Color="Blue" Style="Dashed" />
+      <Route Start="2328" End="2431" Color="Blue" Style="Dashed" />
+      <Route Start="2333" End="2431" Color="Blue" Style="Dashed" />
+      <Route Start="2333" End="2536" Color="Blue" Style="Dashed" />
+      <Route Start="2536" End="2737" Color="Blue" Style="Dashed" />
+      <Route Start="2737" End="3039" Color="Blue" Style="Dashed" />
+      <Route Start="3039" End="2801" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -3837,26 +3880,26 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Tutaq</Name>
     <DataFile>Tutaq.sec</DataFile>
     <Routes>
-      <Route Start="0101" End="0203" Type="2" />
+      <Route Start="0101" End="0203" Color="Yellow" Style="Dashed" />
 
-      <Route Start="0101" End="2940" EndOffsetX="-1" EndOffsetY="-1" Type="2" />
-      <Route Start="0203" End="0405" Type="2" />
-      <Route Start="0405" End="0508" Type="2" />
-      <Route Start="0508" End="0910" Type="2" />
-      <Route Start="0910" End="1112" Type="2" />
-      <Route Start="1112" End="1315" Type="2" />
-      <Route Start="1315" End="1615" Type="2" />
-      <Route Start="1615" End="1918" Type="2" />
-      <Route Start="1918" End="1920" Type="2" />
-      <Route Start="1920" End="2221" Type="2" />
-      <Route Start="2221" End="2424" Type="2" /> 
-      <Route Start="3004" End="2801" Type="10" />
-      <Route Start="2424" End="2528" Type="2" />
-      <Route Start="2528" End="2929" Type="2" />
-      <Route Start="2801" End="3039" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="2929" End="3132" Type="2" />
-      <Route Start="3004" End="0104" EndOffsetX="1" EndOffsetY="0" Type="10" />
-      <Route Start="3132" End="0234" EndOffsetX="1" EndOffsetY="0" Type="2" />
+      <Route Start="0101" End="2940" EndOffsetX="-1" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0203" End="0405" Color="Yellow" Style="Dashed" />
+      <Route Start="0405" End="0508" Color="Yellow" Style="Dashed" />
+      <Route Start="0508" End="0910" Color="Yellow" Style="Dashed" />
+      <Route Start="0910" End="1112" Color="Yellow" Style="Dashed" />
+      <Route Start="1112" End="1315" Color="Yellow" Style="Dashed" />
+      <Route Start="1315" End="1615" Color="Yellow" Style="Dashed" />
+      <Route Start="1615" End="1918" Color="Yellow" Style="Dashed" />
+      <Route Start="1918" End="1920" Color="Yellow" Style="Dashed" />
+      <Route Start="1920" End="2221" Color="Yellow" Style="Dashed" />
+      <Route Start="2221" End="2424" Color="Yellow" Style="Dashed" /> 
+      <Route Start="3004" End="2801" Color="Blue" Style="Dashed" />
+      <Route Start="2424" End="2528" Color="Yellow" Style="Dashed" />
+      <Route Start="2528" End="2929" Color="Yellow" Style="Dashed" />
+      <Route Start="2801" End="3039" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="2929" End="3132" Color="Yellow" Style="Dashed" />
+      <Route Start="3004" End="0104" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="3132" End="0234" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -3865,27 +3908,27 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Yabrill</Name>
     <DataFile>Yabrill.sec</DataFile>
     <Routes>
-      <Route Start="0104" End="0405" Type="10" />
-      <Route Start="0104" End="3004" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-      <Route Start="0234" End="0437" Type="2" />
-      <Route Start="0234" End="3132" EndOffsetX="-1" EndOffsetY="0" Type="2" />
-      <Route Start="0405" End="0409" Type="10" />
-      <Route Start="0409" End="0411" Type="10" />
-      <Route Start="0411" End="0514" Type="10" />
-      <Route Start="0437" End="0540" Type="2" />
-      <Route Start="0514" End="0717" Type="10" /> 
-      <Route Start="0540" End="0503" EndOffsetX="0" EndOffsetY="1" Type="2" />
-      <Route Start="0717" End="0920" Type="10" /> 
-      <Route Start="0920" End="1221" Type="10" /> 
-      <Route Start="1221" End="1422" Type="10" /> 
-      <Route Start="1422" End="1425" Type="10" />
-      <Route Start="1425" End="1626" Type="10" />
-      <Route Start="1626" End="1928" Type="10" />
-      <Route Start="1928" End="2131" Type="10" />
-      <Route Start="2131" End="2333" Type="10" />
-      <Route Start="2333" End="2436" Type="10" />
-      <Route Start="2436" End="2439" Type="10" />
-      <Route Start="2439" End="2403" EndOffsetX="0" EndOffsetY="1" Type="10" /> 
+      <Route Start="0104" End="0405" Color="Blue" Style="Dashed" />
+      <Route Start="0104" End="3004" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0234" End="0437" Color="Yellow" Style="Dashed" />
+      <Route Start="0234" End="3132" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0405" End="0409" Color="Blue" Style="Dashed" />
+      <Route Start="0409" End="0411" Color="Blue" Style="Dashed" />
+      <Route Start="0411" End="0514" Color="Blue" Style="Dashed" />
+      <Route Start="0437" End="0540" Color="Yellow" Style="Dashed" />
+      <Route Start="0514" End="0717" Color="Blue" Style="Dashed" /> 
+      <Route Start="0540" End="0503" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+      <Route Start="0717" End="0920" Color="Blue" Style="Dashed" /> 
+      <Route Start="0920" End="1221" Color="Blue" Style="Dashed" /> 
+      <Route Start="1221" End="1422" Color="Blue" Style="Dashed" /> 
+      <Route Start="1422" End="1425" Color="Blue" Style="Dashed" />
+      <Route Start="1425" End="1626" Color="Blue" Style="Dashed" />
+      <Route Start="1626" End="1928" Color="Blue" Style="Dashed" />
+      <Route Start="1928" End="2131" Color="Blue" Style="Dashed" />
+      <Route Start="2131" End="2333" Color="Blue" Style="Dashed" />
+      <Route Start="2333" End="2436" Color="Blue" Style="Dashed" />
+      <Route Start="2436" End="2439" Color="Blue" Style="Dashed" />
+      <Route Start="2439" End="2403" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" /> 
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -3894,23 +3937,23 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Ufallan</Name>
     <DataFile>Ufallan.sec</DataFile>
     <Routes>
-      <Route Start="0503" End="0540" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-      <Route Start="0503" End="0606" Type="2" />
-      <Route Start="0606" End="0908" Type="2" />
-      <Route Start="0908" End="1011" Type="2" />
-      <Route Start="1011" End="1413" Type="2" />
-      <Route Start="1413" End="1714" Type="2" />
-      <Route Start="1714" End="2115" Type="2" />
-      <Route Start="2115" End="2417" Type="2" />
-      <Route Start="2403" End="2439" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="2403" End="2804" Type="10" />
-      <Route Start="2417" End="2420" Type="2" />
-      <Route Start="2420" End="2523" Type="2" />
-      <Route Start="2523" End="2924" Type="2" />
-      <Route Start="2804" End="3007" Type="10" />
-      <Route Start="2924" End="3122" Type="2" />
-      <Route Start="3007" End="0110" EndOffsetX="1" EndOffsetY="0" Type="10" />
-      <Route Start="3122" End="0222" EndOffsetX="1" EndOffsetY="0" Type="2" />
+      <Route Start="0503" End="0540" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0503" End="0606" Color="Yellow" Style="Dashed" />
+      <Route Start="0606" End="0908" Color="Yellow" Style="Dashed" />
+      <Route Start="0908" End="1011" Color="Yellow" Style="Dashed" />
+      <Route Start="1011" End="1413" Color="Yellow" Style="Dashed" />
+      <Route Start="1413" End="1714" Color="Yellow" Style="Dashed" />
+      <Route Start="1714" End="2115" Color="Yellow" Style="Dashed" />
+      <Route Start="2115" End="2417" Color="Yellow" Style="Dashed" />
+      <Route Start="2403" End="2439" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="2403" End="2804" Color="Blue" Style="Dashed" />
+      <Route Start="2417" End="2420" Color="Yellow" Style="Dashed" />
+      <Route Start="2420" End="2523" Color="Yellow" Style="Dashed" />
+      <Route Start="2523" End="2924" Color="Yellow" Style="Dashed" />
+      <Route Start="2804" End="3007" Color="Blue" Style="Dashed" />
+      <Route Start="2924" End="3122" Color="Yellow" Style="Dashed" />
+      <Route Start="3007" End="0110" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="3122" End="0222" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -3919,31 +3962,31 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Iturokil</Name>
     <DataFile>Iturokil.sec</DataFile>
     <Routes>
-      <Route Start="0110" End="0411" Type="10" />
-      <Route Start="0110" End="3007" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-      <Route Start="0222" End="0425" Type="2" />
-      <Route Start="0222" End="3122" EndOffsetX="-1" EndOffsetY="0" Type="2" />
-      <Route Start="0411" End="0813" Type="10" />
-      <Route Start="0425" End="0725" Type="2" />
-      <Route Start="0725" End="0928" Type="2" />
-      <Route Start="0813" End="1116" Type="10" />
-      <Route Start="0928" End="1131" Type="2" />
-      <Route Start="0937" End="1039" Type="2" />
-      <Route Start="0937" End="1134" Type="2" />
-      <Route Start="1039" End="1102" EndOffsetX="0" EndOffsetY="1" Type="2" />
-      <Route Start="1116" End="1319" Type="10" />
-      <Route Start="1131" End="1134" Type="2" />
-      <Route Start="1319" End="1719" Type="10" />
-      <Route Start="1719" End="1820" Type="10" />
-      <Route Start="1820" End="2022" Type="10" />
-      <Route Start="2022" End="2126" Type="10" />
-      <Route Start="2126" End="2425" Type="10" />
-      <Route Start="2425" End="2529" Type="10" />
-      <Route Start="2432" End="2436" Type="10" />
-      <Route Start="2432" End="2529" Type="10" />
-      <Route Start="2436" End="2537" Type="10" />
-      <Route Start="2537" End="2740" Type="10" />
-      <Route Start="2740" End="2603" EndOffsetX="0" EndOffsetY="1" Type="10" />
+      <Route Start="0110" End="0411" Color="Blue" Style="Dashed" />
+      <Route Start="0110" End="3007" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0222" End="0425" Color="Yellow" Style="Dashed" />
+      <Route Start="0222" End="3122" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0411" End="0813" Color="Blue" Style="Dashed" />
+      <Route Start="0425" End="0725" Color="Yellow" Style="Dashed" />
+      <Route Start="0725" End="0928" Color="Yellow" Style="Dashed" />
+      <Route Start="0813" End="1116" Color="Blue" Style="Dashed" />
+      <Route Start="0928" End="1131" Color="Yellow" Style="Dashed" />
+      <Route Start="0937" End="1039" Color="Yellow" Style="Dashed" />
+      <Route Start="0937" End="1134" Color="Yellow" Style="Dashed" />
+      <Route Start="1039" End="1102" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+      <Route Start="1116" End="1319" Color="Blue" Style="Dashed" />
+      <Route Start="1131" End="1134" Color="Yellow" Style="Dashed" />
+      <Route Start="1319" End="1719" Color="Blue" Style="Dashed" />
+      <Route Start="1719" End="1820" Color="Blue" Style="Dashed" />
+      <Route Start="1820" End="2022" Color="Blue" Style="Dashed" />
+      <Route Start="2022" End="2126" Color="Blue" Style="Dashed" />
+      <Route Start="2126" End="2425" Color="Blue" Style="Dashed" />
+      <Route Start="2425" End="2529" Color="Blue" Style="Dashed" />
+      <Route Start="2432" End="2436" Color="Blue" Style="Dashed" />
+      <Route Start="2432" End="2529" Color="Blue" Style="Dashed" />
+      <Route Start="2436" End="2537" Color="Blue" Style="Dashed" />
+      <Route Start="2537" End="2740" Color="Blue" Style="Dashed" />
+      <Route Start="2740" End="2603" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -3952,24 +3995,24 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Oikigeon</Name>
     <DataFile>Oikigeon.sec</DataFile>
     <Routes>
-      <Route Start="0905" End="1102" Type="2" />
-      <Route Start="0905" End="1207" Type="2" />
-      <Route Start="1102" End="1039" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-      <Route Start="1207" End="1211" Type="2" />
-      <Route Start="1211" End="1414" Type="2" />
-      <Route Start="1414" End="1418" Type="2" /> 
-      <Route Start="1418" End="1521" Type="2" /> 
-      <Route Start="1521" End="1624" Type="2" /> 
-      <Route Start="1624" End="2025" Type="2" />  
-      <Route Start="2025" End="2426" Type="2" /> 
-      <Route Start="2426" End="2728" Type="2" />
-      <Route Start="2603" End="2740" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="2603" End="2906" Type="10" />
-      <Route Start="2728" End="3130" Type="2" />
-      <Route Start="2906" End="3109" Type="10" />
-      <Route Start="3109" End="0209" EndOffsetX="1" EndOffsetY="0" Type="10" />
-      <Route Start="3130" End="3232" Type="2" />
-      <Route Start="3232" End="0434" EndOffsetX="1" EndOffsetY="0" Type="2" />
+      <Route Start="0905" End="1102" Color="Yellow" Style="Dashed" />
+      <Route Start="0905" End="1207" Color="Yellow" Style="Dashed" />
+      <Route Start="1102" End="1039" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="1207" End="1211" Color="Yellow" Style="Dashed" />
+      <Route Start="1211" End="1414" Color="Yellow" Style="Dashed" />
+      <Route Start="1414" End="1418" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1418" End="1521" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1521" End="1624" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1624" End="2025" Color="Yellow" Style="Dashed" />  
+      <Route Start="2025" End="2426" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2426" End="2728" Color="Yellow" Style="Dashed" />
+      <Route Start="2603" End="2740" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="2603" End="2906" Color="Blue" Style="Dashed" />
+      <Route Start="2728" End="3130" Color="Yellow" Style="Dashed" />
+      <Route Start="2906" End="3109" Color="Blue" Style="Dashed" />
+      <Route Start="3109" End="0209" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="3130" End="3232" Color="Yellow" Style="Dashed" />
+      <Route Start="3232" End="0434" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -3978,27 +4021,27 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <X>28</X>
     <Y>28</Y>
     <Routes>
-      <Route Start="0209" End="0409" Type="10" />
-      <Route Start="0209" End="3109" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-      <Route Start="0409" End="0711" Type="10" />
-      <Route Start="0434" End="0737" Type="2" />
-      <Route Start="0434" End="3232" EndOffsetX="-1" EndOffsetY="0" Type="2" />
-      <Route Start="0617" End="0714" Type="10" />
-      <Route Start="0617" End="0820" Type="10" />
-      <Route Start="0711" End="0714" Type="10" />
-      <Route Start="0737" End="0938" Type="2" />
-      <Route Start="0820" End="1221" Type="10" />
-      <Route Start="0938" End="0902" EndOffsetX="0" EndOffsetY="1" Type="2" />
-      <Route Start="1221" End="1622" Type="10" />
-      <Route Start="1622" End="1824" Type="10" />
-      <Route Start="1824" End="2224" Type="10" />
-      <Route Start="2224" End="2527" Type="10" />
-      <Route Start="2527" End="2729" Type="10" />
-      <Route Start="2729" End="3131" Type="10" />
-      <Route Start="3034" End="3131" Type="10" />
-      <Route Start="3034" End="3235" Type="10" />
-      <Route Start="3235" End="3238" Type="10" />
-      <Route Start="3238" End="3202" EndOffsetX="0" EndOffsetY="1" Type="10" />
+      <Route Start="0209" End="0409" Color="Blue" Style="Dashed" />
+      <Route Start="0209" End="3109" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0409" End="0711" Color="Blue" Style="Dashed" />
+      <Route Start="0434" End="0737" Color="Yellow" Style="Dashed" />
+      <Route Start="0434" End="3232" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0617" End="0714" Color="Blue" Style="Dashed" />
+      <Route Start="0617" End="0820" Color="Blue" Style="Dashed" />
+      <Route Start="0711" End="0714" Color="Blue" Style="Dashed" />
+      <Route Start="0737" End="0938" Color="Yellow" Style="Dashed" />
+      <Route Start="0820" End="1221" Color="Blue" Style="Dashed" />
+      <Route Start="0938" End="0902" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+      <Route Start="1221" End="1622" Color="Blue" Style="Dashed" />
+      <Route Start="1622" End="1824" Color="Blue" Style="Dashed" />
+      <Route Start="1824" End="2224" Color="Blue" Style="Dashed" />
+      <Route Start="2224" End="2527" Color="Blue" Style="Dashed" />
+      <Route Start="2527" End="2729" Color="Blue" Style="Dashed" />
+      <Route Start="2729" End="3131" Color="Blue" Style="Dashed" />
+      <Route Start="3034" End="3131" Color="Blue" Style="Dashed" />
+      <Route Start="3034" End="3235" Color="Blue" Style="Dashed" />
+      <Route Start="3235" End="3238" Color="Blue" Style="Dashed" />
+      <Route Start="3238" End="3202" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
     </Routes> 
   </Sector>
     <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4007,25 +4050,25 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
       <Name>Aanjiot</Name>
       <DataFile>Aanjiot.sec</DataFile>
       <Routes>
-        <Route Start="0902" End="0938" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-        <Route Start="0902" End="1105" Type="2" /> 
-        <Route Start="1105" End="1208" Type="2" />
-        <Route Start="1208" End="1311" Type="2" />
-        <Route Start="1311" End="1314" Type="2" />
-        <Route Start="1314" End="1416" Type="2" /> 
-        <Route Start="1416" End="1419" Type="2" /> 
-        <Route Start="1419" End="1621" Type="2" />
-        <Route Start="1621" End="1723" Type="2" /> 
-        <Route Start="1723" End="2022" Type="2" /> 
-        <Route Start="2022" End="2424" Type="2" />
-        <Route Start="2424" End="2727" Type="2" />
-        <Route Start="2630" End="2727" Type="2" />
-        <Route Start="2630" End="2933" Type="2" />
-        <Route Start="2933" End="2936" Type="2" />
-        <Route Start="2936" End="0138" EndOffsetX="1" EndOffsetY="0" Type="2" />
-        <Route Start="3202" End="3206" Type="10" />
-        <Route Start="3202" End="3238" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-        <Route Start="3206" End="0408" EndOffsetX="1" EndOffsetY="0" Type="10" />
+        <Route Start="0902" End="0938" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+        <Route Start="0902" End="1105" Color="Yellow" Style="Dashed" /> 
+        <Route Start="1105" End="1208" Color="Yellow" Style="Dashed" />
+        <Route Start="1208" End="1311" Color="Yellow" Style="Dashed" />
+        <Route Start="1311" End="1314" Color="Yellow" Style="Dashed" />
+        <Route Start="1314" End="1416" Color="Yellow" Style="Dashed" /> 
+        <Route Start="1416" End="1419" Color="Yellow" Style="Dashed" /> 
+        <Route Start="1419" End="1621" Color="Yellow" Style="Dashed" />
+        <Route Start="1621" End="1723" Color="Yellow" Style="Dashed" /> 
+        <Route Start="1723" End="2022" Color="Yellow" Style="Dashed" /> 
+        <Route Start="2022" End="2424" Color="Yellow" Style="Dashed" />
+        <Route Start="2424" End="2727" Color="Yellow" Style="Dashed" />
+        <Route Start="2630" End="2727" Color="Yellow" Style="Dashed" />
+        <Route Start="2630" End="2933" Color="Yellow" Style="Dashed" />
+        <Route Start="2933" End="2936" Color="Yellow" Style="Dashed" />
+        <Route Start="2936" End="0138" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+        <Route Start="3202" End="3206" Color="Blue" Style="Dashed" />
+        <Route Start="3202" End="3238" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+        <Route Start="3206" End="0408" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
       </Routes>
     </Sector>
     <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4034,26 +4077,26 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
       <Name>Sedat</Name>
       <DataFile>Sedat.sec</DataFile>
       <Routes>
-        <Route Start="0138" End="0440" Type="2" />
-        <Route Start="0138" End="2936" EndOffsetX="-1" EndOffsetY="0" Type="2" />
-        <Route Start="0408" End="0611" Type="10" />
-        <Route Start="0408" End="3206" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-        <Route Start="0440" End="0603" EndOffsetX="0" EndOffsetY="1" Type="2" />
-        <Route Start="0514" End="0611" Type="10" />
-        <Route Start="0514" End="0616" Type="10" />
-        <Route Start="0616" End="0718" Type="10" />
-        <Route Start="0718" End="1019" Type="10" />
-        <Route Start="1019" End="1321" Type="10" />
-        <Route Start="1321" End="1520" Type="10" />
-        <Route Start="1520" End="1723" Type="10" />
-        <Route Start="1723" End="2125" Type="10" />
-        <Route Start="2125" End="2129" Type="10" />
-        <Route Start="2129" End="2431" Type="10" />
-        <Route Start="2431" End="2534" Type="10" />
-        <Route Start="2534" End="2735" Type="10" />
-        <Route Start="2735" End="2837" Type="10" />
-        <Route Start="2837" End="3040" Type="10" />
-        <Route Start="3040" End="3002" EndOffsetX="0" EndOffsetY="1" Type="10" />
+        <Route Start="0138" End="0440" Color="Yellow" Style="Dashed" />
+        <Route Start="0138" End="2936" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+        <Route Start="0408" End="0611" Color="Blue" Style="Dashed" />
+        <Route Start="0408" End="3206" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+        <Route Start="0440" End="0603" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+        <Route Start="0514" End="0611" Color="Blue" Style="Dashed" />
+        <Route Start="0514" End="0616" Color="Blue" Style="Dashed" />
+        <Route Start="0616" End="0718" Color="Blue" Style="Dashed" />
+        <Route Start="0718" End="1019" Color="Blue" Style="Dashed" />
+        <Route Start="1019" End="1321" Color="Blue" Style="Dashed" />
+        <Route Start="1321" End="1520" Color="Blue" Style="Dashed" />
+        <Route Start="1520" End="1723" Color="Blue" Style="Dashed" />
+        <Route Start="1723" End="2125" Color="Blue" Style="Dashed" />
+        <Route Start="2125" End="2129" Color="Blue" Style="Dashed" />
+        <Route Start="2129" End="2431" Color="Blue" Style="Dashed" />
+        <Route Start="2431" End="2534" Color="Blue" Style="Dashed" />
+        <Route Start="2534" End="2735" Color="Blue" Style="Dashed" />
+        <Route Start="2735" End="2837" Color="Blue" Style="Dashed" />
+        <Route Start="2837" End="3040" Color="Blue" Style="Dashed" />
+        <Route Start="3040" End="3002" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
       </Routes>
     </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4062,26 +4105,26 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Dokliern</Name>
     <DataFile>Dokliern.sec</DataFile>
     <Routes>
-      <Route Start="0603" End="0440" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-      <Route Start="0603" End="0806" Type="2" />
-      <Route Start="0806" End="1107" Type="2" /> 
-      <Route Start="1107" End="1408" Type="2" /> 
-      <Route Start="1408" End="1710" Type="2" /> 
-      <Route Start="1710" End="1812" Type="2" />
-      <Route Start="1812" End="2015" Type="2" />
-      <Route Start="2015" End="2218" Type="2" />
-      <Route Start="2218" End="2420" Type="2" />
-      <Route Start="2420" End="2423" Type="2" />
-      <Route Start="2423" End="2525" Type="2" /> 
-      <Route Start="2525" End="2728" Type="2" /> 
-      <Route Start="2708" End="2711" Type="10" />
-      <Route Start="2708" End="2906" Type="10" />
-      <Route Start="2711" End="3012" Type="10" /> 
-      <Route Start="2728" End="3129" Type="2" />
-      <Route Start="2906" End="3002" Type="10" />
-      <Route Start="3002" End="3040" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="3012" End="0112" EndOffsetX="1" EndOffsetY="0" Type="10" />
-      <Route Start="3129" End="0132" EndOffsetX="1" EndOffsetY="0" Type="2" />
+      <Route Start="0603" End="0440" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0603" End="0806" Color="Yellow" Style="Dashed" />
+      <Route Start="0806" End="1107" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1107" End="1408" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1408" End="1710" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1710" End="1812" Color="Yellow" Style="Dashed" />
+      <Route Start="1812" End="2015" Color="Yellow" Style="Dashed" />
+      <Route Start="2015" End="2218" Color="Yellow" Style="Dashed" />
+      <Route Start="2218" End="2420" Color="Yellow" Style="Dashed" />
+      <Route Start="2420" End="2423" Color="Yellow" Style="Dashed" />
+      <Route Start="2423" End="2525" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2525" End="2728" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2708" End="2711" Color="Blue" Style="Dashed" />
+      <Route Start="2708" End="2906" Color="Blue" Style="Dashed" />
+      <Route Start="2711" End="3012" Color="Blue" Style="Dashed" /> 
+      <Route Start="2728" End="3129" Color="Yellow" Style="Dashed" />
+      <Route Start="2906" End="3002" Color="Blue" Style="Dashed" />
+      <Route Start="3002" End="3040" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="3012" End="0112" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="3129" End="0132" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4090,28 +4133,28 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Freuwel</Name>
     <DataFile>Freuwel.sec</DataFile>
     <Routes>
-      <Route Start="0112" End="0513" Type="10" />
-      <Route Start="0112" End="3012" EndOffsetX="-1" EndOffsetY="0" Type="10" /> 
-      <Route Start="0132" End="0434" Type="2" />
-      <Route Start="0132" End="3129" EndOffsetX="-1" EndOffsetY="0" Type="2" />
-      <Route Start="0434" End="0635" Type="2" />
-      <Route Start="0513" End="0710" Type="10" />
-      <Route Start="0635" End="0938" Type="2" />
-      <Route Start="0710" End="1112" Type="10" />
-      <Route Start="0938" End="1238" Type="2" />
-      <Route Start="1112" End="1113" Type="10" />
-      <Route Start="1113" End="1316" Type="10" />
-      <Route Start="1238" End="1202" EndOffsetX="0" EndOffsetY="1" Type="2" />
-      <Route Start="1316" End="1417" Type="10" />
-      <Route Start="1417" End="1819" Type="10" />
-      <Route Start="1819" End="2120" Type="10" />
-      <Route Start="2120" End="2323" Type="10" />
-      <Route Start="2323" End="2725" Type="10" />
-      <Route Start="2725" End="3027" Type="10" /> 
-      <Route Start="2931" End="2934" Type="10" />
-      <Route Start="2931" End="3027" Type="10" />
-      <Route Start="2934" End="2937" Type="10" />
-      <Route Start="2937" End="2901" EndOffsetX="0" EndOffsetY="1" Type="10" />
+      <Route Start="0112" End="0513" Color="Blue" Style="Dashed" />
+      <Route Start="0112" End="3012" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" /> 
+      <Route Start="0132" End="0434" Color="Yellow" Style="Dashed" />
+      <Route Start="0132" End="3129" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0434" End="0635" Color="Yellow" Style="Dashed" />
+      <Route Start="0513" End="0710" Color="Blue" Style="Dashed" />
+      <Route Start="0635" End="0938" Color="Yellow" Style="Dashed" />
+      <Route Start="0710" End="1112" Color="Blue" Style="Dashed" />
+      <Route Start="0938" End="1238" Color="Yellow" Style="Dashed" />
+      <Route Start="1112" End="1113" Color="Blue" Style="Dashed" />
+      <Route Start="1113" End="1316" Color="Blue" Style="Dashed" />
+      <Route Start="1238" End="1202" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+      <Route Start="1316" End="1417" Color="Blue" Style="Dashed" />
+      <Route Start="1417" End="1819" Color="Blue" Style="Dashed" />
+      <Route Start="1819" End="2120" Color="Blue" Style="Dashed" />
+      <Route Start="2120" End="2323" Color="Blue" Style="Dashed" />
+      <Route Start="2323" End="2725" Color="Blue" Style="Dashed" />
+      <Route Start="2725" End="3027" Color="Blue" Style="Dashed" /> 
+      <Route Start="2931" End="2934" Color="Blue" Style="Dashed" />
+      <Route Start="2931" End="3027" Color="Blue" Style="Dashed" />
+      <Route Start="2934" End="2937" Color="Blue" Style="Dashed" />
+      <Route Start="2937" End="2901" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4120,27 +4163,27 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Gredoren</Name>
     <DataFile>Gredoren.sec</DataFile>
     <Routes>
-      <Route Start="1202" End="1238" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-      <Route Start="1202" End="1404" Type="2" /> 
-      <Route Start="1318" End="1414" Type="2" />
-      <Route Start="1318" End="1520" Type="2" /> 
-      <Route Start="1404" End="1806" Type="2" />
-      <Route Start="1412" End="1414" Type="2" />
-      <Route Start="1412" End="1609" Type="2" /> 
-      <Route Start="1520" End="1621" Type="2" /> 
-      <Route Start="1609" End="1806" Type="2" /> 
-      <Route Start="1621" End="1824" Type="2" /> 
-      <Route Start="1824" End="2026" Type="2" /> 
-      <Route Start="2026" End="2128" Type="2" /> 
-      <Route Start="2128" End="2132" Type="2" /> 
-      <Route Start="2132" End="2434" Type="2" /> 
-      <Route Start="2434" End="2735" Type="2" /> 
-      <Route Start="2735" End="3136" Type="2" /> 
-      <Route Start="2901" End="2905" Type="10" />
-      <Route Start="2901" End="2937" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="2905" End="0106" EndOffsetX="1" EndOffsetY="0" Type="10" />  
-      <Route Start="3136" End="3239" Type="2" /> 
-      <Route Start="3239" End="0201" EndOffsetX="1" EndOffsetY="1" Type="2" />
+      <Route Start="1202" End="1238" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="1202" End="1404" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1318" End="1414" Color="Yellow" Style="Dashed" />
+      <Route Start="1318" End="1520" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1404" End="1806" Color="Yellow" Style="Dashed" />
+      <Route Start="1412" End="1414" Color="Yellow" Style="Dashed" />
+      <Route Start="1412" End="1609" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1520" End="1621" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1609" End="1806" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1621" End="1824" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1824" End="2026" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2026" End="2128" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2128" End="2132" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2132" End="2434" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2434" End="2735" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2735" End="3136" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2901" End="2905" Color="Blue" Style="Dashed" />
+      <Route Start="2901" End="2937" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="2905" End="0106" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />  
+      <Route Start="3136" End="3239" Color="Yellow" Style="Dashed" /> 
+      <Route Start="3239" End="0201" EndOffsetX="1" EndOffsetY="1" Color="Yellow" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4149,24 +4192,24 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Hawlak</Name>
     <DataFile>Hawlak.sec</DataFile>
     <Routes>
-      <Route Start="0106" End="0506" Type="10" />
-      <Route Start="0106" End="2905" EndOffsetX="-1" EndOffsetY="0" Type="10" /> 
-      <Route Start="0506" End="0609" Type="10" />
-      <Route Start="0609" End="1008" Type="10" /> 
-      <Route Start="1008" End="1407" Type="10" />
-      <Route Start="1407" End="1809" Type="10" /> 
-      <Route Start="1809" End="2112" Type="10" /> 
-      <Route Start="2014" End="2017" Type="10" />
-      <Route Start="2014" End="2112" Type="10" />
-      <Route Start="2017" End="2019" Type="10" />
-      <Route Start="2019" End="2322" Type="10" />
-      <Route Start="2322" End="2423" Type="10" />
-      <Route Start="2423" End="2526" Type="10" />
-      <Route Start="2526" End="2628" Type="10" />
-      <Route Start="2628" End="2931" Type="10" />
-      <Route Start="2931" End="2935" Type="10" />
-      <Route Start="2935" End="3138" Type="10" />
-      <Route Start="3138" End="3102" EndOffsetX="0" EndOffsetY="1" Type="10" />
+      <Route Start="0106" End="0506" Color="Blue" Style="Dashed" />
+      <Route Start="0106" End="2905" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" /> 
+      <Route Start="0506" End="0609" Color="Blue" Style="Dashed" />
+      <Route Start="0609" End="1008" Color="Blue" Style="Dashed" /> 
+      <Route Start="1008" End="1407" Color="Blue" Style="Dashed" />
+      <Route Start="1407" End="1809" Color="Blue" Style="Dashed" /> 
+      <Route Start="1809" End="2112" Color="Blue" Style="Dashed" /> 
+      <Route Start="2014" End="2017" Color="Blue" Style="Dashed" />
+      <Route Start="2014" End="2112" Color="Blue" Style="Dashed" />
+      <Route Start="2017" End="2019" Color="Blue" Style="Dashed" />
+      <Route Start="2019" End="2322" Color="Blue" Style="Dashed" />
+      <Route Start="2322" End="2423" Color="Blue" Style="Dashed" />
+      <Route Start="2423" End="2526" Color="Blue" Style="Dashed" />
+      <Route Start="2526" End="2628" Color="Blue" Style="Dashed" />
+      <Route Start="2628" End="2931" Color="Blue" Style="Dashed" />
+      <Route Start="2931" End="2935" Color="Blue" Style="Dashed" />
+      <Route Start="2935" End="3138" Color="Blue" Style="Dashed" />
+      <Route Start="3138" End="3102" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4175,27 +4218,27 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Jdir</Name>
     <DataFile>Jdir.sec</DataFile>
     <Routes>
-      <Route Start="0201" End="0203" Type="2" />
-      <Route Start="0201" End="3239" EndOffsetX="-1" EndOffsetY="-1" Type="2" />
-      <Route Start="0203" End="0405" Type="2" />
-      <Route Start="0405" End="0608" Type="2" />
-      <Route Start="0608" End="0909" Type="2" />
-      <Route Start="0909" End="1112" Type="2" />
-      <Route Start="1112" End="1215" Type="2" />
-      <Route Start="1215" End="1318" Type="2" />
-      <Route Start="1318" End="1619" Type="2" />
-      <Route Start="1619" End="1722" Type="2" />
-      <Route Start="1722" End="1824" Type="2" />
-      <Route Start="1824" End="1827" Type="2" />
-      <Route Start="1827" End="2029" Type="2" />
-      <Route Start="2029" End="2033" Type="2" />
-      <Route Start="2033" End="2037" Type="2" />
-      <Route Start="2037" End="2338" Type="2" />
-      <Route Start="2338" End="2637" Type="2" />
-      <Route Start="2637" End="3039" Type="2" />
-      <Route Start="3039" End="0139" EndOffsetX="1" EndOffsetY="0" Type="2" />
-      <Route Start="3102" End="0104" EndOffsetX="1" EndOffsetY="0" Type="10" />
-      <Route Start="3102" End="3138" EndOffsetX="0" EndOffsetY="-1" Type="10" />
+      <Route Start="0201" End="0203" Color="Yellow" Style="Dashed" />
+      <Route Start="0201" End="3239" EndOffsetX="-1" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0203" End="0405" Color="Yellow" Style="Dashed" />
+      <Route Start="0405" End="0608" Color="Yellow" Style="Dashed" />
+      <Route Start="0608" End="0909" Color="Yellow" Style="Dashed" />
+      <Route Start="0909" End="1112" Color="Yellow" Style="Dashed" />
+      <Route Start="1112" End="1215" Color="Yellow" Style="Dashed" />
+      <Route Start="1215" End="1318" Color="Yellow" Style="Dashed" />
+      <Route Start="1318" End="1619" Color="Yellow" Style="Dashed" />
+      <Route Start="1619" End="1722" Color="Yellow" Style="Dashed" />
+      <Route Start="1722" End="1824" Color="Yellow" Style="Dashed" />
+      <Route Start="1824" End="1827" Color="Yellow" Style="Dashed" />
+      <Route Start="1827" End="2029" Color="Yellow" Style="Dashed" />
+      <Route Start="2029" End="2033" Color="Yellow" Style="Dashed" />
+      <Route Start="2033" End="2037" Color="Yellow" Style="Dashed" />
+      <Route Start="2037" End="2338" Color="Yellow" Style="Dashed" />
+      <Route Start="2338" End="2637" Color="Yellow" Style="Dashed" />
+      <Route Start="2637" End="3039" Color="Yellow" Style="Dashed" />
+      <Route Start="3039" End="0139" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="3102" End="0104" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="3102" End="3138" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4204,28 +4247,28 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Kwaaok</Name>
     <DataFile>Kwaaok.sec</DataFile>
     <Routes>
-      <Route Start="0104" End="0207" Type="10" />
-      <Route Start="0104" End="3102" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-      <Route Start="0139" End="0302" EndOffsetX="0" EndOffsetY="1" Type="2" />
-      <Route Start="0139" End="3039" EndOffsetX="-1" EndOffsetY="0" Type="2" />
-      <Route Start="0207" End="0311" Type="10" />
-      <Route Start="0311" End="0313" Type="10" />
-      <Route Start="0313" End="0515" Type="10" />
-      <Route Start="0515" End="0815" Type="10" />
-      <Route Start="0815" End="1018" Type="10" />
-      <Route Start="1018" End="1020" Type="10" />
-      <Route Start="1020" End="1322" Type="10" />
-      <Route Start="1322" End="1525" Type="10" />
-      <Route Start="1525" End="1927" Type="10" />
-      <Route Start="1927" End="2226" Type="10" />
-      <Route Start="2226" End="2527" Type="10" />
-      <Route Start="2527" End="2728" Type="10" /> 
-      <Route Start="2728" End="2930" Type="10" />
-      <Route Start="2930" End="3133" Type="10" />
-      <Route Start="2937" End="2940" Type="10" />
-      <Route Start="2937" End="3136" Type="10" />
-      <Route Start="2940" End="3102" EndOffsetX="0" EndOffsetY="1" Type="10" />
-      <Route Start="3133" End="3136" Type="10" />
+      <Route Start="0104" End="0207" Color="Blue" Style="Dashed" />
+      <Route Start="0104" End="3102" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0139" End="0302" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+      <Route Start="0139" End="3039" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0207" End="0311" Color="Blue" Style="Dashed" />
+      <Route Start="0311" End="0313" Color="Blue" Style="Dashed" />
+      <Route Start="0313" End="0515" Color="Blue" Style="Dashed" />
+      <Route Start="0515" End="0815" Color="Blue" Style="Dashed" />
+      <Route Start="0815" End="1018" Color="Blue" Style="Dashed" />
+      <Route Start="1018" End="1020" Color="Blue" Style="Dashed" />
+      <Route Start="1020" End="1322" Color="Blue" Style="Dashed" />
+      <Route Start="1322" End="1525" Color="Blue" Style="Dashed" />
+      <Route Start="1525" End="1927" Color="Blue" Style="Dashed" />
+      <Route Start="1927" End="2226" Color="Blue" Style="Dashed" />
+      <Route Start="2226" End="2527" Color="Blue" Style="Dashed" />
+      <Route Start="2527" End="2728" Color="Blue" Style="Dashed" /> 
+      <Route Start="2728" End="2930" Color="Blue" Style="Dashed" />
+      <Route Start="2930" End="3133" Color="Blue" Style="Dashed" />
+      <Route Start="2937" End="2940" Color="Blue" Style="Dashed" />
+      <Route Start="2937" End="3136" Color="Blue" Style="Dashed" />
+      <Route Start="2940" End="3102" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
+      <Route Start="3133" End="3136" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4234,23 +4277,23 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Lazulu</Name>
     <DataFile>Lazulu.sec</DataFile>
     <Routes>
-      <Route Start="0302" End="0139" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-      <Route Start="0302" End="0505" Type="2" />
-      <Route Start="0505" End="0608" Type="2" />
-      <Route Start="0608" End="0808" Type="2" />
-      <Route Start="0808" End="0911" Type="2" />
-      <Route Start="0911" End="1114" Type="2" />
-      <Route Start="1114" End="1412" Type="2" />
-      <Route Start="1412" End="1614" Type="2" />
-      <Route Start="1614" End="1917" Type="2" />
-      <Route Start="1917" End="2318" Type="2" />
-      <Route Start="2318" End="2619" Type="2" />
-      <Route Start="2619" End="2723" Type="2" />
-      <Route Start="2723" End="3025" Type="2" /> 
-      <Route Start="3025" End="0226" EndOffsetX="1" EndOffsetY="0" Type="2" /> 
-      <Route Start="3102" End="2940" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="3102" End="3205" Type="10" />
-      <Route Start="3205" End="0406" EndOffsetX="1" EndOffsetY="0" Type="10" />
+      <Route Start="0302" End="0139" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0302" End="0505" Color="Yellow" Style="Dashed" />
+      <Route Start="0505" End="0608" Color="Yellow" Style="Dashed" />
+      <Route Start="0608" End="0808" Color="Yellow" Style="Dashed" />
+      <Route Start="0808" End="0911" Color="Yellow" Style="Dashed" />
+      <Route Start="0911" End="1114" Color="Yellow" Style="Dashed" />
+      <Route Start="1114" End="1412" Color="Yellow" Style="Dashed" />
+      <Route Start="1412" End="1614" Color="Yellow" Style="Dashed" />
+      <Route Start="1614" End="1917" Color="Yellow" Style="Dashed" />
+      <Route Start="1917" End="2318" Color="Yellow" Style="Dashed" />
+      <Route Start="2318" End="2619" Color="Yellow" Style="Dashed" />
+      <Route Start="2619" End="2723" Color="Yellow" Style="Dashed" />
+      <Route Start="2723" End="3025" Color="Yellow" Style="Dashed" /> 
+      <Route Start="3025" End="0226" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" /> 
+      <Route Start="3102" End="2940" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="3102" End="3205" Color="Blue" Style="Dashed" />
+      <Route Start="3205" End="0406" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4259,28 +4302,28 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Zlekkenn</Name>
     <DataFile>Zlekkenn.sec</DataFile>
     <Routes>
-      <Route Start="0226" End="0528" Type="2" />
-      <Route Start="0226" End="3025" EndOffsetX="-1" EndOffsetY="0" Type="2" />
-      <Route Start="0406" End="0709" Type="10" />
-      <Route Start="0406" End="3205" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-      <Route Start="0528" End="0630" Type="2" /> 
-      <Route Start="0630" End="0633" Type="2" />
-      <Route Start="0633" End="0836" Type="2" />
-      <Route Start="0709" End="0811" Type="10" /> 
-      <Route Start="0811" End="1013" Type="10" />
-      <Route Start="0836" End="1138" Type="2" />
-      <Route Start="1013" End="1117" Type="10" />
-      <Route Start="1117" End="1320" Type="10" /> 
-      <Route Start="1138" End="1101" EndOffsetX="0" EndOffsetY="1" Type="2" />
-      <Route Start="1320" End="1324" Type="10" /> 
-      <Route Start="1324" End="1328" Type="10" /> 
-      <Route Start="1328" End="1728" Type="10" /> 
-      <Route Start="1728" End="2030" Type="10" /> 
-      <Route Start="2030" End="2133" Type="10" />
-      <Route Start="2133" End="2136" Type="10" />
-      <Route Start="2136" End="2437" Type="10" />
-      <Route Start="2437" End="2540" Type="10" />
-      <Route Start="2540" End="2703" EndOffsetX="0" EndOffsetY="1" Type="10" /> 
+      <Route Start="0226" End="0528" Color="Yellow" Style="Dashed" />
+      <Route Start="0226" End="3025" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0406" End="0709" Color="Blue" Style="Dashed" />
+      <Route Start="0406" End="3205" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0528" End="0630" Color="Yellow" Style="Dashed" /> 
+      <Route Start="0630" End="0633" Color="Yellow" Style="Dashed" />
+      <Route Start="0633" End="0836" Color="Yellow" Style="Dashed" />
+      <Route Start="0709" End="0811" Color="Blue" Style="Dashed" /> 
+      <Route Start="0811" End="1013" Color="Blue" Style="Dashed" />
+      <Route Start="0836" End="1138" Color="Yellow" Style="Dashed" />
+      <Route Start="1013" End="1117" Color="Blue" Style="Dashed" />
+      <Route Start="1117" End="1320" Color="Blue" Style="Dashed" /> 
+      <Route Start="1138" End="1101" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+      <Route Start="1320" End="1324" Color="Blue" Style="Dashed" /> 
+      <Route Start="1324" End="1328" Color="Blue" Style="Dashed" /> 
+      <Route Start="1328" End="1728" Color="Blue" Style="Dashed" /> 
+      <Route Start="1728" End="2030" Color="Blue" Style="Dashed" /> 
+      <Route Start="2030" End="2133" Color="Blue" Style="Dashed" />
+      <Route Start="2133" End="2136" Color="Blue" Style="Dashed" />
+      <Route Start="2136" End="2437" Color="Blue" Style="Dashed" />
+      <Route Start="2437" End="2540" Color="Blue" Style="Dashed" />
+      <Route Start="2540" End="2703" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" /> 
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4289,27 +4332,27 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Xobahn</Name>
     <DataFile>Xobahn.sec</DataFile>
     <Routes> 
-      <Route Start="0905" End="1002" Type="2" />
-      <Route Start="0905" End="1108" Type="2" />
-      <Route Start="0911" End="0914" Type="2" />
-      <Route Start="0911" End="1108" Type="2" />
-      <Route Start="0914" End="1017" Type="2" />
-      <Route Start="1002" End="1101" Type="2" />
-      <Route Start="1017" End="1020" Type="2" />
-      <Route Start="1020" End="1422" Type="2" />
-      <Route Start="1101" End="1138" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-      <Route Start="1422" End="1722" Type="2" />
-      <Route Start="1722" End="1925" Type="2" />
-      <Route Start="1925" End="2325" Type="2" /> 
-      <Route Start="2325" End="2626" Type="2" />
-      <Route Start="2626" End="2729" Type="2" /> 
-      <Route Start="2703" End="2540" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="2703" End="2905" Type="10" />
-      <Route Start="2729" End="2932" Type="2" />
-      <Route Start="2905" End="0105" EndOffsetX="1" EndOffsetY="0" Type="10" />
-      <Route Start="2932" End="3035" Type="2" />
-      <Route Start="3035" End="3137" Type="2" />
-      <Route Start="3137" End="0140" EndOffsetX="1" EndOffsetY="0" Type="2" />
+      <Route Start="0905" End="1002" Color="Yellow" Style="Dashed" />
+      <Route Start="0905" End="1108" Color="Yellow" Style="Dashed" />
+      <Route Start="0911" End="0914" Color="Yellow" Style="Dashed" />
+      <Route Start="0911" End="1108" Color="Yellow" Style="Dashed" />
+      <Route Start="0914" End="1017" Color="Yellow" Style="Dashed" />
+      <Route Start="1002" End="1101" Color="Yellow" Style="Dashed" />
+      <Route Start="1017" End="1020" Color="Yellow" Style="Dashed" />
+      <Route Start="1020" End="1422" Color="Yellow" Style="Dashed" />
+      <Route Start="1101" End="1138" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="1422" End="1722" Color="Yellow" Style="Dashed" />
+      <Route Start="1722" End="1925" Color="Yellow" Style="Dashed" />
+      <Route Start="1925" End="2325" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2325" End="2626" Color="Yellow" Style="Dashed" />
+      <Route Start="2626" End="2729" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2703" End="2540" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="2703" End="2905" Color="Blue" Style="Dashed" />
+      <Route Start="2729" End="2932" Color="Yellow" Style="Dashed" />
+      <Route Start="2905" End="0105" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="2932" End="3035" Color="Yellow" Style="Dashed" />
+      <Route Start="3035" End="3137" Color="Yellow" Style="Dashed" />
+      <Route Start="3137" End="0140" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4318,22 +4361,22 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Covoit</Name>
     <DataFile>Covoit.sec</DataFile>
     <Routes>
-      <Route Start="0105" End="0307" Type="10" />
-      <Route Start="0105" End="2905" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-      <Route Start="0140" End="0203" EndOffsetX="0" EndOffsetY="1" Type="2" /> 
-      <Route Start="0140" End="3137" EndOffsetX="-1" EndOffsetY="0" Type="2" />
-      <Route Start="0307" End="0609" Type="10" /> 
-      <Route Start="0609" End="0812" Type="10" />
-      <Route Start="0812" End="1015" Type="10" />
-      <Route Start="0922" End="1019" Type="10" />
-      <Route Start="0922" End="1025" Type="10" /> 
-      <Route Start="1015" End="1019" Type="10" />
-      <Route Start="1025" End="1028" Type="10" />
-      <Route Start="1028" End="1032" Type="10" />
-      <Route Start="1032" End="1434" Type="10" />
-      <Route Start="1434" End="1737" Type="10" />
-      <Route Start="1737" End="2139" Type="10" />
-      <Route Start="2139" End="2302" EndOffsetX="0" EndOffsetY="1" Type="10" /> 
+      <Route Start="0105" End="0307" Color="Blue" Style="Dashed" />
+      <Route Start="0105" End="2905" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0140" End="0203" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" /> 
+      <Route Start="0140" End="3137" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0307" End="0609" Color="Blue" Style="Dashed" /> 
+      <Route Start="0609" End="0812" Color="Blue" Style="Dashed" />
+      <Route Start="0812" End="1015" Color="Blue" Style="Dashed" />
+      <Route Start="0922" End="1019" Color="Blue" Style="Dashed" />
+      <Route Start="0922" End="1025" Color="Blue" Style="Dashed" /> 
+      <Route Start="1015" End="1019" Color="Blue" Style="Dashed" />
+      <Route Start="1025" End="1028" Color="Blue" Style="Dashed" />
+      <Route Start="1028" End="1032" Color="Blue" Style="Dashed" />
+      <Route Start="1032" End="1434" Color="Blue" Style="Dashed" />
+      <Route Start="1434" End="1737" Color="Blue" Style="Dashed" />
+      <Route Start="1737" End="2139" Color="Blue" Style="Dashed" />
+      <Route Start="2139" End="2302" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" /> 
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4342,26 +4385,26 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Venereen</Name>
     <DataFile>Venereen.sec</DataFile>
     <Routes>
-      <Route Start="0203" End="0140" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-      <Route Start="0203" End="0406" Type="2" />
-      <Route Start="0406" End="0510" Type="2" />
-      <Route Start="0510" End="0711" Type="2" />
-      <Route Start="0518" End="0614" Type="2" />
-      <Route Start="0518" End="0621" Type="2" />
-      <Route Start="0614" End="0711" Type="2" /> 
-      <Route Start="0621" End="1023" Type="2" /> 
-      <Route Start="1023" End="1225" Type="2" /> 
-      <Route Start="1225" End="1526" Type="2" />
-      <Route Start="1526" End="1827" Type="2" />
-      <Route Start="1827" End="2029" Type="2" />
-      <Route Start="2029" End="2428" Type="2" />
-      <Route Start="2302" End="2139" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="2302" End="2602" Type="10" />
-      <Route Start="2428" End="2728" Type="2" />
-      <Route Start="2602" End="3004" Type="10" />
-      <Route Start="2728" End="3129" Type="2" />
-      <Route Start="3004" End="0203" EndOffsetX="1" EndOffsetY="0" Type="10" />
-      <Route Start="3129" End="0329" EndOffsetX="1" EndOffsetY="0" Type="2" />
+      <Route Start="0203" End="0140" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0203" End="0406" Color="Yellow" Style="Dashed" />
+      <Route Start="0406" End="0510" Color="Yellow" Style="Dashed" />
+      <Route Start="0510" End="0711" Color="Yellow" Style="Dashed" />
+      <Route Start="0518" End="0614" Color="Yellow" Style="Dashed" />
+      <Route Start="0518" End="0621" Color="Yellow" Style="Dashed" />
+      <Route Start="0614" End="0711" Color="Yellow" Style="Dashed" /> 
+      <Route Start="0621" End="1023" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1023" End="1225" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1225" End="1526" Color="Yellow" Style="Dashed" />
+      <Route Start="1526" End="1827" Color="Yellow" Style="Dashed" />
+      <Route Start="1827" End="2029" Color="Yellow" Style="Dashed" />
+      <Route Start="2029" End="2428" Color="Yellow" Style="Dashed" />
+      <Route Start="2302" End="2139" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="2302" End="2602" Color="Blue" Style="Dashed" />
+      <Route Start="2428" End="2728" Color="Yellow" Style="Dashed" />
+      <Route Start="2602" End="3004" Color="Blue" Style="Dashed" />
+      <Route Start="2728" End="3129" Color="Yellow" Style="Dashed" />
+      <Route Start="3004" End="0203" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="3129" End="0329" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4370,30 +4413,30 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Bovoi</Name>
     <DataFile>Bovoi.sec</DataFile>
     <Routes>
-      <Route Start="0203" End="0605" Type="10" />
-      <Route Start="0203" End="3004" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-      <Route Start="0329" End="0729" Type="2" />
-      <Route Start="0329" End="3129" EndOffsetX="-1" EndOffsetY="0" Type="2" /> 
-      <Route Start="0605" End="1004" Type="10" /> 
-      <Route Start="0729" End="0832" Type="2" /> 
-      <Route Start="0832" End="0935" Type="2" /> 
-      <Route Start="0935" End="1337" Type="2" />
-      <Route Start="1004" End="1108" Type="10" /> 
-      <Route Start="1108" End="1210" Type="10" /> 
-      <Route Start="1210" End="1214" Type="10" />
-      <Route Start="1214" End="1218" Type="10" />
-      <Route Start="1218" End="1321" Type="10" /> 
-      <Route Start="1321" End="1723" Type="10" />
-      <Route Start="1337" End="1540" Type="2" /> 
-      <Route Start="1540" End="1702" EndOffsetX="0" EndOffsetY="1" Type="2" /> 
-      <Route Start="1723" End="2025" Type="10" />
-      <Route Start="2025" End="2326" Type="10" />
-      <Route Start="2326" End="2330" Type="10" />
-      <Route Start="2330" End="2631" Type="10" /> 
-      <Route Start="2631" End="2834" Type="10" />
-      <Route Start="2834" End="2937" Type="10" />
-      <Route Start="2937" End="3040" Type="10" />
-      <Route Start="3040" End="3203" EndOffsetX="0" EndOffsetY="1" Type="10" />
+      <Route Start="0203" End="0605" Color="Blue" Style="Dashed" />
+      <Route Start="0203" End="3004" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0329" End="0729" Color="Yellow" Style="Dashed" />
+      <Route Start="0329" End="3129" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" /> 
+      <Route Start="0605" End="1004" Color="Blue" Style="Dashed" /> 
+      <Route Start="0729" End="0832" Color="Yellow" Style="Dashed" /> 
+      <Route Start="0832" End="0935" Color="Yellow" Style="Dashed" /> 
+      <Route Start="0935" End="1337" Color="Yellow" Style="Dashed" />
+      <Route Start="1004" End="1108" Color="Blue" Style="Dashed" /> 
+      <Route Start="1108" End="1210" Color="Blue" Style="Dashed" /> 
+      <Route Start="1210" End="1214" Color="Blue" Style="Dashed" />
+      <Route Start="1214" End="1218" Color="Blue" Style="Dashed" />
+      <Route Start="1218" End="1321" Color="Blue" Style="Dashed" /> 
+      <Route Start="1321" End="1723" Color="Blue" Style="Dashed" />
+      <Route Start="1337" End="1540" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1540" End="1702" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1723" End="2025" Color="Blue" Style="Dashed" />
+      <Route Start="2025" End="2326" Color="Blue" Style="Dashed" />
+      <Route Start="2326" End="2330" Color="Blue" Style="Dashed" />
+      <Route Start="2330" End="2631" Color="Blue" Style="Dashed" /> 
+      <Route Start="2631" End="2834" Color="Blue" Style="Dashed" />
+      <Route Start="2834" End="2937" Color="Blue" Style="Dashed" />
+      <Route Start="2937" End="3040" Color="Blue" Style="Dashed" />
+      <Route Start="3040" End="3203" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4402,22 +4445,22 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Nikrycist</Name>
     <DataFile>Nikrycist.sec</DataFile>
     <Routes>
-      <Route Start="1702" End="1540" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-      <Route Start="1702" End="2104" Type="2" />
-      <Route Start="2104" End="2406" Type="2" />
-      <Route Start="2406" End="2607" Type="2" />
-      <Route Start="2607" End="2910" Type="2" /> 
-      <Route Start="2910" End="3113" Type="2" />
-      <Route Start="3033" End="3130" Type="2" />
-      <Route Start="3033" End="3236" Type="2" />
-      <Route Start="3113" End="3216" Type="2" />
-      <Route Start="3119" End="3122" Type="2" />
-      <Route Start="3119" End="3216" Type="2" />
-      <Route Start="3122" End="3126" Type="2" />
-      <Route Start="3126" End="3130" Type="2" />
-      <Route Start="3203" End="0205" EndOffsetX="1" EndOffsetY="0" Type="10" />
-      <Route Start="3203" End="3040" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="3236" End="0239" EndOffsetX="1" EndOffsetY="0" Type="2" />
+      <Route Start="1702" End="1540" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="1702" End="2104" Color="Yellow" Style="Dashed" />
+      <Route Start="2104" End="2406" Color="Yellow" Style="Dashed" />
+      <Route Start="2406" End="2607" Color="Yellow" Style="Dashed" />
+      <Route Start="2607" End="2910" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2910" End="3113" Color="Yellow" Style="Dashed" />
+      <Route Start="3033" End="3130" Color="Yellow" Style="Dashed" />
+      <Route Start="3033" End="3236" Color="Yellow" Style="Dashed" />
+      <Route Start="3113" End="3216" Color="Yellow" Style="Dashed" />
+      <Route Start="3119" End="3122" Color="Yellow" Style="Dashed" />
+      <Route Start="3119" End="3216" Color="Yellow" Style="Dashed" />
+      <Route Start="3122" End="3126" Color="Yellow" Style="Dashed" />
+      <Route Start="3126" End="3130" Color="Yellow" Style="Dashed" />
+      <Route Start="3203" End="0205" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="3203" End="3040" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="3236" End="0239" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4426,23 +4469,23 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Molinn</Name>
     <DataFile>Molinn.sec</DataFile>
     <Routes>
-      <Route Start="0205" End="0309" Type="10" />
-      <Route Start="0205" End="3203" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-      <Route Start="0239" End="0501" EndOffsetX="0" EndOffsetY="1" Type="2" />
-      <Route Start="0239" End="3236" EndOffsetX="-1" EndOffsetY="0" Type="2" />
-      <Route Start="0309" End="0512" Type="10" />
-      <Route Start="0512" End="0715" Type="10" />
-      <Route Start="0715" End="1017" Type="10" />
-      <Route Start="1017" End="1219" Type="10" />
-      <Route Start="1219" End="1522" Type="10" />
-      <Route Start="1522" End="1923" Type="10" />
-      <Route Start="1923" End="2225" Type="10" />
-      <Route Start="2225" End="2329" Type="10" />
-      <Route Start="2329" End="2431" Type="10" />
-      <Route Start="2431" End="2535" Type="10" />
-      <Route Start="2535" End="2539" Type="10" />
-      <Route Start="2539" End="2540" Type="10" />
-      <Route Start="2540" End="2403" EndOffsetX="0" EndOffsetY="1" Type="10" />
+      <Route Start="0205" End="0309" Color="Blue" Style="Dashed" />
+      <Route Start="0205" End="3203" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0239" End="0501" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+      <Route Start="0239" End="3236" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0309" End="0512" Color="Blue" Style="Dashed" />
+      <Route Start="0512" End="0715" Color="Blue" Style="Dashed" />
+      <Route Start="0715" End="1017" Color="Blue" Style="Dashed" />
+      <Route Start="1017" End="1219" Color="Blue" Style="Dashed" />
+      <Route Start="1219" End="1522" Color="Blue" Style="Dashed" />
+      <Route Start="1522" End="1923" Color="Blue" Style="Dashed" />
+      <Route Start="1923" End="2225" Color="Blue" Style="Dashed" />
+      <Route Start="2225" End="2329" Color="Blue" Style="Dashed" />
+      <Route Start="2329" End="2431" Color="Blue" Style="Dashed" />
+      <Route Start="2431" End="2535" Color="Blue" Style="Dashed" />
+      <Route Start="2535" End="2539" Color="Blue" Style="Dashed" />
+      <Route Start="2539" End="2540" Color="Blue" Style="Dashed" />
+      <Route Start="2540" End="2403" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4451,30 +4494,30 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Qovar</Name>
     <DataFile>Qovar.sec</DataFile>
     <Routes>
-      <Route Start="0501" End="0239" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-      <Route Start="0501" End="0704" Type="2" />
-      <Route Start="0704" End="0907" Type="2" />
-      <Route Start="0718" End="0814" Type="2" />
-      <Route Start="0718" End="1020" Type="2" />
-      <Route Start="0814" End="0911" Type="2" />
-      <Route Start="0907" End="0911" Type="2" />
-      <Route Start="1020" End="1122" Type="2" />
-      <Route Start="1122" End="1324" Type="2" />
-      <Route Start="1324" End="1724" Type="2" />
-      <Route Start="1724" End="2023" Type="2" />
-      <Route Start="2023" End="2424" Type="2" />
-      <Route Start="2403" End="2407" Type="10" />
-      <Route Start="2403" End="2540" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="2407" End="2511" Type="10" />
-      <Route Start="2424" End="2625" Type="2" />
-      <Route Start="2511" End="2714" Type="10" />
-      <Route Start="2625" End="2827" Type="2" />
-      <Route Start="2714" End="3116" Type="10" />
-      <Route Start="2827" End="2931" Type="2" />
-      <Route Start="2931" End="3034" Type="2" />
-      <Route Start="3034" End="3237" Type="2" />
-      <Route Start="3116" End="0318" EndOffsetX="1" EndOffsetY="0" Type="10" />
-      <Route Start="3237" End="0339" EndOffsetX="1" EndOffsetY="0" Type="2" />
+      <Route Start="0501" End="0239" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0501" End="0704" Color="Yellow" Style="Dashed" />
+      <Route Start="0704" End="0907" Color="Yellow" Style="Dashed" />
+      <Route Start="0718" End="0814" Color="Yellow" Style="Dashed" />
+      <Route Start="0718" End="1020" Color="Yellow" Style="Dashed" />
+      <Route Start="0814" End="0911" Color="Yellow" Style="Dashed" />
+      <Route Start="0907" End="0911" Color="Yellow" Style="Dashed" />
+      <Route Start="1020" End="1122" Color="Yellow" Style="Dashed" />
+      <Route Start="1122" End="1324" Color="Yellow" Style="Dashed" />
+      <Route Start="1324" End="1724" Color="Yellow" Style="Dashed" />
+      <Route Start="1724" End="2023" Color="Yellow" Style="Dashed" />
+      <Route Start="2023" End="2424" Color="Yellow" Style="Dashed" />
+      <Route Start="2403" End="2407" Color="Blue" Style="Dashed" />
+      <Route Start="2403" End="2540" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="2407" End="2511" Color="Blue" Style="Dashed" />
+      <Route Start="2424" End="2625" Color="Yellow" Style="Dashed" />
+      <Route Start="2511" End="2714" Color="Blue" Style="Dashed" />
+      <Route Start="2625" End="2827" Color="Yellow" Style="Dashed" />
+      <Route Start="2714" End="3116" Color="Blue" Style="Dashed" />
+      <Route Start="2827" End="2931" Color="Yellow" Style="Dashed" />
+      <Route Start="2931" End="3034" Color="Yellow" Style="Dashed" />
+      <Route Start="3034" End="3237" Color="Yellow" Style="Dashed" />
+      <Route Start="3116" End="0318" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="3237" End="0339" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4483,21 +4526,21 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Wolkorn</Name>
     <DataFile>Wolkorn.sec</DataFile>
     <Routes>
-      <Route Start="0318" End="0618" Type="10" />
-      <Route Start="0318" End="3116" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-      <Route Start="0339" End="0302" EndOffsetX="0" EndOffsetY="1" Type="2" />
-      <Route Start="0339" End="3237" EndOffsetX="-1" EndOffsetY="0" Type="2" />
-      <Route Start="0618" End="0920" Type="10" />
-      <Route Start="0920" End="1123" Type="10" />
-      <Route Start="1123" End="1324" Type="10" />
-      <Route Start="1324" End="1427" Type="10" />
-      <Route Start="1427" End="1629" Type="10" />
-      <Route Start="1629" End="2030" Type="10" />
-      <Route Start="2030" End="2033" Type="10" />
-      <Route Start="2033" End="2336" Type="10" />
-      <Route Start="2336" End="2438" Type="10" />
-      <Route Start="2438" End="2639" Type="10" />
-      <Route Start="2639" End="3001" EndOffsetX="0" EndOffsetY="1" Type="10" />
+      <Route Start="0318" End="0618" Color="Blue" Style="Dashed" />
+      <Route Start="0318" End="3116" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0339" End="0302" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+      <Route Start="0339" End="3237" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0618" End="0920" Color="Blue" Style="Dashed" />
+      <Route Start="0920" End="1123" Color="Blue" Style="Dashed" />
+      <Route Start="1123" End="1324" Color="Blue" Style="Dashed" />
+      <Route Start="1324" End="1427" Color="Blue" Style="Dashed" />
+      <Route Start="1427" End="1629" Color="Blue" Style="Dashed" />
+      <Route Start="1629" End="2030" Color="Blue" Style="Dashed" />
+      <Route Start="2030" End="2033" Color="Blue" Style="Dashed" />
+      <Route Start="2033" End="2336" Color="Blue" Style="Dashed" />
+      <Route Start="2336" End="2438" Color="Blue" Style="Dashed" />
+      <Route Start="2438" End="2639" Color="Blue" Style="Dashed" />
+      <Route Start="2639" End="3001" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4506,24 +4549,24 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Eyolovar</Name>
     <DataFile>Eyolovar.sec</DataFile>
     <Routes>
-      <Route Start="0302" End="0339" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-      <Route Start="0302" End="0703" Type="2" />
-      <Route Start="0608" End="0706" Type="2" />
-      <Route Start="0608" End="0811" Type="2" />
-      <Route Start="0703" End="0706" Type="2" />
-      <Route Start="0811" End="1213" Type="2" />
-      <Route Start="1213" End="1215" Type="2" />
-      <Route Start="1215" End="1518" Type="2" />
-      <Route Start="1518" End="1721" Type="2" />
-      <Route Start="1721" End="2022" Type="2" />
-      <Route Start="2022" End="2225" Type="2" />
-      <Route Start="2225" End="2528" Type="2" />
-      <Route Start="2528" End="2930" Type="2" /> 
-      <Route Start="2930" End="3131" Type="2" />
-      <Route Start="3001" End="0102" EndOffsetX="1" EndOffsetY="0" Type="10" />
-      <Route Start="3001" End="2639" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="3131" End="3234" Type="2" /> 
-      <Route Start="3234" End="0138" EndOffsetX="1" EndOffsetY="0" Type="2" />
+      <Route Start="0302" End="0339" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0302" End="0703" Color="Yellow" Style="Dashed" />
+      <Route Start="0608" End="0706" Color="Yellow" Style="Dashed" />
+      <Route Start="0608" End="0811" Color="Yellow" Style="Dashed" />
+      <Route Start="0703" End="0706" Color="Yellow" Style="Dashed" />
+      <Route Start="0811" End="1213" Color="Yellow" Style="Dashed" />
+      <Route Start="1213" End="1215" Color="Yellow" Style="Dashed" />
+      <Route Start="1215" End="1518" Color="Yellow" Style="Dashed" />
+      <Route Start="1518" End="1721" Color="Yellow" Style="Dashed" />
+      <Route Start="1721" End="2022" Color="Yellow" Style="Dashed" />
+      <Route Start="2022" End="2225" Color="Yellow" Style="Dashed" />
+      <Route Start="2225" End="2528" Color="Yellow" Style="Dashed" />
+      <Route Start="2528" End="2930" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2930" End="3131" Color="Yellow" Style="Dashed" />
+      <Route Start="3001" End="0102" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="3001" End="2639" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="3131" End="3234" Color="Yellow" Style="Dashed" /> 
+      <Route Start="3234" End="0138" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4532,26 +4575,26 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Rassis</Name>
     <DataFile>Rassis.sec</DataFile>
     <Routes>
-      <Route Start="0102" End="0404" Type="10" />
-      <Route Start="0102" End="3001" EndOffsetX="-1" EndOffsetY="0" Type="10" /> 
-      <Route Start="0138" End="0301" EndOffsetX="0" EndOffsetY="1" Type="2" />
-      <Route Start="0138" End="3234" EndOffsetX="-1" EndOffsetY="0" Type="2" />
-      <Route Start="0404" End="0706" Type="10" />
-      <Route Start="0706" End="1008" Type="10" />
-      <Route Start="1008" End="1308" Type="10" />
-      <Route Start="1308" End="1511" Type="10" />
-      <Route Start="1511" End="1812" Type="10" />
-      <Route Start="1812" End="2015" Type="10" />
-      <Route Start="2015" End="2218" Type="10" />
-      <Route Start="2218" End="2421" Type="10" />
-      <Route Start="2329" End="2432" Type="10" />
-      <Route Start="2329" End="2527" Type="10" />
-      <Route Start="2421" End="2623" Type="10" />
-      <Route Start="2432" End="2634" Type="10" />
-      <Route Start="2527" End="2623" Type="10" />
-      <Route Start="2634" End="2837" Type="10" />
-      <Route Start="2837" End="3040" Type="10" />
-      <Route Start="3040" End="2904" EndOffsetX="0" EndOffsetY="1" Type="10" />
+      <Route Start="0102" End="0404" Color="Blue" Style="Dashed" />
+      <Route Start="0102" End="3001" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" /> 
+      <Route Start="0138" End="0301" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+      <Route Start="0138" End="3234" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0404" End="0706" Color="Blue" Style="Dashed" />
+      <Route Start="0706" End="1008" Color="Blue" Style="Dashed" />
+      <Route Start="1008" End="1308" Color="Blue" Style="Dashed" />
+      <Route Start="1308" End="1511" Color="Blue" Style="Dashed" />
+      <Route Start="1511" End="1812" Color="Blue" Style="Dashed" />
+      <Route Start="1812" End="2015" Color="Blue" Style="Dashed" />
+      <Route Start="2015" End="2218" Color="Blue" Style="Dashed" />
+      <Route Start="2218" End="2421" Color="Blue" Style="Dashed" />
+      <Route Start="2329" End="2432" Color="Blue" Style="Dashed" />
+      <Route Start="2329" End="2527" Color="Blue" Style="Dashed" />
+      <Route Start="2421" End="2623" Color="Blue" Style="Dashed" />
+      <Route Start="2432" End="2634" Color="Blue" Style="Dashed" />
+      <Route Start="2527" End="2623" Color="Blue" Style="Dashed" />
+      <Route Start="2634" End="2837" Color="Blue" Style="Dashed" />
+      <Route Start="2837" End="3040" Color="Blue" Style="Dashed" />
+      <Route Start="3040" End="2904" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4560,24 +4603,24 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Togliss</Name>
     <DataFile>Togliss.sec</DataFile>
     <Routes>
-      <Route Start="0301" End="0138" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-      <Route Start="0301" End="0703" Type="2" /> 
-      <Route Start="0703" End="0707" Type="2" />
-      <Route Start="0707" End="0810" Type="2" /> 
-      <Route Start="0810" End="1013" Type="2" />
-      <Route Start="1013" End="1315" Type="2" /> 
-      <Route Start="1315" End="1518" Type="2" /> 
-      <Route Start="1518" End="1920" Type="2" /> 
-      <Route Start="1920" End="2123" Type="2" />
-      <Route Start="2026" End="2123" Type="2" />
-      <Route Start="2026" End="2329" Type="2" /> 
-      <Route Start="2329" End="2431" Type="2" /> 
-      <Route Start="2431" End="2832" Type="2" /> 
-      <Route Start="2832" End="3034" Type="2" /> 
-      <Route Start="2904" End="3040" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="2904" End="3107" Type="10" /> 
-      <Route Start="3034" End="0236" EndOffsetX="1" EndOffsetY="0" Type="2" />
-      <Route Start="3107" End="0206" EndOffsetX="1" EndOffsetY="0" Type="10" />
+      <Route Start="0301" End="0138" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0301" End="0703" Color="Yellow" Style="Dashed" /> 
+      <Route Start="0703" End="0707" Color="Yellow" Style="Dashed" />
+      <Route Start="0707" End="0810" Color="Yellow" Style="Dashed" /> 
+      <Route Start="0810" End="1013" Color="Yellow" Style="Dashed" />
+      <Route Start="1013" End="1315" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1315" End="1518" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1518" End="1920" Color="Yellow" Style="Dashed" /> 
+      <Route Start="1920" End="2123" Color="Yellow" Style="Dashed" />
+      <Route Start="2026" End="2123" Color="Yellow" Style="Dashed" />
+      <Route Start="2026" End="2329" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2329" End="2431" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2431" End="2832" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2832" End="3034" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2904" End="3040" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="2904" End="3107" Color="Blue" Style="Dashed" /> 
+      <Route Start="3034" End="0236" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="3107" End="0206" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4586,23 +4629,23 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Yovareen</Name>
     <DataFile>Yovareen.sec</DataFile>
     <Routes>
-      <Route Start="0206" End="0409" Type="10" />
-      <Route Start="0206" End="3107" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-      <Route Start="0236" End="0340" Type="2" />
-      <Route Start="0236" End="3034" EndOffsetX="-1" EndOffsetY="0" Type="2" />
-      <Route Start="0340" End="0503" EndOffsetX="0" EndOffsetY="1" Type="2" />
-      <Route Start="0409" End="0611" Type="10" />
-      <Route Start="0611" End="0813" Type="10" />
-      <Route Start="0813" End="0917" Type="10" />
-      <Route Start="0917" End="1019" Type="10" />
-      <Route Start="1019" End="1322" Type="10" />
-      <Route Start="1322" End="1425" Type="10" />
-      <Route Start="1425" End="1529" Type="10" />
-      <Route Start="1529" End="1631" Type="10" />
-      <Route Start="1631" End="1734" Type="10" />
-      <Route Start="1734" End="1837" Type="10" />
-      <Route Start="1740" End="1801" EndOffsetX="0" EndOffsetY="1" Type="10" />
-      <Route Start="1740" End="1837" Type="10" /> 
+      <Route Start="0206" End="0409" Color="Blue" Style="Dashed" />
+      <Route Start="0206" End="3107" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0236" End="0340" Color="Yellow" Style="Dashed" />
+      <Route Start="0236" End="3034" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0340" End="0503" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+      <Route Start="0409" End="0611" Color="Blue" Style="Dashed" />
+      <Route Start="0611" End="0813" Color="Blue" Style="Dashed" />
+      <Route Start="0813" End="0917" Color="Blue" Style="Dashed" />
+      <Route Start="0917" End="1019" Color="Blue" Style="Dashed" />
+      <Route Start="1019" End="1322" Color="Blue" Style="Dashed" />
+      <Route Start="1322" End="1425" Color="Blue" Style="Dashed" />
+      <Route Start="1425" End="1529" Color="Blue" Style="Dashed" />
+      <Route Start="1529" End="1631" Color="Blue" Style="Dashed" />
+      <Route Start="1631" End="1734" Color="Blue" Style="Dashed" />
+      <Route Start="1734" End="1837" Color="Blue" Style="Dashed" />
+      <Route Start="1740" End="1801" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
+      <Route Start="1740" End="1837" Color="Blue" Style="Dashed" /> 
     </Routes>
   </Sector> 
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
@@ -4611,29 +4654,28 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Uberloin</Name>
     <DataFile>Uberloin.sec</DataFile>
     <Routes>
-      <Route Start="0503" End="0340" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-      <Route Start="0503" End="0606" Type="2" />
-      <Route Start="0606" End="0909" Type="2" />
-      <Route Start="0909" End="1012" Type="2" />
-      <Route Start="1012" End="1215" Type="2" />
-      <Route Start="1215" End="1617" Type="2" />
-      <Route Start="1521" End="1617" Type="2" />
-      <Route Start="1521" End="1823" Type="2" />
-      <Route Start="1801" End="1740" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="1801" End="2201" Type="10" />
-      <Route Start="1823" End="1826" Type="2" />
-      <Route Start="1826" End="1929" Type="2" />
-      <Route Start="1929" End="2331" Type="2" />
-      <Route Start="2201" End="2503" Type="10" />
-      <Route Start="2331" End="2534" Type="2" />
-      <Route Start="2503" End="2606" Type="10" />
-      <Route Start="2534" End="2834" Type="2" />
-      <Route Start="2606" End="3008" Type="10" />
-      <Route Start="2834" End="2937" Type="2" />
-      <Route Start="2907" End="3008" Type="3" />
-      <Route Start="2937" End="2901" EndOffsetX="0" EndOffsetY="1" Type="2" />
-      <Route Start="3008" End="3211" Type="10" />
-      <Route Start="3211" End="0214" EndOffsetX="1" EndOffsetY="0" Type="10" />
+      <Route Start="0503" End="0340" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0503" End="0606" Color="Yellow" Style="Dashed" />
+      <Route Start="0606" End="0909" Color="Yellow" Style="Dashed" />
+      <Route Start="0909" End="1012" Color="Yellow" Style="Dashed" />
+      <Route Start="1012" End="1215" Color="Yellow" Style="Dashed" />
+      <Route Start="1215" End="1617" Color="Yellow" Style="Dashed" />
+      <Route Start="1521" End="1617" Color="Yellow" Style="Dashed" />
+      <Route Start="1521" End="1823" Color="Yellow" Style="Dashed" />
+      <Route Start="1801" End="1740" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="1801" End="2201" Color="Blue" Style="Dashed" />
+      <Route Start="1823" End="1826" Color="Yellow" Style="Dashed" />
+      <Route Start="1826" End="1929" Color="Yellow" Style="Dashed" />
+      <Route Start="1929" End="2331" Color="Yellow" Style="Dashed" />
+      <Route Start="2201" End="2503" Color="Blue" Style="Dashed" />
+      <Route Start="2331" End="2534" Color="Yellow" Style="Dashed" />
+      <Route Start="2503" End="2606" Color="Blue" Style="Dashed" />
+      <Route Start="2534" End="2834" Color="Yellow" Style="Dashed" />
+      <Route Start="2606" End="3008" Color="Blue" Style="Dashed" />
+      <Route Start="2834" End="2937" Color="Yellow" Style="Dashed" /> 
+      <Route Start="2937" End="2901" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+      <Route Start="3008" End="3211" Color="Blue" Style="Dashed" />
+      <Route Start="3211" End="0214" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
 
@@ -4643,61 +4685,61 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Indraak</Name>
     <DataFile>Indraak.sec</DataFile>
     <Routes>
-      <Route Start="0214" End="0417" Type="10" />
-      <Route Start="0214" End="3211" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-      <Route Start="0417" End="0619" Type="10" />
-      <Route Start="0619" End="0822" Type="10" />
-      <Route Start="0822" End="1024" Type="10" />
-      <Route Start="1024" End="1127" Type="10" />
-      <Route Start="1030" End="1127" Type="10" />
-      <Route Start="1030" End="1133" Type="10" />
-      <Route Start="1035" End="1133" Type="10" />
-      <Route Start="1035" End="1237" Type="10" />
-      <Route Start="1237" End="1539" Type="10" />
-      <Route Start="1539" End="1502" EndOffsetX="0" EndOffsetY="1" Type="10" />
+      <Route Start="0214" End="0417" Color="Blue" Style="Dashed" />
+      <Route Start="0214" End="3211" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0417" End="0619" Color="Blue" Style="Dashed" />
+      <Route Start="0619" End="0822" Color="Blue" Style="Dashed" />
+      <Route Start="0822" End="1024" Color="Blue" Style="Dashed" />
+      <Route Start="1024" End="1127" Color="Blue" Style="Dashed" />
+      <Route Start="1030" End="1127" Color="Blue" Style="Dashed" />
+      <Route Start="1030" End="1133" Color="Blue" Style="Dashed" />
+      <Route Start="1035" End="1133" Color="Blue" Style="Dashed" />
+      <Route Start="1035" End="1237" Color="Blue" Style="Dashed" />
+      <Route Start="1237" End="1539" Color="Blue" Style="Dashed" />
+      <Route Start="1539" End="1502" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector> 
+  <!--
     <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
       <X>39</X>
       <Y>41</Y>
       <Name>Suar</Name>
       <DataFile>Suar.sec</DataFile>
       <Routes>
-        <Route Start="2901" End="2937" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-        <Route Start="2901" End="3201" Type="2" />
-        <Route Start="3201" End="0302" EndOffsetX="1" EndOffsetY="0" Type="10" />
+        <Route Start="2901" End="2937" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+        <Route Start="2901" End="3201" Color="Yellow" Style="Dashed" />
+        <Route Start="3201" End="0302" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
       </Routes>
   </Sector>
-
       <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
     <X>40</X>
     <Y>41</Y>
     <Name>Ondraak</Name>
     <DataFile>Ondraak.sec</DataFile>
         <Routes>
-          <Route Start="0302" End="3201" EndOffsetX="-1" EndOffsetY="0" Type="2" />
-          <Route Start="0302" End="0504" Type="2" />
-          <Route Start="0504" End="0508" Type="2" />
-          <Route Start="0508" End="0611" Type="2" />
-          <Route Start="0611" End="0814" Type="2" />
-          <Route Start="0814" End="0918" Type="2" />
-          <Route Start="0918" End="1121" Type="2" />
-          <Route Start="1121" End="1523" Type="2" />
-          <Route Start="1502" End="1539" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-          <Route Start="1502" End="1904" Type="10" />
-          <Route Start="1523" End="1824" Type="2" />
-          <Route Start="1824" End="2127" Type="2" />
-          <Route Start="1904" End="2206" Type="10" />
-          <Route Start="2127" End="2330" Type="2" />
-          <Route Start="2206" End="2608" Type="10" />
-          <Route Start="2330" End="2732" Type="2" />
-          <Route Start="2608" End="2811" Type="10" />
-          <Route Start="2732" End="2934" Type="2" />
-          <Route Start="2811" End="2915" Type="10" />
-          <Route Start="2915" End="3118" Type="10" />
-          <Route Start="2934" End="3236" Type="2" />
-          <Route Start="3118" End="0220" EndOffsetX="1" EndOffsetY="0" Type="10" />
-          <Route Start="3236" End="0239" EndOffsetX="1" EndOffsetY="0" Type="2" />
+          <Route Start="0302" End="3201" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+          <Route Start="0302" End="0504" Color="Yellow" Style="Dashed" />
+          <Route Start="0504" End="0508" Color="Yellow" Style="Dashed" />
+          <Route Start="0508" End="0611" Color="Yellow" Style="Dashed" />
+          <Route Start="0611" End="0814" Color="Yellow" Style="Dashed" />
+          <Route Start="0814" End="0918" Color="Yellow" Style="Dashed" />
+          <Route Start="0918" End="1121" Color="Yellow" Style="Dashed" />
+          <Route Start="1121" End="1523" Color="Yellow" Style="Dashed" />
+          <Route Start="1502" End="1539" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+          <Route Start="1502" End="1904" Color="Blue" Style="Dashed" />
+          <Route Start="1523" End="1824" Color="Yellow" Style="Dashed" />
+          <Route Start="1824" End="2127" Color="Yellow" Style="Dashed" />
+          <Route Start="1904" End="2206" Color="Blue" Style="Dashed" />
+          <Route Start="2127" End="2330" Color="Yellow" Style="Dashed" />
+          <Route Start="2206" End="2608" Color="Blue" Style="Dashed" />
+          <Route Start="2330" End="2732" Color="Yellow" Style="Dashed" />
+          <Route Start="2608" End="2811" Color="Blue" Style="Dashed" />
+          <Route Start="2732" End="2934" Color="Yellow" Style="Dashed" />
+          <Route Start="2811" End="2915" Color="Blue" Style="Dashed" />
+          <Route Start="2915" End="3118" Color="Blue" Style="Dashed" />
+          <Route Start="2934" End="3236" Color="Yellow" Style="Dashed" />
+          <Route Start="3118" End="0220" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+          <Route Start="3236" End="0239" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
         </Routes>
   </Sector>
   
@@ -4707,18 +4749,18 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Podraak</Name>
     <DataFile>Podraak.sec</DataFile>
     <Routes>
-      <Route Start="0220" End="0622" Type="10" />
-      <Route Start="0220" End="3118" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-      <Route Start="0239" End="0501" EndOffsetX="0" EndOffsetY="1" Type="2" />
-      <Route Start="0239" End="3236" EndOffsetX="-1" EndOffsetY="0" Type="2" />
-      <Route Start="0622" End="0925" Type="10" />
-      <Route Start="0925" End="1128" Type="10" />
-      <Route Start="1128" End="1331" Type="10" />
-      <Route Start="1331" End="1633" Type="10" />
-      <Route Start="1633" End="1836" Type="10" />
-      <Route Start="1836" End="2238" Type="10" />
-      <Route Start="2238" End="2640" Type="10" />
-      <Route Start="2640" End="2803" EndOffsetX="0" EndOffsetY="1" Type="10" />
+      <Route Start="0220" End="0622" Color="Blue" Style="Dashed" />
+      <Route Start="0220" End="3118" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0239" End="0501" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+      <Route Start="0239" End="3236" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0622" End="0925" Color="Blue" Style="Dashed" />
+      <Route Start="0925" End="1128" Color="Blue" Style="Dashed" />
+      <Route Start="1128" End="1331" Color="Blue" Style="Dashed" />
+      <Route Start="1331" End="1633" Color="Blue" Style="Dashed" />
+      <Route Start="1633" End="1836" Color="Blue" Style="Dashed" />
+      <Route Start="1836" End="2238" Color="Blue" Style="Dashed" />
+      <Route Start="2238" End="2640" Color="Blue" Style="Dashed" />
+      <Route Start="2640" End="2803" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
 
@@ -4776,23 +4818,87 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Name>Kaqvir</Name>
     <DataFile>Kaqvir.sec</DataFile>
   </Sector>
+  
+  -->
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
-    <X>45</X>
-    <Y>46</Y>
+    <X>39</X>
+    <Y>41</Y>
+    <Name>Kaqvir</Name>
+    <DataFile>Kaqvir.sec</DataFile>
+    <Routes>
+      <Route Start="2901" End="2937" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="2901" End="3102" Color="Yellow" Style="Dashed" />
+      <Route Start="3102" End="0202" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+    </Routes>
+  </Sector>
+  
+  <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+    <X>40</X>
+    <Y>41</Y>
     <Name>Nuuvaal</Name>
     <DataFile>Nuuvaal.sec</DataFile>
+    <Routes>
+
+      <Route Start="0202" End="3102" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0202" End="0403" Color="Yellow" Style="Dashed" />
+      <Route Start="0403" End="0507" Color="Yellow" Style="Dashed" />
+      <Route Start="0410" End="0507" Color="Yellow" Style="Dashed" />
+      <Route Start="0410" End="0612" Color="Yellow" Style="Dashed" /> 
+      <Route Start="0612" End="0616" Color="Yellow" Style="Dashed" />
+      <Route Start="0616" End="0720" Color="Yellow" Style="Dashed" />
+      <Route Start="0720" End="1121" Color="Yellow" Style="Dashed" />
+      <Route Start="1121" End="1523" Color="Yellow" Style="Dashed" />
+      <Route Start="1523" End="1825" Color="Yellow" Style="Dashed" />
+      <Route Start="1825" End="2227" Color="Yellow" Style="Dashed" />
+      <Route Start="2227" End="2430" Color="Yellow" Style="Dashed" />
+      <Route Start="2430" End="2534" Color="Yellow" Style="Dashed" />
+      <Route Start="1502" End="1539" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="1604" End="1502" Color="Blue" Style="Dashed" />
+      <Route Start="1604" End="1907" Color="Blue" Style="Dashed" />
+      <Route Start="1907" End="2205" Color="Blue" Style="Dashed" />
+      <Route Start="2205" End="2505" Color="Blue" Style="Dashed" />
+      <Route Start="2505" End="2707" Color="Blue" Style="Dashed" />
+      <Route Start="2534" End="2935" Color="Yellow" Style="Dashed" />
+      <Route Start="2707" End="3008" Color="Blue" Style="Dashed" />
+      <Route Start="2935" End="3237" Color="Yellow" Style="Dashed" />
+      <Route Start="3008" End="0108" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="3237" End="0435" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+    </Routes>
   </Sector>
 
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
-    <X>46</X>
-    <Y>46</Y>
+    <X>41</X>
+    <Y>41</Y>
     <Name>Muertos</Name>
     <DataFile>Muertos.sec</DataFile>
+    <Routes>
+      <Route Start="0108" End="0509" Color="Blue" Style="Dashed" />
+      <Route Start="0108" End="3008" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" /> 
+      <Route Start="0435" End="0738" Color="Yellow" Style="Dashed" />
+      <Route Start="0435" End="3237" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
+      <Route Start="0509" End="0711" Color="Blue" Style="Dashed" />
+      <Route Start="0711" End="0715" Color="Blue" Style="Dashed" /> 
+      <Route Start="0715" End="1015" Color="Blue" Style="Dashed" />
+      <Route Start="0738" End="0701" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
+      <Route Start="1015" End="1417" Color="Blue" Style="Dashed" />
+      <Route Start="1417" End="1816" Color="Blue" Style="Dashed" />
+      <Route Start="1816" End="1820" Color="Blue" Style="Dashed" />
+      <Route Start="1820" End="2219" Color="Blue" Style="Dashed" />
+      <Route Start="2219" End="2521" Color="Blue" Style="Dashed" />
+      <Route Start="2324" End="2521" Color="Blue" Style="Dashed" />
+      <Route Start="2324" End="2527" Color="Blue" Style="Dashed" />
+      <Route Start="2333" End="2436" Color="Blue" Style="Dashed" />
+      <Route Start="2333" End="2531" Color="Blue" Style="Dashed" />
+      <Route Start="2436" End="2737" Color="Blue" Style="Dashed" />
+      <Route Start="2527" End="2531" Color="Blue" Style="Dashed" />
+      <Route Start="2640" End="2737" Color="Blue" Style="Dashed" />
+      <Route Start="2640" End="3001" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
+    </Routes>
   </Sector>
 
     <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
-    <X>46</X>
-    <Y>47</Y>
+    <X>41</X>
+    <Y>42</Y>
     <Name>Quavos</Name>
     <DataFile>Quavos.sec</DataFile> 
     <Subsectors>
@@ -4814,29 +4920,29 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
       <Subsector Index="P">Paqaq</Subsector>
     </Subsectors>
     <Routes>
-      <Route Start="0514" End="0711" Type="2" />
-      <Route Start="0514" End="0717" Type="2" />
-      <Route Start="0608" End="0711" Type="2" />
-      <Route Start="0608" End="0806" Type="2" />
-      <Route Start="0701" End="0738" EndOffsetX="0" EndOffsetY="-1" Type="2" />
-      <Route Start="0701" End="0803" Type="2" />
-      <Route Start="0717" End="0920" Type="2" />
-      <Route Start="0803" End="0806" Type="2" />
-      <Route Start="0920" End="1322" Type="2" />
-      <Route Start="1322" End="1724" Type="2" />
-      <Route Start="1724" End="1827" Type="2" />
-      <Route Start="1827" End="2129" Type="2" />
-      <Route Start="2129" End="2430" Type="2" />
-      <Route Start="2430" End="2729" Type="2" />
-      <Route Start="2729" End="2928" Type="2" />
-      <Route Start="2926" End="2928" Type="10" />
-      <Route Start="2926" End="3023" Type="10" />
-      <Route Start="3001" End="0203" EndOffsetX="1" EndOffsetY="0" Type="10" />
-      <Route Start="3001" End="2640" EndOffsetX="0" EndOffsetY="-1" Type="10" />
-      <Route Start="3019" End="3023" Type="10" />
-      <Route Start="3019" End="3217" Type="10" />
-      <Route Start="3114" End="0211" EndOffsetX="1" EndOffsetY="0" Type="10" />
-      <Route Start="3114" End="3217" Type="10" />
+      <Route Start="0514" End="0711" Color="Yellow" Style="Dashed" />
+      <Route Start="0514" End="0717" Color="Yellow" Style="Dashed" />
+      <Route Start="0608" End="0711" Color="Yellow" Style="Dashed" />
+      <Route Start="0608" End="0806" Color="Yellow" Style="Dashed" />
+      <Route Start="0701" End="0738" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
+      <Route Start="0701" End="0803" Color="Yellow" Style="Dashed" />
+      <Route Start="0717" End="0920" Color="Yellow" Style="Dashed" />
+      <Route Start="0803" End="0806" Color="Yellow" Style="Dashed" />
+      <Route Start="0920" End="1322" Color="Yellow" Style="Dashed" />
+      <Route Start="1322" End="1724" Color="Yellow" Style="Dashed" />
+      <Route Start="1724" End="1827" Color="Yellow" Style="Dashed" />
+      <Route Start="1827" End="2129" Color="Yellow" Style="Dashed" />
+      <Route Start="2129" End="2430" Color="Yellow" Style="Dashed" />
+      <Route Start="2430" End="2729" Color="Yellow" Style="Dashed" />
+      <Route Start="2729" End="2928" Color="Yellow" Style="Dashed" />
+      <Route Start="2926" End="2928" Color="Blue" Style="Dashed" />
+      <Route Start="2926" End="3023" Color="Blue" Style="Dashed" />
+      <Route Start="3001" End="0203" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="3001" End="2640" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="3019" End="3023" Color="Blue" Style="Dashed" />
+      <Route Start="3019" End="3217" Color="Blue" Style="Dashed" />
+      <Route Start="3114" End="0211" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="3114" End="3217" Color="Blue" Style="Dashed" />
     </Routes>
     <Allegiances>
     </Allegiances>
@@ -4845,8 +4951,8 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
   </Sector>
 
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
-    <X>47</X>
-    <Y>47</Y>
+    <X>42</X>
+    <Y>42</Y>
     <Name>Winkrill</Name>
     <DataFile>Winkrill.sec</DataFile>  
     <Subsectors>
@@ -4868,10 +4974,10 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
       <Subsector Index="P">Pakrin</Subsector>
     </Subsectors>
     <Routes>
-      <Route Start="0203" End="0207" Type="10" />
-      <Route Start="0203" End="3001" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-      <Route Start="0207" End="0211" Type="10" />
-      <Route Start="0211" End="3114" EndOffsetX="-1" EndOffsetY="0" Type="10" />
+      <Route Start="0203" End="0207" Color="Blue" Style="Dashed" />
+      <Route Start="0203" End="3001" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="0207" End="0211" Color="Blue" Style="Dashed" />
+      <Route Start="0211" End="3114" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
 

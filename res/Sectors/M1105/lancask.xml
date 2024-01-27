@@ -23,18 +23,18 @@
     <Subsector Index="P">Pocanask</Subsector>
   </Subsectors>
   <Routes>
-    <Route Start="0209" End="0412" Type="10" />
-    <Route Start="0209" End="3107" EndOffsetX="-1" EndOffsetY="0" Type="10" />
-    <Route Start="0412" End="0516" Type="10" />
-    <Route Start="0516" End="0618" Type="10" />
-    <Route Start="0618" End="1020" Type="10" />
-    <Route Start="1020" End="1124" Type="10" />
-    <Route Start="1124" End="1327" Type="10" />
-    <Route Start="1327" End="1330" Type="10" />
-    <Route Start="1330" End="1533" Type="10" />
-    <Route Start="1533" End="1636" Type="10" />
-    <Route Start="1636" End="1940" Type="10" />
-    <Route Start="1940" End="2302" EndOffsetX="0" EndOffsetY="1" Type="10" />
+    <Route Start="0209" End="0412" Color="Blue" Style="Dashed" />
+    <Route Start="0209" End="3107" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+    <Route Start="0412" End="0516" Color="Blue" Style="Dashed" />
+    <Route Start="0516" End="0618" Color="Blue" Style="Dashed" />
+    <Route Start="0618" End="1020" Color="Blue" Style="Dashed" />
+    <Route Start="1020" End="1124" Color="Blue" Style="Dashed" />
+    <Route Start="1124" End="1327" Color="Blue" Style="Dashed" />
+    <Route Start="1327" End="1330" Color="Blue" Style="Dashed" />
+    <Route Start="1330" End="1533" Color="Blue" Style="Dashed" />
+    <Route Start="1533" End="1636" Color="Blue" Style="Dashed" />
+    <Route Start="1636" End="1940" Color="Blue" Style="Dashed" />
+    <Route Start="1940" End="2302" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
   </Routes>
   <Allegiances>
     <Allegiance Code="It">Itaurrec Unification</Allegiance>
