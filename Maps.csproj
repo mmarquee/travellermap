@@ -593,7 +593,15 @@
     <Content Include="res\Sectors\M1105\extolian.xml" />
     <Content Include="res\Sectors\M1105\Fa Dzaets.txt" />
     <Content Include="res\Sectors\M1105\Fa Dzaets.xml" />
-    <Content Include="res\Sectors\M1105\Fahreahluis.sec" />
+    <Content Include="res\Sectors\M1105\Emlaugh.sec" />
+    <Content Include="res\Sectors\M1105\Axandres.sec" />
+    <Content Include="res\Sectors\M1105\Cimatrax.sec" />
+    <Content Include="res\Sectors\M1105\Bodmairin.sec" />
+    <Content Include="res\Sectors\M1105\Dxan.sec" />
+    <Content Include="res\Sectors\M1105\Fahaadui.sec" />
+    <Content Include="res\Sectors\M1105\Clilorne.sec" />
+    <Content Include="res\Sectors\M1105\Ematal.sec" />
+    <None Include="res\Sectors\M1105\Fahreahluis.tab" />
     <Content Include="res\Sectors\M1105\Faoheiroi-iyhao.txt" />
     <Content Include="res\Sectors\M1105\Far Frontiers.sec" />
     <Content Include="res\Sectors\M1105\Far Frontiers.tab" />
@@ -642,6 +650,7 @@
     <Content Include="res\Sectors\M1105\Dilk.sec" />
     <Content Include="res\Sectors\M1105\Amkril.sec" />
     <Content Include="res\Sectors\M1105\Julienne.sec" />
+    <Content Include="res\Sectors\M1105\Gikmur.sec" />
     <None Include="res\Sectors\M1105\Haust.sec" />
     <Content Include="res\Sectors\M1105\Heakhafaw.sec" />
     <Content Include="res\Sectors\M1105\Hfiywitir.txt" />
@@ -678,6 +687,8 @@
     <Content Include="res\Sectors\M1105\Koirtrua.sec" />
     <Content Include="res\Sectors\M1105\Gimbaine.sec" />
     <Content Include="res\Sectors\M1105\hkakhaeaw.tab" />
+    <Content Include="res\Sectors\M1105\Ingresh.sec" />
+    <Content Include="res\Sectors\M1105\Hiplinni.sec" />
     <None Include="res\Sectors\M1105\Iturokil.sec" />
     <Content Include="res\Sectors\M1105\Itvikiastaf.xml" />
     <Content Include="res\Sectors\M1105\Iwahfuah.tab" />
@@ -849,6 +860,10 @@
     <Content Include="res\Sectors\M1105\Lampaanier.sec" />
     <Content Include="res\Sectors\M1105\Lazulu.sec" />
     <Content Include="res\Sectors\M1105\Kaqvir.sec" />
+    <Content Include="res\Sectors\M1105\Liennore.sec" />
+    <Content Include="res\Sectors\M1105\Jitginni.sec" />
+    <Content Include="res\Sectors\M1105\Kidwar.sec" />
+    <Content Include="res\Sectors\M1105\Limcozal.sec" />
     <None Include="res\Sectors\M1105\Mawass.sec" />
     <Content Include="res\Sectors\M1105\Wrenton.txt" />
     <Content Include="res\Sectors\M1105\Wrenton.xml" />
@@ -907,6 +922,24 @@
     <Content Include="res\Sectors\M1105\Nuuvaal.sec" />
     <Content Include="res\Sectors\M1105\Sporinne.sec" />
     <Content Include="res\Sectors\M1105\Vokral.sec" />
+    <Content Include="res\Sectors\M1105\Vlort.sec" />
+    <Content Include="res\Sectors\M1105\Milhuund.sec" />
+    <Content Include="res\Sectors\M1105\Qoplar.sec" />
+    <Content Include="res\Sectors\M1105\Wakkar.sec" />
+    <Content Include="res\Sectors\M1105\Remuumar.sec" />
+    <Content Include="res\Sectors\M1105\Teinman.sec" />
+    <Content Include="res\Sectors\M1105\Yok.sec" />
+    <Content Include="res\Sectors\M1105\Utgresh.sec" />
+    <Content Include="res\Sectors\M1105\Ovswar.sec" />
+    <Content Include="res\Sectors\M1105\Pevrinirie.sec" />
+    <Content Include="res\Sectors\M1105\Xumma.sec" />
+    <Content Include="res\Sectors\M1105\Nennma.sec" />
+    <Content Include="res\Sectors\M1105\Ziorr.sec" />
+    <Content Include="res\Sectors\M1105\Viopol.sec" />
+    <Content Include="res\Sectors\M1105\Sokabor.sec" />
+    <Content Include="res\Sectors\M1105\Xiist.sec" />
+    <Content Include="res\Sectors\M1105\Revos.sec" />
+    <Content Include="res\Sectors\M1105\Triklien.sec" />
     <None Include="res\Sectors\M1105\Zlekkenn.sec" />
     <Content Include="res\Sectors\M1105\Zortakh.sec" />
     <Content Include="res\Sectors\M1120\1120_Core.sec" />
@@ -1636,6 +1669,7 @@
     <Content Include="res\Sectors\M1105\Tutaq.sec" />
     <Content Include="res\Sectors\M1105\Ufallan.sec" />
     <Content Include="res\Sectors\M1105\Zoswaan.sec" />
+    <Content Include="res\Sectors\M1105\Zostromm.sec" />
     <None Include="Web.config.sample">
       <SubType>Designer</SubType>
     </None>

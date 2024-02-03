@@ -62,7 +62,7 @@ $0509 0312 0 1 12
 #--------1---------2---------3---------4---------5---------6---
 #PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
 #----------   ---- ---------  - --------------- -  --- -- --- -
-Basuerta      0108 BAA4141-B    Fl Lo Ni           504 El
+Basuerta      0208 BAA4141-B    Fl Lo Ni           504 El
 A-2           0502 C470400-A  S De Ni              603 Na
 A-3           0508 E551656-7    Ni Po              203 El
 Guirta        0509 A545364-8    Lo Ni              404 El
@@ -272,8 +272,9 @@ $0435 3237 -1 0 2
 #PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al LRX *
 #----------   ---- ---------  - --------------- -  --- -- --- -
 M-1           0140 E321340-4    Lo Ni Po           213 Na
-M-2           0235 C8A4877-5  S Fl              B  204 Na
 M-3           0239 C200673-6    Na Ni Va        B  505 Na
+Ca-Nakk       0331 B77949D-C  S Ni                 911 Na
+Frekkna       0433 C8A4877-5  S Fl              B  204 Na
 Dreen         0435 C584388-7    Lo Ni              304 Na
 Moaali        0738 E000104-B    As Lo Ni           202 Na
 
