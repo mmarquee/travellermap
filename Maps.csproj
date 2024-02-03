@@ -647,7 +647,6 @@
     <Content Include="res\Sectors\M1105\Hfiywitir.txt" />
     <Content Include="res\Sectors\M1105\Hinterworlds.tab" />
     <Content Include="res\Sectors\M1105\Hinterworlds.xml" />
-    <Content Include="res\Sectors\M1105\hkakhaeaw.sec" />
     <Content Include="res\Sectors\M1105\Hlakhoi.tab" />
     <Content Include="res\Sectors\M1105\Ilelish.tab" />
     <Content Include="res\Sectors\M1105\Ilelish.xml" />
@@ -678,6 +677,7 @@
     <Content Include="res\Sectors\M1105\Grevanne.sec" />
     <Content Include="res\Sectors\M1105\Koirtrua.sec" />
     <Content Include="res\Sectors\M1105\Gimbaine.sec" />
+    <Content Include="res\Sectors\M1105\hkakhaeaw.tab" />
     <None Include="res\Sectors\M1105\Iturokil.sec" />
     <Content Include="res\Sectors\M1105\Itvikiastaf.xml" />
     <Content Include="res\Sectors\M1105\Iwahfuah.tab" />
