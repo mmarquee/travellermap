@@ -119,16 +119,16 @@
   <!-- Fan-Submitted, non-OTU Sectors -->
 
   <Sector Tags="Faraway">
-    <X>60</X>
-    <Y>60</Y>
+    <X>160</X>
+    <Y>160</Y>
     <Name Author="Ed &quot;Dalthor Et Magera&quot; Anderson">Varan</Name>
     <DataFile Author="Ed &quot;Dalthor Et Magera&quot; Anderson" Type="SecondSurvey">Varan.t5</DataFile>
     <MetadataFile Author="Ed &quot;Dalthor Et Magera&quot; Anderson">Varan.xml</MetadataFile>
   </Sector>
 
   <Sector Tags="Farway">
-    <X>70</X>
-    <Y>59</Y>
+    <X>170</X>
+    <Y>159</Y>
     <Name>Dark Sea</Name>
     <DataFile Author="Graham Donald" Type="SecondSurvey">Dark Sea.txt</DataFile>
     <MetadataFile>Dark Sea.xml</MetadataFile>
@@ -187,24 +187,24 @@
   <!-- Non-OTU Sectors from Publications and Fanzines -->
 
   <Sector Tags="Apocryphal">
-    <X>70</X>
-    <Y>60</Y>
+    <X>170</X>
+    <Y>160</Y>
     <Name>Precipice</Name>
     <DataFile Source="Disappearance on Aramat" Author="Gary Pilkington" Publisher="Grenadier Models Inc." Type="SecondSurvey">Precipice.txt</DataFile>
     <MetadataFile>Precipice.xml</MetadataFile>
   </Sector>
 
   <Sector Tags="Apocryphal">
-    <X>69</X>
-    <Y>59</Y>
+    <X>169</X>
+    <Y>159</Y>
     <Name>Alte Grenzen</Name>
     <DataFile Author="Graham Donald" Type="SecondSurvey">Alte Grenzen.txt</DataFile>
     <MetadataFile>Alte Grenzen.xml</MetadataFile>
   </Sector>
 
   <Sector Tags="Apocryphal">
-    <X>69</X>
-    <Y>60</Y>
+    <X>169</X>
+    <Y>160</Y>
     <Name>Rigel</Name>
     <DataFile Source="Queskania, Issue 3" Author="Douglas Webb" Type="SecondSurvey">Rigel.txt</DataFile>
     <MetadataFile>Rigel.xml</MetadataFile>
@@ -212,64 +212,64 @@
 
   <Sector Tags="Apocryphal">
     <Name>Foreven (Imperium Staple)</Name>
-    <X>70</X>
-    <Y>69</Y>
+    <X>170</X>
+    <Y>169</Y>
     <DataFile Type="SecondSurvey">Foreven-ImperiumStaple.txt</DataFile>
     <MetadataFile>Foreven-ImperiumStaple.xml</MetadataFile>
   </Sector>
 
   <Sector Abbreviation="FTTT" Tags="Apocryphal">
     <Name>Fulani (Terra Traveller Times)</Name>
-    <X>68</X>
-    <Y>70</Y>
+    <X>168</X>
+    <Y>170</Y>
     <DataFile Type="SecondSurvey">Fulani-TTT.txt</DataFile>
     <MetadataFile>Fulani-TTT.xml</MetadataFile>
   </Sector>
 
   <Sector Abbreviation="MNCR" Tags="Apocryphal">
     <Name>Meshan (North Coast Roleplaying)</Name>
-    <X>75</X>
-    <Y>68</Y>
+    <X>175</X>
+    <Y>168</Y>
     <DataFile Type="SecondSurvey">Meshan-NCR.txt</DataFile>
     <MetadataFile>Meshan-NCR.xml</MetadataFile>
   </Sector>
 
   <Sector Tags="Apocryphal">
     <Name>Morning Star</Name>
-    <X>72</X>
-    <Y>60</Y>
+    <X>172</X>
+    <Y>160</Y>
     <DataFile Type="SecondSurvey">MorningStar.txt</DataFile>
     <MetadataFile>MorningStar.xml</MetadataFile>
   </Sector>
 
   <Sector Tags="Apocryphal">
     <Name>Ares</Name>
-    <X>74</X>
-    <Y>60</Y>
+    <X>174</X>
+    <Y>160</Y>
     <DataFile Type="SecondSurvey">Ares.txt</DataFile>
     <MetadataFile>Ares.xml</MetadataFile>
   </Sector>
 
   <Sector Abbreviation="Anni" Tags="Apocryphal">
     <Name>Anniversary</Name>
-    <X>70</X>
-    <Y>61</Y>
+    <X>170</X>
+    <Y>161</Y>
     <DataFile Type="SecondSurvey">Anniversary.txt</DataFile>
     <MetadataFile>Anniversary.xml</MetadataFile>
   </Sector>
 
   <Sector Tags="Apocryphal">
     <Name>Nowhere</Name>
-    <X>71</X>
-    <Y>61</Y>
+    <X>171</X>
+    <Y>161</Y>
     <DataFile Type="SecondSurvey">Nowhere.txt</DataFile>
     <MetadataFile>Nowhere.xml</MetadataFile>
   </Sector>
 
   <Sector Tags="Apocryphal">
     <Name>Marischal</Name>
-    <X>70</X>
-    <Y>62</Y>
+    <X>170</X>
+    <Y>162</Y>
     <DataFile Author="Martyn J. Henderson"
               Source="A Travellers Guide to the Marischal Subsector"
               Publisher="Cargonaut Press"
