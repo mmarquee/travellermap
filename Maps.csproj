@@ -916,9 +916,9 @@
     <Content Include="res\Sectors\M1105\Orna.sec" />
     <Content Include="res\Sectors\M1105\Uaftdual.sec" />
     <Content Include="res\Sectors\M1105\Ultret.sec" />
-    <Content Include="res\Sectors\M1105\Quavos.sec" />
-    <Content Include="res\Sectors\M1105\Winkrill.sec" />
-    <Content Include="res\Sectors\M1105\Muertos.sec" />
+    <Content Include="res\Sectors\M1105\Quavos.txt" />
+    <Content Include="res\Sectors\M1105\Winkrill.txt" />
+    <Content Include="res\Sectors\M1105\Muertos.txt" />
     <Content Include="res\Sectors\M1105\Nuuvaal.sec" />
     <Content Include="res\Sectors\M1105\Sporinne.sec" />
     <Content Include="res\Sectors\M1105\Vokral.sec" />
@@ -935,7 +935,7 @@
     <Content Include="res\Sectors\M1105\Xumma.sec" />
     <Content Include="res\Sectors\M1105\Nennma.sec" />
     <Content Include="res\Sectors\M1105\Ziorr.sec" />
-    <Content Include="res\Sectors\M1105\Viopol.sec" />
+    <Content Include="res\Sectors\M1105\Viopol.txt" />
     <Content Include="res\Sectors\M1105\Sokabor.sec" />
     <Content Include="res\Sectors\M1105\Xiist.sec" />
     <Content Include="res\Sectors\M1105\Revos.sec" />

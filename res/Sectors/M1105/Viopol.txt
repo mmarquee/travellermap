@@ -1,0 +1,115 @@
+Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z PBG W A  Stellar
+---- -------------------- --------- -------------------- ---- ---- ---- - -- - --- - -- -------
+0104                      E899765-4                                     - -  - 400   Na        
+0108                      B434951-E Hi In                               - N  - 604   Na        
+0202                      C100100-B Lo Ni Va                            - -  - 614   Na        
+0209                      C9B6377-6 Fl Lo Ni                            - -  A 203   Na        
+0305                      C9B5321-A Fl Lo Ni                            - S  A 401   Na        
+0404                      B6869CD-9 Hi                                  - N  - 902   Na        
+0603 Wioioin              B247100-9 Lo Ni                               - S  - 401   Na        
+0607 Allioh               D332675-3 Na Ni Po                            - S  B 101   Na        
+0610                      C649884-7                                     - S  - 604   Na        
+0902                      C7629CD-7 Hi                                  - -  - 903   Na        
+0907 Hievamaal            X250699-0 De Po                               - -  R 501   Na        
+1202                      C643489-4 Ni Po                               - -  - 410   Na        
+1207                      A748562-C Ag Ni                               - NS - 200   Na        
+1208 Bharnni              C242A66-D Hi In Po                            - -  - 202   Na        
+1507                      E260542-3 De Ni                               - -  - 325   Na        
+1609                      B500563-C Ni Va                               - S  - 204   Na        
+1706                      D776657-6 Ag Ni                               - -  - 224   Na        
+1803                      C438886-9                                     - -  - 204   Na        
+1809                      D88A8BB-7 Wa                                  - -  - 610   Na        
+1905                      B764500-A Ag Ni                               - NS - 100   Na        
+2101                      C455334-8 Lo Ni                               - -  - 514   Na        
+2407                      B647669-8 Ag Ni                               - -  - 703   Na        
+2602 Dorrtiss             E483610-2 Ni                                  - -  - 914   Na        
+2605                      C263354-9 Lo Ni                               - -  - 620   Na        
+2706                      A576530-A Ag Ni                               - NS - 203   Na        
+2804 Amjomma              B476888-A                                     - -  - 802   Na        
+2806                      C326220-B Lo Ni                               - -  - 405   Na        
+2810                      A201237-E Ic Lo Ni Va                         - NS - 820   Na        
+2907                      B000110-A As Lo Ni                            - N  - 310   Na        
+3007 Moliontu             C7A1333-7 Fl Lo Ni                            - S  - 101   Na        
+3009                      C433130-8 Lo Ni Po                            - -  - 303   Na        
+0411                      C631756-A Na Po                               - -  - 504   Na        
+0815                      B000320-E As Lo Ni                            - NS - 112   Na        
+0920                      C777658-5 Ag Ni                               - -  - 805   Na        
+1016                      B639302-D Lo Ni                               - S  - 405   Na        
+1115                      E9D9865-7 Fl                                  - -  - 203   Na        
+1117                      C97A623-8 Ni Wa                               - -  - 405   Na        
+1211                      C251354-6 Lo Ni Po                            - S  - 620   Na        
+1316 Falavva              A84A300-G Lo Ni Wa Cx                         - M  - 624   Fo        
+1319                      D86A783-7 Ri Wa                               - -  - 802   Na        
+1411 Difiolli             C573688-6 Ni                                  - S  - 404   Na        
+1516                      C6B5220-7 Fl Lo Ni                            - S  A 223   Na        
+1614 Jailliana            C357744-9 Ag                                  - -  - 405   Na        
+1619                      B877575-7 Ag Ni                               - S  B 724   Na        
+1816 Vhialla              C6269CC-7 Hi In                               - -  - 901   Na        
+2014                      C764AAA-9 Hi                                  - S  - 921   Na        
+2015                      D565232-3 Lo Ni                               - -  - 912   Na        
+2017 Grionn               E477547-6 Ag Ni                               - -  - 102   Na        
+2114                      E77499B-7 Hi In                               - -  - 323   Na        
+2214                      C436422-6 Ni                                  - -  - 800   Na        
+2312                      A345646-D Ag Ni                               - -  - 824   Na        
+2418 Ationna              D544530-6 Ag Ni                               - -  - 304   Na        
+2520 Hikiona              C576552-9 Ag Ni                               - S  - 813   Na        
+2616                      B355426-A Ni                                  - N  - 904   Na        
+3013                      C463543-8 Ni                                  - S  - 513   Na        
+3114                      C9C9348-9 Fl Lo Ni                            - -  A 210   Na        
+3217                      C549745-4                                     - -  - 413   Na        
+3219                      B200204-A Lo Ni Va                            - NS - 724   Na        
+3220                      C233357-A Lo Ni Po                            - S  - 414   Na        
+0123                      C9779BB-9 Hi In                               - S  - 812   Na        
+0125                      C986210-9 Lo Ni                               - -  - 605   Na        
+0330                      B365855-B Ri                                  - -  - 702   Na        
+0621                      B21035A-D Lo Ni                               - -  - 820   Na        
+0629                      E654952-7 Hi                                  - -  - 424   Na        
+1129                      C686377-6 Lo Ni                               - -  B 103   Na        
+1130                      A20077A-9 Na Va                               - S  B 401   Na        
+1521                      C583468-8 Ni                                  - S  - 412   Na        
+1523                      B9C3ACA-B Fl Hi                               - N  A 401   Na        
+1627                      B9C8145-B Fl Lo Ni                            - NS A 403   Na        
+1723                      E5A0875-4 De                                  - -  B 902   Na        
+1830                      C546A9A-7 Hi In                               - -  - 114   Na        
+2023                      C526957-7 Hi In                               - -  - 100   Na        
+2325                      E4645A7-6 Ag Ni                               - -  - 915   Na        
+2422                      E5889A8-4 Hi                                  - -  - 404   Na        
+2524                      D75676A-6 Ag                                  - S  - 203   Na        
+2529                      C664475-5 Ni                                  - S  B 324   Na        
+2622                      B792327-6 Lo Ni                               - N  - 405   Na        
+2627                      C210315-6 Lo Ni                               - -  - 414   Na        
+2730                      E56A458-7 Ni Wa                               - -  - 513   Na        
+2922 Tiolla               B86A47B-D Ni Wa                               - -  B 703   Na        
+3122                      E698146-2 Lo Ni                               - -  - 903   Na        
+3125 Kriopo               B65959B-C Ni                                  - N  - 204   Na        
+3126                      C86AAFI-9 Hi Wa                               - -  R 313   Na        
+3129 Lollkan              C548ACD-C Hi In                               - -  - 203   Na        
+3224                      C85A400-C Ni Wa                               - S  - 114   Na        
+0139                      C85877C-5 Ag                                  - S  B 703   Na        
+0240                      C787331-4 Lo Ni                               - S  - 625   Na        
+0434                      C120220-C De Lo Ni Po                         - S  - 600   Na        
+0734                      E100544-6 Ni Va                               - -  - 314   Na        
+0736                      D677442-5 Ni                                  - -  - 103   Na        
+0931                      C452AEG-9 Hi Po                               - S  A 820   Na        
+1031                      C548401-A Ni                                  - -  - 813   Na        
+1038                      C481277-9 Lo Ni                               - S  B 514   Na        
+1040                      C330854-B De Na Po                            - -  - 805   Na        
+1338                      D510545-6 Ni                                  - S  - 202   Na        
+1433                      C8A5748-4 Fl                                  - -  - 102   Na        
+1535                      C400412-7 Ni Va                               - S  - 304   Na        
+1831                      B410330-A Lo Ni                               - NS - 602   Na        
+1836                      E878303-3 Lo Ni                               - -  - 501   Na        
+2035                      C657976-8 Hi                                  - S  B 924   Na        
+2133                      D300888-7 Na Va                               - S  - 820   Na        
+2139                      E679965-6 Hi In                               - -  - 720   Na        
+2140                      B332634-C Na Ni Po                            - NS - 802   Na        
+2231                      C4345AB-8 Ni                                  - -  - 214   Na        
+2237                      C676342-8 Lo Ni                               - S  - 104   Na        
+2339                      B425446-8 Ni                                  - N  - 104   Na        
+2340                      B130345-B De Lo Ni Po                         - N  - 723   Na        
+2440                      B684555-B Ag Ni                               - -  - 820   Na        
+2538                      D323487-9 Ni Po                               - S  - 624   Na        
+2831                      B222433-C Ni Po                               - N  - 200   Na        
+2835                      E264748-5 Ag Ri                               - -  - 903   Na        
+2931                      C8388DG-5                                     - -  - 101   Na        
+3038                      C556400-9 Ni                                  - S  - 412   Na        

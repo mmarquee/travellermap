@@ -5126,7 +5126,7 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <X>60</X>
     <Y>61</Y>
     <Name>Viopol</Name>
-    <DataFile>Viopol.sec</DataFile>
+    <DataFile Type="SecondSurvey">Viopol.txt</DataFile>
     <Routes>
       <Route Start="0603" End="0540" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
       <Route Start="0603" End="0607" Color="Yellow" Style="Dashed" />
@@ -5155,7 +5155,7 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <X>61</X>
     <Y>61</Y>
     <Name>Muertos</Name>
-    <DataFile>Muertos.sec</DataFile> 
+    <DataFile Type="SecondSurvey">Muertos.txt</DataFile> 
     <Routes>
       <Route Start="0208" End="0509" Color="Blue" Style="Dashed" />
       <Route Start="0208" End="3007" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" /> 
@@ -5187,7 +5187,7 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <X>61</X>
     <Y>62</Y>
     <Name>Quavos</Name>
-    <DataFile>Quavos.sec</DataFile>  
+    <DataFile Type="SecondSurvey">Quavos.txt</DataFile>  
     <Routes>
       <Route Start="0514" End="0711" Color="Yellow" Style="Dashed" />
       <Route Start="0514" End="0717" Color="Yellow" Style="Dashed" />
@@ -5219,7 +5219,7 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <X>62</X>
     <Y>62</Y>
     <Name>Winkrill</Name>
-    <DataFile>Winkrill.sec</DataFile> 
+    <DataFile Type="SecondSurvey">Winkrill.txt</DataFile> 
     <Routes>
       <Route Start="0203" End="0207" Color="Blue" Style="Dashed" />
       <Route Start="0203" End="3001" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
