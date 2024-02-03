@@ -706,8 +706,8 @@
     <Content Include="res\Sectors\M1105\Ksinanirz.sec" />
     <Content Include="res\Sectors\M1105\Kteex!.txt" />
     <Content Include="res\Sectors\M1105\Ktiingzat.sec" />
-    <Content Include="res\Sectors\M1105\lancask.txt" />
-    <Content Include="res\Sectors\M1105\lancask.xml" />
+    <Content Include="res\Sectors\M1105\Lancask.txt" />
+    <Content Include="res\Sectors\M1105\Lancask.xml" />
     <Content Include="res\Sectors\M1105\langere.sec" />
     <Content Include="res\Sectors\M1105\Langere.tab" />
     <Content Include="res\Sectors\M1105\Langere.xml" />
@@ -738,8 +738,8 @@
     <Content Include="res\Sectors\M1105\Meshan.tab" />
     <Content Include="res\Sectors\M1105\Meshan.xml" />
     <Content Include="res\Sectors\M1105\Mikhail.txt" />
-    <Content Include="res\Sectors\M1105\muarne.txt" />
-    <Content Include="res\Sectors\M1105\muarne.xml" />
+    <Content Include="res\Sectors\M1105\Muarne.txt" />
+    <Content Include="res\Sectors\M1105\Muarne.xml" />
     <Content Include="res\Sectors\M1105\Mugheen%27t.txt" />
     <Content Include="res\Sectors\M1105\Nadir.txt" />
     <Content Include="res\Sectors\M1105\Neworld.tab" />

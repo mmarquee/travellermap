@@ -1,9 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+<Sector>
   <X>6</X>
   <Y>6</Y>
-  <Name Lang="hv">Lancask</Name>
-  <DataFile Type="SecondSurvey">lancask.txt</DataFile>  
+  <Name Lang="hv">Lancask</Name>  
   <Subsectors>
     <Subsector Index="A">Alanca</Subsector>
     <Subsector Index="B">Bancass</Subsector>
