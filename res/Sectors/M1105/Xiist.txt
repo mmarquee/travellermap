@@ -1,0 +1,124 @@
+Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z PBG W A  Stellar
+---- -------------------- --------- -------------------- ---- ---- ---- - -- - --- - -- -------
+0403                      E8B399B-5 Fl Hi                               - -  A 702   Na        
+0406                      C886956-B Hi                                  - -  - 104   Na        
+0506                      C100233-B Lo Ni Va                            - -  - 835   Na        
+0508                      A74499C-C Hi In                               - -  - 301   Na        
+0607 Ajiinia              B210546-A Ni                                  - N  - 303   Na        
+0701 Chiixiin             B529302-A Lo Ni                               - N  - 901   Na        
+0705 Gregiic              E645440-7 Ni                                  - -  - 811   Na        
+0806                      B436765-9                                     - -  - 202   Na        
+1005                      E79A46B-6 Ni Wa                               - -  - 104   Na        
+1201                      D967530-7 Ag Ni                               - -  - 304   Na        
+1203                      B8A7545-B Fl Ni                               - N  - 303   Na        
+1306                      D664765-5 Ag Ri                               - S  - 804   Na        
+1501                      B656664-9 Ag Ni                               - -  - 102   Na        
+1505                      E300224-4 Lo Ni Va                            - -  - 403   Na        
+1806                      D440201-5 De Lo Ni Po                         - -  - 412   Na        
+1905                      D77878D-1 Ag                                  - S  - 914   Na        
+2001                      C400352-B Lo Ni Va                            - -  - 412   Na        
+2010                      E00078C-8 As Na                               - -  - 424   Na        
+2102                      C410379-B Lo Ni                               - -  B 113   Na        
+2107                      D564547-3 Ag Ni                               - S  - 823   Na        
+2310                      X488001-0 Lo                                  - -  R 705   Na        
+2508                      C557695-5 Ag Ni                               - S  - 501   Na        
+2806                      B689343-8 Lo Ni                               - S  - 700   Na        
+2906                      XA79402-0                                     - -  R 224   Na        
+3005                      B6A0310-7 De Lo Ni                            - NS - 500   Na        
+3010                      C877884-5                                     - -  - 924   Na        
+3106                      B671421-B Ni                                  - -  - 605   Na        
+3210                      C623454-7 Ni Po                               - S  - 300   Na        
+0111                      C25487B-7                                     - S  B 503   Na        
+0120                      B5489C8-9 Hi In                               - -  - 702   Na        
+0520                      B535500-A Ni                                  - S  - 914   Na        
+0615                      D448777-5 Ag                                  - -  B 903   Na        
+0711 Miiloox              D994472-6 Ni                                  - -  B 503   Na        
+0814 Emiiuz               D4538B8-4 Po                                  - -  - 604   Na        
+0819                      C584612-6 Ag Ni                               - S  - 312   Na        
+0916 Xiian                B3008CF-C Na Va                               - S  - 122   Na        
+1014                      C7A8665-9 Fl Ni                               - -  - 201   Na        
+1016                      C567564-5 Ag Ni                               - -  - 424   Na        
+1113                      D130153-7 De Lo Ni Po                         - S  - 713   Na        
+1117                      C748524-5 Ag Ni                               - -  - 303   Na        
+1215                      X551884-1 Po                                  - -  R 503   Na        
+1218 Riixamm              B8A4796-9 Fl                                  - -  - 105   Na        
+1411                      C633005-8 Lo Ni Po                            - -  - 620   Na        
+1412                      C979578-8 Ni                                  - S  B 130   Na        
+1519 Foox                 C2126BC-A Ic Na Ni                            - -  - 804   Na        
+1619                      A412565-E Ic Ni                               - -  - 105   Na        
+1719                      AA78334-D Lo Ni                               - S  - 214   Na        
+1720 Gabbiix              B7B4ABC-C Fl Hi                               - S  A 402   Na        
+2011                      C4109CC-C Hi Na                               - S  - 924   Na        
+2216                      E665555-8 Ag Ni                               - -  - 804   Na        
+2312                      B58459A-B Ag Ni                               - -  - 305   Na        
+2314                      E2108BA-3 Na                                  - -  - 714   Na        
+2318                      C457436-9 Ni                                  - -  - 921   Na        
+2419                      B310667-A Na Ni                               - N  - 223   Na        
+2518                      D490500-7 De Ni                               - S  - 704   Na        
+2714                      C411769-7 Ic Na                               - S  - 503   Na        
+2915                      C543251-6 Lo Ni Po                            - -  - 824   Na        
+2916                      B00077A-B As Na                               - -  B 320   Na        
+2919                      A000566-D As Ni                               - -  - 424   Na        
+0524                      B1008DE-A Na Va                               - -  - 900   Na        
+0529                      E8B5777-4 Fl                                  - -  B 801   Na        
+0625                      X453735-0 Po                                  - -  R 522   Na        
+1126                      C10068A-B Na Ni Va                            - -  - 220   Na        
+1225                      E545469-2 Ni                                  - -  - 210   Na        
+1421                      C848776-3 Ag                                  - -  B 313   Na        
+1527                      B674432-7 Ni                                  - S  - 603   Na        
+1723                      C584200-5 Lo Ni                               - S  - 900   Na        
+1825                      C363026-8 Lo Ni                               - S  - 322   Na        
+1921                      E512675-7 Ic Na Ni                            - -  B 504   Na        
+1928                      B442575-7 Ni Po                               - N  B 724   Na        
+2024                      C553222-4 Lo Ni Po                            - -  - 303   Na        
+2121 Ullxiim              E87A479-9 Ni Wa                               - -  B 802   Na        
+2123                      B536775-A                                     - -  B 600   Na        
+2224 Aximok               C9D49CC-B Fl Hi                               - S  - 901   Na        
+2328 Kliixik              C78A573-B Ni Wa                               - S  B 301   Na        
+2523                      C515A78-9 Hi Ic                               - S  B 304   Na        
+2629                      A200367-C Lo Ni Va                            - N  - 213   Na        
+2730                      C4746B8-8 Ag Ni                               - -  - 910   Na        
+2826                      C210667-8 Na Ni                               - S  - 915   Na        
+2827                      C512897-6 Ic Na                               - -  - 212   Na        
+2921                      D120227-8 De Lo Ni Po                         - S  - 515   Na        
+2923                      B8A3985-D Fl Hi                               - S  - 710   Na        
+3028                      D311100-9 Ic Lo Ni                            - S  - 504   Na        
+3223                      C798520-7 Ag Ni                               - S  - 120   Na        
+0133                      C634799-4                                     - S  - 224   Na        
+0537                      A347310-D Lo Ni                               - NS - 124   Na        
+0934                      X673774-0                                     - -  R 513   Na        
+0935                      D585777-3 Ag Ri                               - S  B 922   Na        
+0936                      C5459DC-4 Hi In                               - -  - 700   Na        
+1032                      D495620-5 Ag Ni                               - -  - 904   Na        
+1033                      C65167C-6 Ni Po                               - -  B 323   Na        
+1034                      A8549AD-9 Hi                                  - N  - 205   Na        
+1035                      B599655-B Ni                                  - -  - 612   Na        
+1036                      C140021-8 De Lo Ni Po                         - -  - 723   Na        
+1040                      C22159C-B Ni Po                               - S  - 513   Na        
+1233                      C88727B-4 Lo Ni                               - -  B 810   Na        
+1236                      C310346-B Lo Ni                               - -  - 814   Na        
+1239                      E869676-3 Ni Ri                               - -  B 503   Na        
+1431                      B230975-D De Hi In Na Po                      - NS - 131   Na        
+1531                      A896883-A                                     - -  - 404   Na        
+1535                      CAC5203-8 Fl Lo Ni                            - -  A 810   Na        
+1632                      C564444-5 Ni                                  - S  - 404   Na        
+1636                      C000486-C As Ni                               - -  - 720   Na        
+1834                      C5A0568-5 De Ni                               - S  - 802   Na        
+1839                      B367686-6 Ag Ni Ri                            - N  - 201   Na        
+2037                      E99968A-3 Ni                                  - -  - 511   Na        
+2039                      D4649B7-4 Hi                                  - -  - 403   Na        
+2135                      E9D3664-2 Fl Ni                               - -  - 520   Na        
+2136                      A221962-E Hi In Na Po                         - N  - 304   Na        
+2137                      B4517AB-9 Po                                  - S  - 823   Na        
+2238                      C120304-D De Lo Ni Po                         - S  - 903   Na        
+2331 Oxiixi               A785455-9 Ni                                  - -  - 103   Na        
+2337                      E462201-4 Lo Ni                               - -  - 631   Na        
+2535                      B202445-C Ic Ni Va                            - N  - 802   Na        
+2539                      C885110-6 Lo Ni                               - S  - 713   Na        
+2732 Jiliisx              B000520-B As Ni                               - N  - 703   Na        
+2738                      E363955-5 Hi                                  - -  - 703   Na        
+2839                      C450137-8 De Lo Ni Po                         - -  - 700   Na        
+2938                      C8958DD-4                                     - -  - 510   Na        
+3033 Miliixs              BAD7530-8 Fl Ni                               - S  - 613   Na        
+3233                      E200144-7 Lo Ni Va                            - -  - 701   Na        
+3235 Planilli             C68778C-3 Ag Ri                               - S  - 201   Na        

@@ -599,7 +599,7 @@
     <Content Include="res\Sectors\M1105\Bodmairin.sec" />
     <Content Include="res\Sectors\M1105\Dxan.sec" />
     <Content Include="res\Sectors\M1105\Fahaadui.sec" />
-    <Content Include="res\Sectors\M1105\Clilorne.sec" />
+    <Content Include="res\Sectors\M1105\Clilorne.txt" />
     <Content Include="res\Sectors\M1105\Ematal.sec" />
     <None Include="res\Sectors\M1105\Fahreahluis.tab" />
     <Content Include="res\Sectors\M1105\Faoheiroi-iyhao.txt" />
@@ -863,7 +863,7 @@
     <Content Include="res\Sectors\M1105\Liennore.sec" />
     <Content Include="res\Sectors\M1105\Jitginni.sec" />
     <Content Include="res\Sectors\M1105\Kidwar.sec" />
-    <Content Include="res\Sectors\M1105\Limcozal.sec" />
+    <Content Include="res\Sectors\M1105\Limcozal.txt" />
     <None Include="res\Sectors\M1105\Mawass.sec" />
     <Content Include="res\Sectors\M1105\Wrenton.txt" />
     <Content Include="res\Sectors\M1105\Wrenton.xml" />
@@ -919,7 +919,7 @@
     <Content Include="res\Sectors\M1105\Quavos.txt" />
     <Content Include="res\Sectors\M1105\Winkrill.txt" />
     <Content Include="res\Sectors\M1105\Muertos.txt" />
-    <Content Include="res\Sectors\M1105\Nuuvaal.sec" />
+    <Content Include="res\Sectors\M1105\Nuuvaal.txt" />
     <Content Include="res\Sectors\M1105\Sporinne.sec" />
     <Content Include="res\Sectors\M1105\Vokral.sec" />
     <Content Include="res\Sectors\M1105\Vlort.sec" />
@@ -934,10 +934,10 @@
     <Content Include="res\Sectors\M1105\Pevrinirie.sec" />
     <Content Include="res\Sectors\M1105\Xumma.sec" />
     <Content Include="res\Sectors\M1105\Nennma.sec" />
-    <Content Include="res\Sectors\M1105\Ziorr.sec" />
+    <Content Include="res\Sectors\M1105\Ziorr.txt" />
     <Content Include="res\Sectors\M1105\Viopol.txt" />
     <Content Include="res\Sectors\M1105\Sokabor.sec" />
-    <Content Include="res\Sectors\M1105\Xiist.sec" />
+    <Content Include="res\Sectors\M1105\Xiist.txt" />
     <Content Include="res\Sectors\M1105\Revos.sec" />
     <Content Include="res\Sectors\M1105\Triklien.sec" />
     <None Include="res\Sectors\M1105\Zlekkenn.sec" />

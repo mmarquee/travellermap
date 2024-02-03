@@ -5003,7 +5003,7 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <X>58</X>
     <Y>59</Y>
     <Name>Limcozal</Name>
-    <DataFile>Limcozal.sec</DataFile>
+    <DataFile Type="SecondSurvey">Limcozal.txt</DataFile>
     <Routes>
       <Route Start="0104" End="0108" Color="Yellow" Style="Dashed" />
       <Route Start="0104" End="0240" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
@@ -5029,7 +5029,7 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <X>59</X>
     <Y>59</Y>
     <Name>Ziorr</Name>
-    <DataFile>Ziorr.sec</DataFile>
+    <DataFile Type="SecondSurvey">Ziorr.txt</DataFile>
     <Routes>
       <Route Start="0131" End="0333" Color="Yellow" Style="Dashed" />
       <Route Start="0131" End="3028" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
@@ -5052,7 +5052,7 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <X>60</X>
     <Y>59</Y>
     <Name>Nuuvaal</Name>
-    <DataFile>Nuuvaal.sec</DataFile>
+    <DataFile Type="SecondSurvey">Nuuvaal.txt</DataFile>
     <Routes>
       <Route Start="0117" End="2917" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
       <Route Start="0117" End="0517" Color="Blue" Style="Dashed" /> 
@@ -5073,7 +5073,7 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <X>59</X>
     <Y>60</Y>
     <Name>Xiist</Name>
-    <DataFile>Xiist.sec</DataFile>
+    <DataFile Type="SecondSurvey">Xiist.txt</DataFile>
     <Routes>
       <Route Start="0607" End="0705" Color="Yellow" Style="Dashed" />
       <Route Start="0607" End="0711" Color="Yellow" Style="Dashed" />
@@ -5098,7 +5098,7 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <X>60</X>
     <Y>60</Y>
     <Name>Clilorne</Name>
-    <DataFile>Clilorne.sec</DataFile>
+    <DataFile Type="SecondSurvey">Clilorne.txt</DataFile>
     <Routes>
       <Route Start="0238" End="0540" Color="Yellow" Style="Dashed" />
       <Route Start="0238" End="3235" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" /> 
