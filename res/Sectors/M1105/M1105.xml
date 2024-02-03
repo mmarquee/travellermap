@@ -4754,6 +4754,26 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Y>43</Y>
     <Name>Dilk</Name>
     <DataFile>Dilk.sec</DataFile>
+    <Routes>
+      <Route Start="0103" End="0140" EndOffsetX="0" EndOffsetY="-1" Type="2" />
+      <Route Start="0103" End="0206" Type="2" /> 
+      <Route Start="0206" End="0409" Type="2" />  
+      <Route Start="0409" End="0513" Type="2" /> 
+      <Route Start="0513" End="0716" Type="2" />  
+      <Route Start="0716" End="1018" Type="2" /> 
+      <Route Start="1018" End="1221" Type="2" /> 
+      <Route Start="1221" End="1623" Type="2" /> 
+      <Route Start="1623" End="1825" Type="2" /> 
+      <Route Start="1825" End="2128" Type="2" />  
+      <Route Start="2128" End="2331" Type="2" /> 
+      <Route Start="2331" End="2633" Type="2" /> 
+      <Route Start="2633" End="2836" Type="2" /> 
+      <Route Start="2802" End="2440" EndOffsetX="0" EndOffsetY="-1" Type="10" />
+      <Route Start="2802" End="3204" Type="10" /> 
+      <Route Start="2836" End="3238" Type="2" />  
+      <Route Start="3204" End="0207" EndOffsetX="1" EndOffsetY="0" Type="10" /> 
+      <Route Start="3238" End="0201" EndOffsetX="1" EndOffsetY="1" Type="2" />
+    </Routes>
   </Sector>
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
     <X>43</X>
