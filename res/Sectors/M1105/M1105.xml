@@ -3365,7 +3365,7 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
       <Route Start="2232" End="2336" Color="Blue" Style="Dashed" />
       <Route Start="2336" End="2539" Color="Blue" Style="Dashed" />
       <Route Start="2539" End="2640" Color="Blue" Style="Dashed" />
-      <Route Start="2640" End="2703" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
+      <Route Start="2640" End="2702" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
 
@@ -3376,8 +3376,8 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <DataFile Author="Bari Z. Stafford Sr." Type="SecondSurvey">Ebollan.txt</DataFile>
     <MetadataFile>Ebollan.xml</MetadataFile>
     <Routes>
-      <Route Start="0102" End="3239" EndOffsetX="-1" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
       <Route Start="0102" End="0404" Color="Yellow" Style="Dashed" />
+      <Route Start="0102" End="3239" EndOffsetX="-1" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
       <Route Start="0404" End="0707" Color="Yellow" Style="Dashed" />
       <Route Start="0707" End="0810" Color="Yellow" Style="Dashed" />
       <Route Start="0810" End="1013" Color="Yellow" Style="Dashed" />
@@ -3387,16 +3387,14 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
       <Route Start="1720" End="1823" Color="Yellow" Style="Dashed" />
       <Route Start="1823" End="2025" Color="Yellow" Style="Dashed" />
       <Route Start="2025" End="2328" Color="Yellow" Style="Dashed" />
-      <Route Start="2328" End="2531" Color="Yellow" Style="Dashed" />
-      <Route Start="2531" End="2932" Color="Yellow" Style="Dashed" />
+      <Route Start="2328" End="2630" Color="Yellow" Style="Dashed" />
+      <Route Start="2630" End="2932" Color="Yellow" Style="Dashed" />
       <Route Start="2932" End="3135" Color="Yellow" Style="Dashed" />
       <Route Start="3135" End="3238" Color="Yellow" Style="Dashed" />
       <Route Start="3238" End="0101" EndOffsetX="1" EndOffsetY="1" Color="Yellow" Style="Dashed" />
-
-      <Route Start="2703" End="2640" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
-      <Route Start="2703" End="2804" Color="Blue" Style="Dashed" />
-      <Route Start="2804" End="3106" Color="Blue" Style="Dashed" />
-      <Route Start="3106" End="0107" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+      <Route Start="2702" End="2539" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
+      <Route Start="2702" End="2804" Color="Blue" Style="Dashed" />
+      <Route Start="2804" End="0107" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
     </Routes>
   </Sector>
   <Sector>
