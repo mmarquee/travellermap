@@ -293,29 +293,29 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 0233                      C7648CD-6 Ph Pa Ri                            - -  - 410   NaXX        
 0235                      E000551-9 As Va Ni                            - -  - 402   NaXX        
 0236                      D434744-8                                     - -  A 204   NaXX        
-0239                      D655100-6 Lo Ga                               - D  - 223   Mb        
+0239                      D655100-6 Lo Ga                               - N  - 223   Mb        
 0333                      C210496-9 Ni                                  - -  - 414   NaXX        
 0335                      C766323-5 Lo Ga                               - -  - 110   NaXX        
 0336                      C676566-5 Ag Ni                               - -  - 403   NaXX        
-0339                      C9C2475-5 He Fl Ni                            - D  A 802   Mb          
+0339                      C9C2475-5 He Fl Ni                            - N  A 802   Mb          
 0432                      E677000-0 Ba                                  - -  - 000   NaXX        
 0433                      B544221-8 Lo                                  - -  - 100   NaXX        
 0434                      C563355-6 Lo                                  - -  - 101   NaXX        
-0438 Mebolla Prime        B567745-A Ag Ri                               - D  - 414   Mb          
-0439 Ilundad              X859862-2 Ph Mr (Ilundad)                     - V  R 123   Mb          
+0438 Mebolla Prime        B567745-A Ag Ri Cx                            - N  - 414   Mb          
+0439 Ilundad              X859862-2 Ph Mr (Ilundad)                     - M  R 123   Mb          
 0440                      D48089C-4 De Ri Ph                            - -  - 322   Mb          
 0532                      C7248CA-5 Ph Pi                               - -  - 213   NaXX        
 0534                      C7A0104-B He Lo                               - -  - 301   NaXX        
-0539                      B585257-C Lo                                  - V  - 702   Mb          
+0539                      B585257-C Lo                                  - N  - 702   Mb          
 0540                      C230484-6 De Ni Po                            - -  - 300   Mb            
 0631                      C100503-9 Ni Va                               - -  - 313   NaXX        
 0635                      C74A100-8 Lo Wa                               - -  - 314   NaXX        
-0638                      B442541-8 He Ni Po                            - D  - 413   Mb          
+0638                      B442541-8 He Ni Po                            - N  - 413   Mb          
 0639                      E12089A-5 De Na Po Ph Pi                      - -  - 304   Mb          
 0731                      C130514-8 De Ni Po                            - -  - 820   NaXX        
 0734                      B321632-B He Na Ni Po                         - -  - 104   NaXX        
 0736                      B38626A-B Lo                                  - -  - 334   NaXX        
-0740                      C655756-6 Ag Ga                               - D  - 325   Mb          
+0740                      C655756-6 Ag Ga                               - M  - 325   Mb          
 0834                      C557552-6 Ag Ni                               - -  - 600   NaXX        
 0838                      C8A2444-9 He Fl Ni                            - -  - 110   NaXX        
 0840                      C8A9387-9 Fl Lo                               - -  - 902   Mb          

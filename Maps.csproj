@@ -600,7 +600,7 @@
     <Content Include="res\Sectors\M1105\Dxan.sec" />
     <Content Include="res\Sectors\M1105\Fahaadui.sec" />
     <Content Include="res\Sectors\M1105\Clilorne.txt" />
-    <Content Include="res\Sectors\M1105\Ematal.sec" />
+    <Content Include="res\Sectors\M1105\Ematal.txt" />
     <None Include="res\Sectors\M1105\Fahreahluis.tab" />
     <Content Include="res\Sectors\M1105\Faoheiroi-iyhao.txt" />
     <Content Include="res\Sectors\M1105\Far Frontiers.sec" />
