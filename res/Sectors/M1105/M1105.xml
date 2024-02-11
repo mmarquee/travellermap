@@ -1833,7 +1833,7 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Y>3</Y>
     <X>-8</X>
     <Name Lang="as">Hkakhaeaw</Name>
-    <DataFile Source="CORE" Ref="http://www.ocean-of-storms.com/core/astrogat/i4.htm">hkakhaeaw.tab</DataFile>
+    <DataFile Source="CORE" Ref="http://www.ocean-of-storms.com/core/astrogat/i4.htm">hkakhaeaw.sec</DataFile>
     <Subsectors Source="CORE">
       <Subsector Index="A">Iyye</Subsector>
       <Subsector Index="B">Yow</Subsector>
@@ -2188,7 +2188,7 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Y>4</Y>
     <X>-6</X>
     <Name Lang="as">Heakhafaw</Name>
-    <DataFile Source="Solomani and Aslan" Ref="https://travellermap.com/data/heakhafaw" Type="TabDelimited">Heakhafaw.sec</DataFile>
+    <DataFile Source="Solomani and Aslan" Ref="https://travellermap.com/data/heakhafaw">heakhafaw.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Staiahio</Subsector>
       <Subsector Index="B">Aaotla</Subsector>
@@ -3206,167 +3206,38 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
       <Route Start="0139" End="3036" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
 
 
-      <Route Start="0107" End="3106" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
-      <Route Start="0107" End="0310" Color="Blue" Style="Dashed" />
-      <Route Start="0310" End="0413" Color="Blue" Style="Dashed" />
-      <Route Start="0413" End="0716" Color="Blue" Style="Dashed" />
-      <Route Start="0716" End="0919" Color="Blue" Style="Dashed" />
-      <Route Start="0919" End="1122" Color="Blue" Style="Dashed" />
-      <Route Start="1122" End="1225" Color="Blue" Style="Dashed" />
-      <Route Start="1225" End="1528" Color="Blue" Style="Dashed" />
-      <Route Start="1528" End="1830" Color="Blue" Style="Dashed" />
-      <Route Start="1830" End="2232" Color="Blue" Style="Dashed" />
-      <Route Start="2232" End="2634" Color="Blue" Style="Dashed" />
-      <Route Start="2634" End="2837" Color="Blue" Style="Dashed" />
-      <Route Start="2837" End="3040" Color="Blue" Style="Dashed" />
-      <Route Start="3040" End="0202" EndOffsetX="1" EndOffsetY="1" Color="Blue" Style="Dashed" />
-
-
-
-    </Routes>
-  </Sector>
 
   <!-- Names of the Rim Route -->
   <Sector>
     <Y>9</Y>
     <X>8</X>
-    <Name Source="General Turokan's Expedition to the Rim" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Binaurie</Name>
-    <DataFile>Binaurie.sec</DataFile>
-    <Routes>
-      <Route Start="0302" End="0139" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
-      <Route Start="0302" End="0405" Color="Yellow" Style="Dashed" />
-      <Route Start="0405" End="0509" Color="Yellow" Style="Dashed" />
-      <Route Start="0509" End="0712" Color="Yellow" Style="Dashed" />
-      <Route Start="0712" End="0815" Color="Yellow" Style="Dashed" />
-      <Route Start="0815" End="1018" Color="Yellow" Style="Dashed" />
-      <Route Start="1018" End="1122" Color="Yellow" Style="Dashed" />
-      <Route Start="1122" End="1225" Color="Yellow" Style="Dashed" />
-      <Route Start="1225" End="1427" Color="Yellow" Style="Dashed" />
-      <Route Start="1427" End="1729" Color="Yellow" Style="Dashed" />
-      <Route Start="1729" End="2133" Color="Yellow" Style="Dashed" />
-      <Route Start="2133" End="2435" Color="Yellow" Style="Dashed" />
-      <Route Start="2435" End="2837" Color="Yellow" Style="Dashed" />
-      <Route Start="2837" End="3140" Color="Yellow" Style="Dashed" />
-      <Route Start="3140" End="0201" EndOffsetX="1" EndOffsetY="1" Color="Yellow" Style="Dashed" />
-    </Routes>
+    <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Binaurie</Name>
   </Sector>
   <Sector>
     <Y>9</Y>
     <X>9</X>
-    <Name Source="General Turokan's Expedition to the Rim" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Grevanne</Name>
-    <DataFile>Grevanne.sec</DataFile>
-    <Routes>
-      <Route Start="0202" End="3040" EndOffsetX="-1" EndOffsetY="-1" Color="Blue" Style="Dashed" />
-      <Route Start="0202" End="0306" Color="Blue" Style="Dashed" />
-      <Route Start="0306" End="0509" Color="Blue" Style="Dashed" />
-      <Route Start="0509" End="0712" Color="Blue" Style="Dashed" />
-      <Route Start="0712" End="0915" Color="Blue" Style="Dashed" />
-      <Route Start="0915" End="1018" Color="Blue" Style="Dashed" />
-      <Route Start="1018" End="1122" Color="Blue" Style="Dashed" />
-      <Route Start="1122" End="1325" Color="Blue" Style="Dashed" />
-      <Route Start="1325" End="1627" Color="Blue" Style="Dashed" />
-      <Route Start="1627" End="1830" Color="Blue" Style="Dashed" />
-      <Route Start="1830" End="2033" Color="Blue" Style="Dashed" />
-      <Route Start="2033" End="2235" Color="Blue" Style="Dashed" />
-      <Route Start="2235" End="2438" Color="Blue" Style="Dashed" />
-      <Route Start="2438" End="2601" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
-    </Routes>
+    <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Grevanne</Name>
   </Sector>
 
   <Sector>
     <Y>10</Y>
     <X>9</X>
-    <Name Source="General Turokan's Expedition to the Rim" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Femengaal</Name>
-    <DataFile>Femengaal.sec</DataFile>
-    <Routes>
-      <Route Start="0201" End="3140" EndOffsetX="-1" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
-      <Route Start="0201" End="0404" Color="Yellow" Style="Dashed" />
-      <Route Start="0404" End="0607" Color="Yellow" Style="Dashed" />
-      <Route Start="0607" End="0810" Color="Yellow" Style="Dashed" />
-      <Route Start="0810" End="0913" Color="Yellow" Style="Dashed" />
-      <Route Start="0913" End="1015" Color="Yellow" Style="Dashed" />
-      <Route Start="1015" End="1218" Color="Yellow" Style="Dashed" />
-      <Route Start="1218" End="1322" Color="Yellow" Style="Dashed" />
-      <Route Start="1322" End="1723" Color="Yellow" Style="Dashed" />
-      <Route Start="1723" End="2123" Color="Yellow" Style="Dashed" />
-      <Route Start="2123" End="2425" Color="Yellow" Style="Dashed" />
-      <Route Start="2425" End="2628" Color="Yellow" Style="Dashed" />
-      <Route Start="2628" End="2831" Color="Yellow" Style="Dashed" />
-      <Route Start="2831" End="3034" Color="Yellow" Style="Dashed" />
-      <Route Start="3034" End="0236" EndOffsetX="1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
-    </Routes>
+    <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Femengaal</Name>
   </Sector>
   <Sector>
     <Y>10</Y>
     <X>10</X>
-    <Name Source="General Turokan's Expedition to the Rim" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Wobanna</Name>
-    <DataFile>Wobanna.sec</DataFile>
-    <Routes>
-      <Route Start="0236" End="3034" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
-      <Route Start="0236" End="0439" Color="Yellow" Style="Dashed" />
-      <Route Start="0439" End="0702" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
-      <Route Start="0110" End="0412" Color="Blue" Style="Dashed" />
-      <Route Start="0110" End="3107" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
-      <Route Start="0412" End="0615" Color="Blue" Style="Dashed" />
-      <Route Start="0615" End="0719" Color="Blue" Style="Dashed" />
-      <Route Start="0719" End="0922" Color="Blue" Style="Dashed" />
-      <Route Start="0922" End="1125" Color="Blue" Style="Dashed" />
-      <Route Start="1125" End="1527" Color="Blue" Style="Dashed" />
-      <Route Start="1527" End="1828" Color="Blue" Style="Dashed" />
-      <Route Start="1828" End="2230" Color="Blue" Style="Dashed" />
-      <Route Start="2230" End="2532" Color="Blue" Style="Dashed" />
-      <Route Start="2532" End="2735" Color="Blue" Style="Dashed" />
-      <Route Start="2735" End="2938" Color="Blue" Style="Dashed" />
-      <Route Start="2938" End="3001" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
-    </Routes>
+    <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Wobanna</Name>
   </Sector>
   <Sector>
     <Y>11</Y>
     <X>10</X>
-    <Name Source="General Turokan's Expedition to the Rim" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Poinmaali</Name>
-    <DataFile>Poinmaali.sec</DataFile>
-    <Routes>
-      <Route Start="0702" End="0439" EndOffsetX="0" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
-      <Route Start="0702" End="0706" Color="Yellow" Style="Dashed" />
-      <Route Start="0706" End="0710" Color="Yellow" Style="Dashed" />
-      <Route Start="0710" End="0912" Color="Yellow" Style="Dashed" />
-      <Route Start="0912" End="0916" Color="Yellow" Style="Dashed" />
-      <Route Start="0916" End="1318" Color="Yellow" Style="Dashed" />
-      <Route Start="1318" End="1619" Color="Yellow" Style="Dashed" />
-      <Route Start="1619" End="1822" Color="Yellow" Style="Dashed" />
-      <Route Start="1822" End="2025" Color="Yellow" Style="Dashed" />
-      <Route Start="2025" End="2228" Color="Yellow" Style="Dashed" />
-      <Route Start="2228" End="2431" Color="Yellow" Style="Dashed" />
-      <Route Start="2431" End="2634" Color="Yellow" Style="Dashed" />
-      <Route Start="2634" End="2837" Color="Yellow" Style="Dashed" />
-      <Route Start="2837" End="3239" Color="Yellow" Style="Dashed" />
-      <Route Start="3239" End="0102" EndOffsetX="1" EndOffsetY="1" Color="Yellow" Style="Dashed" />
-      <Route Start="3001" End="2938" EndOffsetX="0" EndOffsetY="-1" Color="Blue" Style="Dashed" />
-      <Route Start="3001" End="3005" Color="Blue" Style="Dashed" />
-      <Route Start="3005" End="0107" EndOffsetX="1" EndOffsetY="0" Color="Blue" Style="Dashed" />
-    </Routes>
+    <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Poinmaali</Name>
   </Sector>
   <Sector>
     <Y>11</Y>
     <X>11</X>
-    <Name Source="General Turokan's Expedition to the Rim" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Hintrab</Name>
-    <DataFile>Hintrab.sec</DataFile>
-    <Routes>
-      <Route Start="0107" End="0409" Color="Blue" Style="Dashed" />
-      <Route Start="0107" End="3005" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
-      <Route Start="0409" End="0612" Color="Blue" Style="Dashed" />
-      <Route Start="0612" End="0915" Color="Blue" Style="Dashed" />
-      <Route Start="0915" End="1217" Color="Blue" Style="Dashed" />
-      <Route Start="1217" End="1420" Color="Blue" Style="Dashed" />
-      <Route Start="1420" End="1623" Color="Blue" Style="Dashed" />
-      <Route Start="1623" End="1727" Color="Blue" Style="Dashed" />
-      <Route Start="1727" End="1930" Color="Blue" Style="Dashed" />
-      <Route Start="1930" End="2232" Color="Blue" Style="Dashed" />
-      <Route Start="2232" End="2336" Color="Blue" Style="Dashed" />
-      <Route Start="2336" End="2539" Color="Blue" Style="Dashed" />
-      <Route Start="2539" End="2640" Color="Blue" Style="Dashed" />
-      <Route Start="2640" End="2702" EndOffsetX="0" EndOffsetY="1" Color="Blue" Style="Dashed" />
-    </Routes>
+    <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Hintrab</Name>
   </Sector>
 
   <Sector>
