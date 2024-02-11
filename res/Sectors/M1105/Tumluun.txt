@@ -1,495 +1,495 @@
 Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z PBG W A  Stellar
 ---- -------------------- --------- -------------------- ---- ---- ---- - -- - --- - -- -------
-0101                      C448658-7 Ag Ni                               - -  - 302   Ka         
-0106                      B474463-C Ni                                  - V  - 310   Ka        
-0107 Stabbi               C21268A-8 Ic Na Ni                            - RT - 523   Ka         
-0203                      B724844-B                                     - -  - 810   Ka        
-0209                      C481302-6 Lo Ni                               - V  - 704   Ka        
-0301                      C747564-8 Ag Ni                               - -  - 302   Ka        
-0304                      C677898-8                                     - W  - 805   Ka        
-0307                      D140741-3 De Po                               - -  - 402   Ka        
-0310 Akanna               C000487-9 As Ni                               - -  - 404   Ka        
-0401                      C565688-5 Ag Ni Ri                            - -  - 104   Ka        
-0402                      B200586-C Ni Va                               - RT - 623   Ka         
-0405                      A8C2100-A Fl Lo Ni                            - D  A 100   Ka        
-0408                      C100441-7 Ni Va                               - V  - 814   Ka        
-0502                      B251358-B Lo Ni Po                            - V  - 304   Ka         
-0607                      E9996BD-5 Ni                                  - -  - 622   Ka         
-0707                      C365965-8 Hi                                  - -  - 825   Ka        
-0708                      C9B5599-A Fl Ni                               - D  A 600   Ka        
-0709                      C675223-9 Lo Ni                               - -  - 313   Ka          
-0808                      C300358-B Lo Ni Va                            - -  - 103   Ka         
-0901                      C250335-A De Lo Ni Po                         - V  - 324   Ka        
-0904                      E775101-6 Lo Ni                               - -  - 133   Ka        
-0907                      E310330-4 Lo Ni                               - -  - 224   Ka        
-0909                      C775650-5 Ag Ni                               - -  - 603   Ka        
-1007                      E200499-8 Ni Va                               - -  - 322   Ka        
-1008                      C447657-A Ag Ni                               - -  - 823   Ka        
-1102                      B500734-8 Na Va                               - W  - 403   Ka         
-1104                      C582311-4 Lo Ni                               - -  - 102   Ka        
-1107                      C565533-7 Ag Ni                               - -  - 405   Ka        
-1108                      C863342-8 Lo Ni                               - V  - 414   Ka        
-1109                      C86A799-5 Ri Wa                               - RT - 704   Ka        
-1202                      C455368-6 Lo Ni                               - -  - 404   Ka        
-1203                      B635867-8                                     - -  - 614   Ka        
-1205                      C679341-5 Lo Ni                               - V  - 603   Ka        
-1209                      C300741-5 Na Va                               - -  - 503   Ka        
-1301                      E341410-7 Ni Po                               - -  - 100   Ka        
-1302                      E120403-A De Ni Po                            - -  - 804   Ka        
-1304                      C88A314-A Lo Ni Wa                            - V  - 504   Ka         
-1402                      B4928DG-4                                     - W  - 615   Ka         
-1408                      C200002-8 Lo Ni Va                            - V  - 704   Ka        
-1409                      D470301-8 De Lo Ni                            - V  - 712   Ka         
-1501                      C200684-9 Na Ni Va                            - -  - 502   Ka         
-1504                      E3447B7-5 Ag                                  - -  - 924   Na        
-1505                      C130430-8 De Ni Po                            - -  - 623   Na          
-1605                      D210766-7 Na                                  - -  - 402   Na        
-1607                      C581763-7 Ri                                  - -  - 604   Na         
-1609                      E100212-5 Lo Ni Va                            - -  - 200   Na        
-1610                      C656211-9 Lo Ni                               - -  - 524   Na        
-1705                      C436657-6 Ni                                  - -  - 501   Na          
-1801                      C767797-5 Ag Ri                               - -  - 710   Na        
-1803                      B572789-9                                     - N  - 700   Na         
-1806                      E4478AE-2                                     - -  - 714   Na          
-1809                      B464468-C Ni                                  - -  - 203   Na        
-1810                      E233446-4 Ni Po                               - -  - 805   Na        
-1902                      A560320-9 De Lo Ni                            - -  - 920   Na        
-1903                      B79A744-7 Wa                                  - -  - 204   Na         
-1905                      D473225-8 Lo Ni                               - S  - 403   Na          
-2002                      C6878DB-2                                     - S  - 723   Na         
-2101                      C511123-5 Ic Lo Ni                            - -  - 804   Na        
-2102                      C471424-A Ni                                  - -  - 703   Na        
-2105                      B333554-B Ni Po                               - N  - 202   Na          
-2301                      D869558-5 Ni                                  - S  - 904   Na        
-2302                      E44659A-8 Ag Ni                               - -  - 922   Na        
-2304                      D727AC9-A Hi In                               - S  - 603   Na        
-2309                      E9797AA-5                                     - W  - 215   Ka        
-2310                      B657446-8 Ni                                  - V  - 702   Ka         
-2407                      C848954-B Hi In                               - -  - 804   Na          
-2501                      B3348AE-A Hi In                               - -  - 203   Na             
-2805                      E100898-5 Na Va                               - -  - 902   Ka         
-2910                      B699102-8 Lo Ni                               - -  - 301   Ka        
-3005                      C575227-6 Lo Ni                               - -  - 213   Ka        
-3007                      B100464-D Ni Va                               - V  - 903   Ka         
-0112                      B251787-9 Po                                  - W  - 703   Ka        
-0114                      C402112-9 Ic Lo Ni Va                         - -  - 604   Ka        
-0118                      A4279DF-D Hi In                               - W  - 520   Ka        
-0120                      E446444-6 Ni                                  - -  - 120   Ka        
-0211                      C643664-6 Ni Po                               - RT - 514   Ka        
-0214                      C000542-7 As Ni                               - -  - 100   Ka        
-0216                      E43345A-7 Ni Po                               - -  - 802   Ka        
-0217                      C360410-5 De Ni                               - -  - 904   Ka        
-0218                      C798203-9 Lo Ni                               - -  - 815   Ka        
-0311                      A475522-9 Ag Ni                               - -  - 412   Ka        
-0312                      B599424-C Ni                                  - V  - 203   Ka        
-0313                      A4328AE-C Na Po                               - W  - 602   Ka        
-0317                      B371400-8 Ni                                  - -  - 911   Ka        
-0411                      C387300-6 Lo Ni                               - -  - 425   Ka        
-0416                      C9D3420-5 Fl Ni                               - -  - 414   Ka        
-0418                      A243366-B Lo Ni Po                            - -  - 414   Ka        
-0512                      C467644-9 Ag Ni Ri                            - -  - 204   Ka        
-0517                      CAB3458-7 Fl Ni                               - D  A 504   Ka        
-0518                      D555410-6 Ni                                  - -  - 623   Ka        
-0519                      A68767A-B Ag Ni Ri                            - -  B 901   Na        
-0611                      C531166-6 Lo Ni Po                            - V  - 902   Ka         
-0614                      C564110-9 Lo Ni                               - -  - 905   Ka        
-0615                      E89A479-4 Ni Wa                               - -  B 610   Na        
-0616                      B5348B8-B                                     - -  - 820   Ka        
-0617                      E465637-2 Ag Ni                               - -  - 711   Ka        
-0619                      C555540-5 Ag Ni                               - -  - 512   Ka        
-0712 Etrogg               C611559-9 Ic Ni                               - -  - 711   Ka        
-0714                      C561210-5 Lo Ni                               - V  - 901   Ka        
-0717                      B455778-8 Ag                                  - -  B 614   Na        
-0720                      E555499-6 Ni                                  - -  - 304   Ka        
-0811                      B531533-7 Ni Po                               - -  - 900   Ka        
-0812                      C100200-B Lo Ni Va                            - V  - 702   Ka        
-0814                      B9C8985-C Fl Hi                               - D  A 824   Ka        
-0816                      E786442-6 Ni                                  - -  - 921   Ka        
-0819                      B445659-C Ag Ni                               - RT - 604   Ka        
-0911                      D675663-4 Ag Ni                               - RT - 804   Ka        
-0913                      A866887-9 Ri                                  - W  - 925   Ka        
-0914                      C4038A6-6 Ic Na Va                            - W  - 404   Ka        
-0915 Flokra               C745775-8 Ag                                  - -  B 522   Na        
-0919                      B252554-D Ni Po                               - -  - 504   Ka         
-1015                      B878799-5 Ag                                  - W  - 200   Ka        
-1016                      D346664-3 Ag Ni                               - RT - 230   Ka        
-1018 Raeema               C742304-6 Lo Ni Po                            - -  - 613   Ka        
-1020                      E85858D-5 Ag Ni                               - -  - 102   Ka        
-1111                      B968411-6 Ni                                  - -  - 314   Ka        
-1112                      B739400-E Ni                                  - -  - 303   Ka        
-1113                      C77A5A9-7 Ni Wa                               - RT - 504   Ka        
-1116                      C647645-3 Ag Ni                               - -  - 824   Ka        
-1117                      C2559BB-A Hi                                  - W  - 201   Ka         
-1120                      C666536-4 Ag Ni                               - RT - 100   Ka        
-1211                      B8A5214-8 Fl Lo Ni                            - -  - 304   Ka        
-1213                      D30069B-6 Na Ni Va                            - RT - 405   Ka        
-1214                      B73A125-B Lo Ni Wa                            - V  - 704   Ka        
-1217                      D997201-3 Lo Ni                               - V  - 804   Ka        
-1218                      C326759-6                                     - W  - 600   Ka        
-1220                      C885831-6                                     - W  - 212   Ka        
-1311                      C347776-4 Ag                                  - -  B 114   Na        
-1312                      B8A3425-A Fl Ni                               - V  - 722   Ka        
-1313                      B897346-B Lo Ni                               - V  - 222   Ka        
-1314                      C427677-5 Ni                                  - -  B 202   Na        
-1317                      E501203-4 Ic Lo Ni Va                         - -  - 700   Ka        
-1414                      D6166BD-5 Ic Ni                               - -  - 831   Ka        
-1417                      C659526-A Ni                                  - -  - 610   Ka        
-1418                      A566573-D Ag Ni                               - -  B 514   Na        
-1511                      C8A9410-B Fl Ni                               - V  - 313   Ka        
-1512                      B683555-A Ni                                  - -  - 911   Ka        
-1513                      D748323-6 Lo Ni                               - V  - 710   Ka        
-1514                      D564864-3 Ri                                  - -  - 723   Ka        
-1518                      A67576B-C Ag                                  - -  - 305   Ka        
-1611                      E555774-2 Ag                                  - -  B 723   Na        
-1618                      A89A9BF-B Hi In Wa                            - -  - 300   Ka        
-1620                      A548746-B Ag                                  - W  - 413   Ka        
-1711                      C759634-8 Ni                                  - -  - 432   Na        
-1716                      C7767CG-5 Ag                                  - -  - 500   Ka        
-1717                      B450885-9 De Po                               - -  - 403   Ka        
-1719                      B51698A-A Hi Ic                               - W  - 102   Ka        
-1812                      C523773-9 Na Po                               - -  B 102   Na        
-1813                      E2536A9-3 Ni Po                               - -  - 612   Ka        
-1815                      D674AEI-5 Hi In                               - D  A 502   Ka        
-1818                      C739415-9 Ni                                  - -  - 301   Ka        
-1912                      C8A2736-6 Fl                                  - -  - 820   Ka        
-1913                      C320478-7 De Ni Po                            - -  B 402   Na        
-1915                      D503843-3 Ic Na Va                            - -  - 801   Ka        
-1917                      C300442-B Ni Va                               - -  - 614   Ka        
-1919                      D967363-3 Lo Ni                               - V  - 415   Ka        
-2011                      D200634-7 Na Ni Va                            - -  - 920   Ka        
-2012                      C4218A6-A Na Po                               - -  - 405   Ka        
-2013                      C9D3250-9 Fl Lo Ni                            - V  - 901   Ka        
-2019                      A333520-F Ni Po                               - -  - 121   Ka        
-2020                      C658576-4 Ag Ni                               - -  B 212   Na        
-2111                      D24067A-3 De Ni Po                            - -  B 504   Na        
-2112                      C412765-6 Ic Na                               - -  - 410   Ka        
-2113                      B120445-E De Ni Po                            - V  - 513   Ka        
-2114                      C4349CB-9 Hi In                               - W  - 401   Ka        
-2115                      C765100-A Lo Ni                               - -  - 211   Ka        
-2116                      B88AADC-A Hi Wa                               - W  - 101   Ka        
-2117                      B588325-7 Lo Ni                               - -  - 413   Ka        
-2119                      C7A2596-8 Fl Ni                               - RT - 802   Ka        
-2211                      C95948B-5 Ni                                  - -  - 112   Ka        
-2214                      E632110-7 Lo Ni Po                            - -  - 305   Ka        
-2215                      B35358C-8 Ni Po                               - RT - 514   Ka        
-2216                      C7A1520-5 Fl Ni                               - -  - 402   Ka        
-2218                      C957ACG-8 Hi                                  - W  - 924   Ka        
-2219                      C7598C7-4                                     - W  - 224   Ka        
-2311                      C58878D-3 Ag Ri                               - W  - 403   Ka        
-2314                      C663663-7 Ni Ri                               - -  - 804   Ka        
-2318                      A527555-B Ni                                  - -  - 524   Ka        
-2319                      C899856-6                                     - W  - 804   Ka        
-2412                      C5429B7-7 Hi In Po                            - -  - 602   Ka        
-2418                      B58456A-B Ag Ni                               - N  - 403   Ka        
-2419                      B746687-8 Ag Ni                               - N  - 920   Ka        
-2513                      C6B0344-6 De Lo Ni                            - D  A 500   Ka        
-2519                      C89986A-5                                     - -  - 604   Ka        
-2520                      E676986-6 Hi In                               - -  - 313   Ka        
-2611                      C367563-A Ag Ni                               - RT - 905   Ka        
-2612                      E453520-6 Ni Po                               - -  - 300   Ka        
-2613                      A85866A-C Ag Ni                               - RT - 802   Ka        
-2615                      C74546A-6 Ni                                  - V  - 305   Ka        
-2617                      B263A87-C Hi                                  - W  - 705   Ka        
-2620                      C334545-8 Ni                                  - -  - 602   Ka        
-2711                      C377430-7 Ni                                  - V  - 800   Ka        
-2714                      E4606BD-6 De Ni                               - -  - 410   Ka        
-2717                      C300535-A Ni Va                               - -  - 404   Ka        
-2718                      B727000-C Ba Lo Ni                            - V  - 602   Ka        
-2811                      C485332-8 Lo Ni                               - V  - 704   Ka        
-2814                      A360432-D De Ni                               - -  - 210   Ka        
-2816                      B524443-A Ni                                  - V  - 112   Ka        
-2817                      D887568-4 Ag Ni                               - -  - 304   Ka        
-2819                      B556787-8 Ag                                  - W  - 604   Ka         
-2913                      C230967-C De Hi In Na Po                      - -  - 623   Ka        
-2919                      E000355-7 As Lo Ni                            - -  - 813   Ka        
-2920                      A678972-B Hi In                               - -  B 301   Na        
-3012                      A595973-E Hi In                               - -  B 404   Na        
-3016                      D5439BA-5 Hi In Po                            - W  - 414   Ka        
-3017                      E200A87-8 Hi Na Va                            - -  - 605   Ka        
-3019                      E86A741-3 Ri Wa                               - -  - 713   Ka        
-3020                      C564566-9 Ag Ni                               - -  - 315   Ka        
-3111                      C7348CD-4                                     - -  - 313   Ka        
-3112                      A2009BB-D Hi Na Va                            - -  - 503   Ka        
-3114                      D745446-4 Ni                                  - -  - 523   Ka        
-3115                      C875101-6 Lo Ni                               - -  - 904   Ka        
-3117                      C000133-A As Lo Ni                            - -  - 504   Ka        
-3118                      A331000-E Ba Lo Ni Po                         - -  - 601   Ka        
-3214                      C663523-7 Ni                                  - -  - 404   Ka        
-3215                      C767743-3 Ag Ri                               - -  - 320   Ka        
-3216                      C513230-7 Ic Lo Ni                            - -  - 113   Ka        
-3217                      B582777-6 Ri                                  - -  B 900   Na        
-3218                      A674245-B Lo Ni                               - V  - 303   Ka        
-0122                      C434310-7 Lo Ni                               - -  - 604   Ka        
-0123                      E663410-5 Ni                                  - -  - 705   Ka        
-0124                      CAA4123-7 Fl Lo Ni                            - V  - 510   Ka        
-0125                      C100434-9 Ni Va                               - -  - 303   Ka        
-0126                      C57258A-6 Ni                                  - -  - 513   Ka        
-0127                      C000477-9 As Ni                               - -  B 603   Na        
-0128                      C77A698-9 Ni Wa                               - RT - 902   Ka        
-0130                      B582733-8                                     - -  - 813   Ka        
-0221                      C654210-7 Lo Ni                               - -  - 802   Ka        
-0224                      E8C5444-4 Fl Ni                               - D  A 123   Ka        
-0225                      C591100-A Lo Ni                               - V  - 304   Ka        
-0228                      C4709A5-7 De Hi In                            - -  - 124   Ka        
-0326                      B120230-C De Lo Ni Po                         - -  - 603   Ka        
-0327                      B361302-8 Lo Ni                               - V  - 204   Ka        
-0328                      B768558-9 Ag Ni                               - RT - 413   Ka        
-0330                      C7A899E-6 Fl Hi                               - W  - 424   Ka        
-0422                      C599745-6                                     - -  - 612   Ka        
-0424                      CA6A7BA-6 Wa                                  - -  - 214   Ka        
-0425                      B7A2A85-E Fl Hi                               - -  - 300   Ka        
-0428                      C443562-8 Ni Po                               - -  - 123   Ka        
-0429                      C75777C-5 Ag                                  - -  B 701   Na        
-0525                      C420561-A De Ni Po                            - RT - 203   Ka        
-0528                      A66477B-A Ag Ri                               - -  B 300   Na         
-0623                      C558865-3                                     - -  - 702   Ka        
-0625                      BA79420-8 Ni                                  - V  - 104   Ka        
-0626                      B763236-8 Lo Ni                               - V  - 314   Ka        
-0628                      B200365-D Lo Ni Va                            - V  - 500   Ka        
-0630                      B67A897-9 Wa                                  - W  - 312   Ka        
-0721                      B51057B-7 Ni                                  - -  B 612   Na        
-0724                      B100101-E Lo Ni Va                            - V  - 813   Ka        
-0725                      CAA4122-6 Fl Lo Ni                            - -  - 904   Ka        
-0726                      B672200-C Lo Ni                               - -  - 511   Ka        
-0727                      C676777-4 Ag                                  - -  B 704   Na        
-0821                      C627405-A Ni                                  - -  - 512   Ka        
-0822                      C748348-6 Lo Ni                               - V  - 714   Ka        
-0824                      C97A687-5 Ni Wa                               - RT - 102   Ka        
-0825                      C668444-6 Ni                                  - V  - 723   Ka        
-0827                      B552797-A Po                                  - -  - 204   Ka        
-0829                      C758553-7 Ag Ni                               - -  - 305   Ka        
-0921                      B4725A9-8 Ni                                  - -  - 320   Ka        
-0922                      B9C6AFK-A Fl Hi                               - T  R 303   Ka        
-0923                      B7A0200-D De Lo Ni                            - V  - 104   Ka        
-0926                      C463510-A Ni                                  - RT - 704   Ka        
-0927                      C5538A7-4 Po                                  - -  - 203   Ka        
-0928                      C537641-5 Ni                                  - RT - 901   Ka        
-0929                      E689646-7 Ni Ri                               - -  - 903   Ka         
-1023                      C000255-9 As Lo Ni                            - -  - 902   Ka        
-1025                      A488610-9 Ag Ni                               - -  - 610   Ka        
-1026                      C130204-8 De Lo Ni Po                         - V  - 704   Ka        
-1028                      A363100-A Lo Ni                               - -  - 904   Ka        
-1122 Joammal              B5968A9-9                                     - W  - 912   Ka        
-1123                      C200A77-A Hi Na Va                            - -  B 434   Na        
-1124                      C672537-7 Ni                                  - -  - 714   Ka         
-1127                      B88A588-8 Ni Wa                               - RT - 304   Ka        
-1128                      C552741-6 Po                                  - -  - 401   Ka        
-1130                      C586412-5 Ni                                  - -  - 802   Ka        
-1225 Yaddam               EAF6676-3 Fl Ni                               - -  - 503   Ka        
-1226                      C617334-6 Ic Lo Ni                            - -  - 810   Ka        
-1229                      E67868A-1 Ag Ni                               - -  - 811   Ka        
-1230                      B554610-8 Ag Ni                               - RT - 800   Ka        
-1321                      CA89432-9 Ni                                  - V  - 204   Ka        
-1323                      B473875-B                                     - -  B 123   Na        
-1324                      B888145-6 Lo Ni                               - V  - 424   Ka        
-1327                      C452762-6 Po                                  - W  - 315   Ka        
-1330                      D547446-2 Ni                                  - -  - 101   Ka        
-1423                      C432498-8 Ni Po                               - -  - 623   Ka        
-1427                      C596873-5                                     - -  B 904   Na        
-1429                      B536444-7 Ni                                  - V  - 504   Ka        
-1522                      C5956AF-4 Ag Ni                               - RT - 710   Ka        
-1526                      C859440-8 Ni                                  - -  - 833   Ka        
-1527                      E766311-3 Lo Ni                               - -  - 623   Ka        
-1528 Voratha              D150576-4 De Ni Po                            - -  B 502   Na        
-1529                      C668344-8 Lo Ni                               - -  - 704   Ka        
-1624                      C997454-8 Ni                                  - V  - 103   Ka        
-1625                      D866254-5 Lo Ni                               - -  - 403   Ka        
-1626                      E696466-5 Ni                                  - -  - 604   Ka        
-1721                      A68A999-E Hi Wa                               - -  - 504   Ka        
-1723                      E3258A7-4                                     - -  - 912   Ka        
-1725                      B443567-B Ni Po                               - RT - 900   Ka        
-1726                      B210512-D Ni                                  - RT - 823   Ka        
-1727                      A200547-F Ni Va                               - RT - 702   Ka        
-1821                      C7C336B-6 Fl Lo Ni                            - D  A 623   Ka        
-1826                      BAC5967-A Fl Hi                               - -  - 424   Ka        
-1827                      E402437-7 Ic Ni Va                            - -  - 814   Ka        
-1829                      C311100-C Ic Lo Ni                            - -  - 210   Ka        
-1830                      C666300-7 Lo Ni                               - -  - 512   Ka        
-1925                      C6748AB-3                                     - -  - 122   Ka         
-1929                      A678853-A                                     - -  - 303   Ka        
-1930 Klinair              E432886-8 Na Po                               - -  - 614   Ka         
-2027                      C446688-4 Ag Ni                               - -  - 800   Ka        
-2123                      D100677-8 Na Ni Va                            - -  B 104   Na        
-2124                      C7A3458-7 Fl Ni                               - V  - 402   Ka        
-2125                      C99A56A-6 Ni Wa                               - -  - 305   Ka        
-2126                      C210303-B Lo Ni                               - -  - 210   Ka        
-2128                      C433745-6 Na Po                               - RT - 602   Ka        
-2129                      B481653-B Ni Ri                               - RT - 913   Ka        
-2221                      C242755-A Po                                  - -  - 823   Ka        
-2223                      C998ADD-5 Hi In                               - -  - 705   Ka        
-2224                      C100335-9 Lo Ni Va                            - V  - 304   Ka        
-2226                      B642463-9 Ni Po                               - V  - 202   Ka        
-2227                      C411647-8 Ic Na Ni                            - RT - 800   Ka        
-2228                      C577310-5 Lo Ni                               - V  - 722   Ka        
-2229                      C2657BD-7 Ag                                  - -  - 410   Ka        
-2230                      C668853-5 Ri                                  - -  - 604   Ka        
-2322                      E997445-7 Ni                                  - -  - 402   Ka        
-2325                      A727100-C Lo Ni                               - -  - 404   Ka        
-2326                      E3227CC-5 Na Po                               - -  - 300   Ka        
-2329                      E3229BC-8 Hi In Na Po                         - -  - 802   Ka        
-2330                      B324487-B Ni                                  - -  - 921   Ka        
-2421                      C100100-9 Lo Ni Va                            - V  - 502   Ka        
-2422                      C140489-6 De Ni Po                            - -  - 415   Ka        
-2425                      C427448-6 Ni                                  - V  - 901   Ka        
-2428                      D453747-5 Po                                  - RT - 814   Ka        
-2430                      C323010-7 Lo Ni Po                            - -  - 100   Ka        
-2521                      D556653-6 Ag Ni                               - RT - 600   Ka        
-2523                      B201720-8 Ic Na Va                            - -  - 904   Ka        
-2526                      E342775-7 Po                                  - -  B 404   Na        
-2529                      C000032-B As Lo Ni                            - -  - 204   Ka        
-2530                      C752650-6 Ni Po                               - -  - 925   Ka        
-2621                      B300200-C Lo Ni Va                            - V  - 912   Ka        
-2623                      C7779AA-6 Hi In                               - W  - 812   Ka        
-2625                      C667468-8 Ni                                  - -  - 424   Ka        
-2721                      E150320-5 De Lo Ni Po                         - -  - 203   Ka        
-2722                      C9EA549-8 Fl Ni Wa                            - -  - 300   Ka        
-2723                      E775998-7 Hi In                               - -  - 304   Ka        
-2725                      C674576-9 Ag Ni                               - -  B 210   Na        
-2822                      C333531-A Ni Po                               - RT - 603   Ka        
-2825                      E237335-8 Lo Ni                               - -  - 604   Ka        
-2826                      C777699-3 Ag Ni                               - -  - 523   Ka        
-2830                      D434688-7 Ni                                  - RT - 602   Ka        
-2921                      D738867-2                                     - -  - 704   Ka        
-2922                      D565200-6 Lo Ni                               - V  - 304   Ka        
-2927                      A200204-C Lo Ni Va                            - V  - 731   Ka        
-3022                      C400244-A Lo Ni Va                            - -  - 102   Ka        
-3024                      A8A1351-F Fl Lo Ni                            - V  - 300   Ka        
-3025                      D7B1743-2 Fl                                  - D  A 713   Ka        
-3028                      B8D1555-8 Fl Ni                               - -  - 810   Ka        
-3121                      C79A635-6 Ni Wa                               - RT - 401   Ka        
-3122                      B689465-8 Ni                                  - -  - 204   Ka        
-3124                      C2337BG-6 Na Po                               - -  - 113   Ka        
-3125                      A311533-D Ic Ni                               - W  - 113   Ka        
-3128                      C000100-C As Lo Ni                            - -  - 420   Ka        
-3129                      E554895-1                                     - -  - 922   Ka        
-3130                      B232668-7 Na Ni Po                            - -  - 910   Ka        
-3221                      C437310-A Lo Ni                               - -  - 104   Ka        
-3222                      B200311-B Lo Ni Va                            - V  - 610   Ka        
-3224                      E633153-4 Lo Ni Po                            - -  - 312   Ka        
-3226                      B120467-B De Ni Po                            - V  - 600   Ka        
-3228                      C423521-B Ni Po                               - RT - 402   Ka         
-0131                      C768467-8 Ni                                  - V  - 304   Ka        
-0133                      E9C98DE-3 Fl                                  - D  A 912   Ka        
-0134                      C320654-6 De Na Ni Po                         - RT - 502   Ka        
-0135                      E558355-6 Lo Ni                               - -  - 404   Ka        
-0136                      C736657-9 Ni                                  - RT - 503   Ka        
-0137                      C130657-8 De Na Ni Po                         - RT - 904   Ka        
-0231                      C436965-8 Hi In                               - W  - 813   Ka        
-0232                      B476999-D Hi In                               - W  - 100   Ka        
-0233                      C365774-4 Ag Ri                               - -  B 904   Na        
-0235                      BA7A315-8 Lo Ni Wa                            - N  - 903   Ka        
-0236                      C310324-6 Lo Ni                               - -  - 310   Ka        
-0238                      C777544-4 Ag Ni                               - -  - 323   Ka        
-0240                      C428365-8 Lo Ni                               - V  - 801   Ka        
-0332                      B220736-7 De Na Po                            - -  - 604   Ka          
-0336                      C673400-6 Ni                                  - -  - 724   Ka        
-0338                      B376526-9 Ag Ni                               - -  - 202   Ka        
-0340                      C454511-7 Ag Ni                               - RT - 100   Ka          
-0435                      E783644-4 Ni Ri                               - -  - 510   Ka        
-0436                      B325442-B Ni                                  - V  - 804   Ka        
-0440                      C77899C-7 Hi In                               - W  - 703   Ka        
-0532                      C465412-7 Ni                                  - V  - 202   Ka        
-0537                      D88885A-4 Ri                                  - -  - 705   Ka        
-0632                      C346622-4 Ag Ni                               - -  - 104   Ka        
-0633                      C9C3000-9 Ba Fl Lo Ni                         - D  A 103   Ka        
-0635                      C997230-5 Lo Ni                               - -  - 804   Ka        
-0640                      D9B9220-9 Fl Lo Ni                            - D  A 900   Ka        
-0731                      B655989-8 Hi                                  - -  - 403   Ka        
-0733                      C564754-4 Ag Ri                               - W  - 705   Ka        
-0734                      C5555AB-5 Ag Ni                               - RT - 624   Ka        
-0735                      B410485-C Ni                                  - V  - 120   Ka        
-0739                      B8648A8-A                                     - W  - 701   Ka        
-0740                      B676120-6 Lo Ni                               - -  - 214   Ka        
-0832                      E885745-4 Ag Ri                               - -  - 102   Ka        
-0834                      D685003-7 Lo Ni                               - -  - 400   Ka        
-0837                      B480668-A De Ni Ri                            - RT - 100   Ka        
-0838                      B543557-A Ni Po                               - RT - 804   Ka        
-0839                      C63897C-B Hi In                               - -  B 420   Na        
-0840                      A226469-A Ni                                  - -  - 413   Ka        
-0931                      D664434-5 Ni                                  - V  - 604   Ka        
-0932                      C887753-5 Ag Ri                               - -  - 410   Ka        
-0934                      C67A8B9-5 Wa                                  - -  - 111   Ka        
-0935                      B346765-9 Ag                                  - W  - 703   Ka        
-0936                      A554632-7 Ag Ni                               - -  - 304   Ka        
-0938                      E7B2277-4 Fl Lo Ni                            - D  A 823   Ka        
-0939                      E2008AB-8 Na Va                               - -  - 414   Ka        
-0940                      C449537-A Ni                                  - RT - 104   Ka        
-1032                      C400200-7 Lo Ni Va                            - -  - 913   Ka        
-1036                      C500573-5 Ni Va                               - -  B 215   Na        
-1037                      B697324-9 Lo Ni                               - V  - 500   Ka        
-1038                      B110597-B Ni                                  - RT - 103   Ka        
-1040                      B443558-C Ni Po                               - -  - 100   Ka        
-1131                      C5A0100-8 De Lo Ni                            - -  - 703   Ka        
-1133                      C8C6103-6 Fl Lo Ni                            - D  A 800   Ka        
-1140                      E454200-8 Lo Ni                               - -  - 703   Ka        
-1231                      C445675-9 Ag Ni                               - -  B 205   Na        
-1234                      A552679-B Ni Po                               - -  B 303   Na        
-1236                      C160651-A De Ni Ri                            - RT - 400   Ka        
-1240                      E779565-6 Ni                                  - -  - 503   Ka        
-1332                      E528623-5 Ni                                  - -  - 313   Ka        
-1336                      E78A585-8 Ni Wa                               - -  - 810   Ka        
-1337                      C7767BD-8 Ag                                  - -  - 404   Ka         
-1433                      B53067A-7 De Na Ni Po                         - -  B 704   Na        
-1437                      B454697-B Ag Ni                               - RT - 512   Ka        
-1438                      C593563-6 Ni                                  - -  - 824   Ka        
-1531                      C444645-4 Ag Ni                               - -  - 303   Ka        
-1536                      C439337-A Lo Ni                               - -  - 403   Ka         
-1539                      D688104-6 Lo Ni                               - -  - 414   Ka        
-1540                      C545457-A Ni                                  - V  - 402   Ka        
-1631                      A658767-A Ag                                  - RT - 602   Ka        
-1636                      B410559-C Ni                                  - -  - 301   Ka        
-1639                      C300103-B Lo Ni Va                            - V  - 524   Ka        
-1731                      C342485-5 Ni Po                               - V  - 704   Ka        
-1732                      C75A027-A Lo Ni Wa                            - V  - 233   Ka        
-1736                      E688787-2 Ag Ri                               - -  - 800   Ka        
-1738                      C20069C-7 Na Ni Va                            - RT - 301   Ka        
-1832                      C637743-8                                     - -  - 804   Ka        
-1834                      A244552-B Ag Ni                               - -  - 512   Ka        
-1835                      A000578-B As Ni                               - -  B 803   Na         
-1936                      B552450-7 Ni Po                               - -  - 303   Ka        
-1937                      D8B679E-6 Fl                                  - D  A 503   Ka        
-2031                      C55A514-6 Ni Wa                               - -  - 131   Ka        
-2033                      D657488-6 Ni                                  - V  - 500   Ka         
-2036                      E3429A7-4 Hi In Po                            - -  - 302   Ka        
-2037                      C410130-A Lo Ni                               - -  - 902   Ka        
-2039                      E321110-5 Lo Ni Po                            - -  - 502   Ka        
-2131                      B577520-7 Ag Ni                               - RT - 103   Ka        
-2135                      B502547-7 Ic Ni Va                            - RT - 222   Ka        
-2231                      B691521-6 Ni                                  - -  - 602   Ka        
-2234                      B257547-B Ag Ni                               - -  - 311   Ka        
-2238                      C777210-5 Lo Ni                               - -  - 501   Ka        
-2331                      D423A75-8 Hi In Na Po                         - -  B 604   Na        
-2332 Obreen               C476999-B Hi In                               - W  - 502   Ka        
-2333                      C550589-6 De Ni Po                            - RT - 702   Ka        
-2334                      A522510-A Ni Po                               - -  - 902   Ka        
-2335                      B795245-A Lo Ni                               - V  - 800   Ka        
-2336                      B885200-A Lo Ni                               - -  - 702   Ka        
-2338                      D455794-7 Ag                                  - -  - 825   Ka        
-2339                      C728744-7                                     - -  - 605   Ka        
-2340                      E86A499-6 Ni Wa                               - -  - 614   Ka        
-2435                      C364575-9 Ag Ni                               - -  B 221   Na        
-2437                      A232430-E Ni Po                               - -  - 200   Ka        
-2438                      C221769-9 Na Po                               - -  - 700   Ka        
-2439                      C202331-A Ic Lo Ni Va                         - -  - 813   Ka        
-2440                      C796754-9 Ag                                  - -  - 605   Ka        
-2534                      B9AA778-B Fl Wa                               - -  B 811   Na        
-2535 Phamar               C647764-8 Ag                                  - W  - 301   Ka        
-2536                      C00067C-B As Na Ni                            - -  B 623   Na        
-2538                      B94A231-A Lo Ni Wa                            - -  - 215   Ka        
-2633                      C669114-6 Lo Ni                               - -  - 301   Ka        
-2640                      E78A426-6 Ni Wa                               - -  - 304   Ka        
-2731                      C453874-7 Po                                  - -  B 804   Na        
-2736                      C321410-8 Ni Po                               - -  - 801   Ka        
-2738 Tihada               D46459B-6 Ag Ni                               - -  - 611   Ka        
-2832                      C676100-8 Lo Ni                               - V  - 105   Ka        
-2834                      D763137-6 Lo Ni                               - V  - 200   Ka        
-2837                      C310679-A Na Ni                               - -  B 702   Na        
-2839                      C5109AA-7 Hi Na                               - -  - 614   Ka        
-2935                      C73A200-B Lo Ni Wa                            - -  - 903   Ka        
-3037                      E677531-2 Ag Ni                               - -  - 303   Ka        
-3039                      B6B3474-C Fl Ni                               - D  A 124   Ka        
-3136                      D466698-4 Ag Ni Ri                            - RT - 904   Ka        
-3140 Walli                B656264-B Lo Ni                               - -  - 402   Ka        
-3238                      E130400-7 De Ni Po                            - -  - 312   Ka        
-3239                      C411740-6 Ic Na                               - -  - 903   Ka        
-3240                      B89A100-A Lo Ni Wa                            - V  - 713   Ka 
+0101                      C448658-7 Ag Ni                               - -  - 302   NaXX        
+0106                      B474463-C Ni                                  - V  - 310   NaXX       
+0107 Stabbi               C21268A-8 Ic Na Ni                            - RT - 523   NaXX        
+0203                      B724844-B                                     - -  - 810   NaXX       
+0209                      C481302-6 Lo Ni                               - V  - 704   NaXX       
+0301                      C747564-8 Ag Ni                               - -  - 302   NaXX       
+0304                      C677898-8                                     - W  - 805   NaXX       
+0307                      D140741-3 De Po                               - -  - 402   NaXX       
+0310 Akanna               C000487-9 As Ni                               - -  - 404   NaXX       
+0401                      C565688-5 Ag Ni Ri                            - -  - 104   NaXX       
+0402                      B200586-C Ni Va                               - RT - 623   NaXX        
+0405                      A8C2100-A Fl Lo Ni                            - D  A 100   NaXX       
+0408                      C100441-7 Ni Va                               - V  - 814   NaXX       
+0502                      B251358-B Lo Ni Po                            - V  - 304   NaXX        
+0607                      E9996BD-5 Ni                                  - -  - 622   NaXX        
+0707                      C365965-8 Hi                                  - -  - 825   NaXX       
+0708                      C9B5599-A Fl Ni                               - D  A 600   NaXX       
+0709                      C675223-9 Lo Ni                               - -  - 313   NaXX         
+0808                      C300358-B Lo Ni Va                            - -  - 103   NaXX        
+0901                      C250335-A De Lo Ni Po                         - V  - 324   NaXX       
+0904                      E775101-6 Lo Ni                               - -  - 133   NaXX       
+0907                      E310330-4 Lo Ni                               - -  - 224   NaXX       
+0909                      C775650-5 Ag Ni                               - -  - 603   NaXX       
+1007                      E200499-8 Ni Va                               - -  - 322   NaXX       
+1008                      C447657-A Ag Ni                               - -  - 823   NaXX       
+1102                      B500734-8 Na Va                               - W  - 403   NaXX        
+1104                      C582311-4 Lo Ni                               - -  - 102   NaXX       
+1107                      C565533-7 Ag Ni                               - -  - 405   NaXX       
+1108                      C863342-8 Lo Ni                               - V  - 414   NaXX       
+1109                      C86A799-5 Ri Wa                               - RT - 704   NaXX       
+1202                      C455368-6 Lo Ni                               - -  - 404   NaXX       
+1203                      B635867-8                                     - -  - 614   NaXX       
+1205                      C679341-5 Lo Ni                               - V  - 603   NaXX       
+1209                      C300741-5 Na Va                               - -  - 503   NaXX       
+1301                      E341410-7 Ni Po                               - -  - 100   NaXX       
+1302                      E120403-A De Ni Po                            - -  - 804   NaXX       
+1304                      C88A314-A Lo Ni Wa                            - V  - 504   NaXX        
+1402                      B4928DG-4                                     - W  - 615   NaXX        
+1408                      C200002-8 Lo Ni Va                            - V  - 704   NaXX       
+1409                      D470301-8 De Lo Ni                            - V  - 712   NaXX        
+1501                      C200684-9 Na Ni Va                            - -  - 502   NaXX        
+1504                      E3447B7-5 Ag                                  - -  - 924   NaXX       
+1505                      C130430-8 De Ni Po                            - -  - 623   NaXX         
+1605                      D210766-7 Na                                  - -  - 402   NaXX       
+1607                      C581763-7 Ri                                  - -  - 604   NaXX        
+1609                      E100212-5 Lo Ni Va                            - -  - 200   NaXX       
+1610                      C656211-9 Lo Ni                               - -  - 524   NaXX       
+1705                      C436657-6 Ni                                  - -  - 501   NaXX         
+1801                      C767797-5 Ag Ri                               - -  - 710   NaXX       
+1803                      B572789-9                                     - N  - 700   NaXX        
+1806                      E4478AE-2                                     - -  - 714   NaXX         
+1809                      B464468-C Ni                                  - -  - 203   NaXX       
+1810                      E233446-4 Ni Po                               - -  - 805   NaXX       
+1902                      A560320-9 De Lo Ni                            - -  - 920   NaXX       
+1903                      B79A744-7 Wa                                  - -  - 204   NaXX        
+1905                      D473225-8 Lo Ni                               - S  - 403   NaXX         
+2002                      C6878DB-2                                     - S  - 723   NaXX        
+2101                      C511123-5 Ic Lo Ni                            - -  - 804   NaXX       
+2102                      C471424-A Ni                                  - -  - 703   NaXX       
+2105                      B333554-B Ni Po                               - N  - 202   NaXX         
+2301                      D869558-5 Ni                                  - S  - 904   NaXX       
+2302                      E44659A-8 Ag Ni                               - -  - 922   NaXX       
+2304                      D727AC9-A Hi In                               - S  - 603   NaXX       
+2309                      E9797AA-5                                     - W  - 215   NaXX       
+2310                      B657446-8 Ni                                  - V  - 702   NaXX        
+2407                      C848954-B Hi In                               - -  - 804   NaXX         
+2501                      B3348AE-A Hi In                               - -  - 203   NaXX            
+2805                      E100898-5 Na Va                               - -  - 902   NaXX        
+2910                      B699102-8 Lo Ni                               - -  - 301   NaXX       
+3005                      C575227-6 Lo Ni                               - -  - 213   NaXX       
+3007                      B100464-D Ni Va                               - V  - 903   NaXX        
+0112                      B251787-9 Po                                  - W  - 703   NaXX       
+0114                      C402112-9 Ic Lo Ni Va                         - -  - 604   NaXX       
+0118                      A4279DF-D Hi In                               - W  - 520   NaXX       
+0120                      E446444-6 Ni                                  - -  - 120   NaXX       
+0211                      C643664-6 Ni Po                               - RT - 514   NaXX       
+0214                      C000542-7 As Ni                               - -  - 100   NaXX       
+0216                      E43345A-7 Ni Po                               - -  - 802   NaXX       
+0217                      C360410-5 De Ni                               - -  - 904   NaXX       
+0218                      C798203-9 Lo Ni                               - -  - 815   NaXX       
+0311                      A475522-9 Ag Ni                               - -  - 412   NaXX       
+0312                      B599424-C Ni                                  - V  - 203   NaXX       
+0313                      A4328AE-C Na Po                               - W  - 602   NaXX       
+0317                      B371400-8 Ni                                  - -  - 911   NaXX       
+0411                      C387300-6 Lo Ni                               - -  - 425   NaXX       
+0416                      C9D3420-5 Fl Ni                               - -  - 414   NaXX       
+0418                      A243366-B Lo Ni Po                            - -  - 414   NaXX       
+0512                      C467644-9 Ag Ni Ri                            - -  - 204   NaXX       
+0517                      CAB3458-7 Fl Ni                               - D  A 504   NaXX       
+0518                      D555410-6 Ni                                  - -  - 623   NaXX       
+0519                      A68767A-B Ag Ni Ri                            - -  B 901   NaXX       
+0611                      C531166-6 Lo Ni Po                            - V  - 902   NaXX        
+0614                      C564110-9 Lo Ni                               - -  - 905   NaXX       
+0615                      E89A479-4 Ni Wa                               - -  B 610   NaXX       
+0616                      B5348B8-B                                     - -  - 820   NaXX       
+0617                      E465637-2 Ag Ni                               - -  - 711   NaXX       
+0619                      C555540-5 Ag Ni                               - -  - 512   NaXX       
+0712 Etrogg               C611559-9 Ic Ni                               - -  - 711   NaXX       
+0714                      C561210-5 Lo Ni                               - V  - 901   NaXX       
+0717                      B455778-8 Ag                                  - -  B 614   NaXX       
+0720                      E555499-6 Ni                                  - -  - 304   NaXX       
+0811                      B531533-7 Ni Po                               - -  - 900   NaXX       
+0812                      C100200-B Lo Ni Va                            - V  - 702   NaXX       
+0814                      B9C8985-C Fl Hi                               - D  A 824   NaXX       
+0816                      E786442-6 Ni                                  - -  - 921   NaXX       
+0819                      B445659-C Ag Ni                               - RT - 604   NaXX       
+0911                      D675663-4 Ag Ni                               - RT - 804   NaXX       
+0913                      A866887-9 Ri                                  - W  - 925   NaXX       
+0914                      C4038A6-6 Ic Na Va                            - W  - 404   NaXX       
+0915 Flokra               C745775-8 Ag                                  - -  B 522   NaXX       
+0919                      B252554-D Ni Po                               - -  - 504   NaXX        
+1015                      B878799-5 Ag                                  - W  - 200   NaXX       
+1016                      D346664-3 Ag Ni                               - RT - 230   NaXX       
+1018 Raeema               C742304-6 Lo Ni Po                            - -  - 613   NaXX       
+1020                      E85858D-5 Ag Ni                               - -  - 102   NaXX       
+1111                      B968411-6 Ni                                  - -  - 314   NaXX       
+1112                      B739400-E Ni                                  - -  - 303   NaXX       
+1113                      C77A5A9-7 Ni Wa                               - RT - 504   NaXX       
+1116                      C647645-3 Ag Ni                               - -  - 824   NaXX       
+1117                      C2559BB-A Hi                                  - W  - 201   NaXX        
+1120                      C666536-4 Ag Ni                               - RT - 100   NaXX       
+1211                      B8A5214-8 Fl Lo Ni                            - -  - 304   NaXX       
+1213                      D30069B-6 Na Ni Va                            - RT - 405   NaXX       
+1214                      B73A125-B Lo Ni Wa                            - V  - 704   NaXX       
+1217                      D997201-3 Lo Ni                               - V  - 804   NaXX       
+1218                      C326759-6                                     - W  - 600   NaXX       
+1220                      C885831-6                                     - W  - 212   NaXX       
+1311                      C347776-4 Ag                                  - -  B 114   NaXX       
+1312                      B8A3425-A Fl Ni                               - V  - 722   NaXX       
+1313                      B897346-B Lo Ni                               - V  - 222   NaXX       
+1314                      C427677-5 Ni                                  - -  B 202   NaXX       
+1317                      E501203-4 Ic Lo Ni Va                         - -  - 700   NaXX       
+1414                      D6166BD-5 Ic Ni                               - -  - 831   NaXX       
+1417                      C659526-A Ni                                  - -  - 610   NaXX       
+1418                      A566573-D Ag Ni                               - -  B 514   NaXX       
+1511                      C8A9410-B Fl Ni                               - V  - 313   NaXX       
+1512                      B683555-A Ni                                  - -  - 911   NaXX       
+1513                      D748323-6 Lo Ni                               - V  - 710   NaXX       
+1514                      D564864-3 Ri                                  - -  - 723   NaXX       
+1518                      A67576B-C Ag                                  - -  - 305   NaXX       
+1611                      E555774-2 Ag                                  - -  B 723   NaXX       
+1618                      A89A9BF-B Hi In Wa                            - -  - 300   NaXX       
+1620                      A548746-B Ag                                  - W  - 413   NaXX       
+1711                      C759634-8 Ni                                  - -  - 432   NaXX       
+1716                      C7767CG-5 Ag                                  - -  - 500   NaXX       
+1717                      B450885-9 De Po                               - -  - 403   NaXX       
+1719                      B51698A-A Hi Ic                               - W  - 102   NaXX       
+1812                      C523773-9 Na Po                               - -  B 102   NaXX       
+1813                      E2536A9-3 Ni Po                               - -  - 612   NaXX       
+1815                      D674AEI-5 Hi In                               - D  A 502   NaXX       
+1818                      C739415-9 Ni                                  - -  - 301   NaXX       
+1912                      C8A2736-6 Fl                                  - -  - 820   NaXX       
+1913                      C320478-7 De Ni Po                            - -  B 402   NaXX       
+1915                      D503843-3 Ic Na Va                            - -  - 801   NaXX       
+1917                      C300442-B Ni Va                               - -  - 614   NaXX       
+1919                      D967363-3 Lo Ni                               - V  - 415   NaXX       
+2011                      D200634-7 Na Ni Va                            - -  - 920   NaXX       
+2012                      C4218A6-A Na Po                               - -  - 405   NaXX       
+2013                      C9D3250-9 Fl Lo Ni                            - V  - 901   NaXX       
+2019                      A333520-F Ni Po                               - -  - 121   NaXX       
+2020                      C658576-4 Ag Ni                               - -  B 212   NaXX       
+2111                      D24067A-3 De Ni Po                            - -  B 504   NaXX       
+2112                      C412765-6 Ic Na                               - -  - 410   NaXX       
+2113                      B120445-E De Ni Po                            - V  - 513   NaXX       
+2114                      C4349CB-9 Hi In                               - W  - 401   NaXX       
+2115                      C765100-A Lo Ni                               - -  - 211   NaXX       
+2116                      B88AADC-A Hi Wa                               - W  - 101   NaXX       
+2117                      B588325-7 Lo Ni                               - -  - 413   NaXX       
+2119                      C7A2596-8 Fl Ni                               - RT - 802   NaXX       
+2211                      C95948B-5 Ni                                  - -  - 112   NaXX       
+2214                      E632110-7 Lo Ni Po                            - -  - 305   NaXX       
+2215                      B35358C-8 Ni Po                               - RT - 514   NaXX       
+2216                      C7A1520-5 Fl Ni                               - -  - 402   NaXX       
+2218                      C957ACG-8 Hi                                  - W  - 924   NaXX       
+2219                      C7598C7-4                                     - W  - 224   NaXX       
+2311                      C58878D-3 Ag Ri                               - W  - 403   NaXX       
+2314                      C663663-7 Ni Ri                               - -  - 804   NaXX       
+2318                      A527555-B Ni                                  - -  - 524   NaXX       
+2319                      C899856-6                                     - W  - 804   NaXX       
+2412                      C5429B7-7 Hi In Po                            - -  - 602   NaXX       
+2418                      B58456A-B Ag Ni                               - N  - 403   NaXX       
+2419                      B746687-8 Ag Ni                               - N  - 920   NaXX       
+2513                      C6B0344-6 De Lo Ni                            - D  A 500   NaXX       
+2519                      C89986A-5                                     - -  - 604   NaXX       
+2520                      E676986-6 Hi In                               - -  - 313   NaXX       
+2611                      C367563-A Ag Ni                               - RT - 905   NaXX       
+2612                      E453520-6 Ni Po                               - -  - 300   NaXX       
+2613                      A85866A-C Ag Ni                               - RT - 802   NaXX       
+2615                      C74546A-6 Ni                                  - V  - 305   NaXX       
+2617                      B263A87-C Hi                                  - W  - 705   NaXX       
+2620                      C334545-8 Ni                                  - -  - 602   NaXX       
+2711                      C377430-7 Ni                                  - V  - 800   NaXX       
+2714                      E4606BD-6 De Ni                               - -  - 410   NaXX       
+2717                      C300535-A Ni Va                               - -  - 404   NaXX       
+2718                      B727000-C Ba Lo Ni                            - V  - 602   NaXX       
+2811                      C485332-8 Lo Ni                               - V  - 704   NaXX       
+2814                      A360432-D De Ni                               - -  - 210   NaXX       
+2816                      B524443-A Ni                                  - V  - 112   NaXX       
+2817                      D887568-4 Ag Ni                               - -  - 304   NaXX       
+2819                      B556787-8 Ag                                  - W  - 604   NaXX        
+2913                      C230967-C De Hi In Na Po                      - -  - 623   NaXX       
+2919                      E000355-7 As Lo Ni                            - -  - 813   NaXX       
+2920                      A678972-B Hi In                               - -  B 301   NaXX       
+3012                      A595973-E Hi In                               - -  B 404   NaXX       
+3016                      D5439BA-5 Hi In Po                            - W  - 414   NaXX       
+3017                      E200A87-8 Hi Na Va                            - -  - 605   NaXX       
+3019                      E86A741-3 Ri Wa                               - -  - 713   NaXX       
+3020                      C564566-9 Ag Ni                               - -  - 315   NaXX       
+3111                      C7348CD-4                                     - -  - 313   NaXX       
+3112                      A2009BB-D Hi Na Va                            - -  - 503   NaXX       
+3114                      D745446-4 Ni                                  - -  - 523   NaXX       
+3115                      C875101-6 Lo Ni                               - -  - 904   NaXX       
+3117                      C000133-A As Lo Ni                            - -  - 504   NaXX       
+3118                      A331000-E Ba Lo Ni Po                         - -  - 601   NaXX       
+3214                      C663523-7 Ni                                  - -  - 404   NaXX       
+3215                      C767743-3 Ag Ri                               - -  - 320   NaXX       
+3216                      C513230-7 Ic Lo Ni                            - -  - 113   NaXX       
+3217                      B582777-6 Ri                                  - -  B 900   NaXX       
+3218                      A674245-B Lo Ni                               - V  - 303   NaXX       
+0122                      C434310-7 Lo Ni                               - -  - 604   NaXX       
+0123                      E663410-5 Ni                                  - -  - 705   NaXX       
+0124                      CAA4123-7 Fl Lo Ni                            - V  - 510   NaXX       
+0125                      C100434-9 Ni Va                               - -  - 303   NaXX       
+0126                      C57258A-6 Ni                                  - -  - 513   NaXX       
+0127                      C000477-9 As Ni                               - -  B 603   NaXX       
+0128                      C77A698-9 Ni Wa                               - RT - 902   NaXX       
+0130                      B582733-8                                     - -  - 813   NaXX       
+0221                      C654210-7 Lo Ni                               - -  - 802   NaXX       
+0224                      E8C5444-4 Fl Ni                               - D  A 123   NaXX       
+0225                      C591100-A Lo Ni                               - V  - 304   NaXX       
+0228                      C4709A5-7 De Hi In                            - -  - 124   NaXX       
+0326                      B120230-C De Lo Ni Po                         - -  - 603   NaXX       
+0327                      B361302-8 Lo Ni                               - V  - 204   NaXX       
+0328                      B768558-9 Ag Ni                               - RT - 413   NaXX       
+0330                      C7A899E-6 Fl Hi                               - W  - 424   NaXX       
+0422                      C599745-6                                     - -  - 612   NaXX       
+0424                      CA6A7BA-6 Wa                                  - -  - 214   NaXX       
+0425                      B7A2A85-E Fl Hi                               - -  - 300   NaXX       
+0428                      C443562-8 Ni Po                               - -  - 123   NaXX       
+0429                      C75777C-5 Ag                                  - -  B 701   NaXX       
+0525                      C420561-A De Ni Po                            - RT - 203   NaXX       
+0528                      A66477B-A Ag Ri                               - -  B 300   NaXX        
+0623                      C558865-3                                     - -  - 702   NaXX       
+0625                      BA79420-8 Ni                                  - V  - 104   NaXX       
+0626                      B763236-8 Lo Ni                               - V  - 314   NaXX       
+0628                      B200365-D Lo Ni Va                            - V  - 500   NaXX       
+0630                      B67A897-9 Wa                                  - W  - 312   NaXX       
+0721                      B51057B-7 Ni                                  - -  B 612   NaXX       
+0724                      B100101-E Lo Ni Va                            - V  - 813   NaXX       
+0725                      CAA4122-6 Fl Lo Ni                            - -  - 904   NaXX       
+0726                      B672200-C Lo Ni                               - -  - 511   NaXX       
+0727                      C676777-4 Ag                                  - -  B 704   NaXX       
+0821                      C627405-A Ni                                  - -  - 512   NaXX       
+0822                      C748348-6 Lo Ni                               - V  - 714   NaXX       
+0824                      C97A687-5 Ni Wa                               - RT - 102   NaXX       
+0825                      C668444-6 Ni                                  - V  - 723   NaXX       
+0827                      B552797-A Po                                  - -  - 204   NaXX       
+0829                      C758553-7 Ag Ni                               - -  - 305   NaXX       
+0921                      B4725A9-8 Ni                                  - -  - 320   NaXX       
+0922                      B9C6AFK-A Fl Hi                               - T  R 303   NaXX       
+0923                      B7A0200-D De Lo Ni                            - V  - 104   NaXX       
+0926                      C463510-A Ni                                  - RT - 704   NaXX       
+0927                      C5538A7-4 Po                                  - -  - 203   NaXX       
+0928                      C537641-5 Ni                                  - RT - 901   NaXX       
+0929                      E689646-7 Ni Ri                               - -  - 903   NaXX        
+1023                      C000255-9 As Lo Ni                            - -  - 902   NaXX       
+1025                      A488610-9 Ag Ni                               - -  - 610   NaXX       
+1026                      C130204-8 De Lo Ni Po                         - V  - 704   NaXX       
+1028                      A363100-A Lo Ni                               - -  - 904   NaXX       
+1122 Joammal              B5968A9-9                                     - W  - 912   NaXX       
+1123                      C200A77-A Hi Na Va                            - -  B 434   NaXX       
+1124                      C672537-7 Ni                                  - -  - 714   NaXX        
+1127                      B88A588-8 Ni Wa                               - RT - 304   NaXX       
+1128                      C552741-6 Po                                  - -  - 401   NaXX       
+1130                      C586412-5 Ni                                  - -  - 802   NaXX       
+1225 Yaddam               EAF6676-3 Fl Ni                               - -  - 503   NaXX       
+1226                      C617334-6 Ic Lo Ni                            - -  - 810   NaXX       
+1229                      E67868A-1 Ag Ni                               - -  - 811   NaXX       
+1230                      B554610-8 Ag Ni                               - RT - 800   NaXX       
+1321                      CA89432-9 Ni                                  - V  - 204   NaXX       
+1323                      B473875-B                                     - -  B 123   NaXX       
+1324                      B888145-6 Lo Ni                               - V  - 424   NaXX       
+1327                      C452762-6 Po                                  - W  - 315   NaXX       
+1330                      D547446-2 Ni                                  - -  - 101   NaXX       
+1423                      C432498-8 Ni Po                               - -  - 623   NaXX       
+1427                      C596873-5                                     - -  B 904   NaXX       
+1429                      B536444-7 Ni                                  - V  - 504   NaXX       
+1522                      C5956AF-4 Ag Ni                               - RT - 710   NaXX       
+1526                      C859440-8 Ni                                  - -  - 833   NaXX       
+1527                      E766311-3 Lo Ni                               - -  - 623   NaXX       
+1528 Voratha              D150576-4 De Ni Po                            - -  B 502   NaXX       
+1529                      C668344-8 Lo Ni                               - -  - 704   NaXX       
+1624                      C997454-8 Ni                                  - V  - 103   NaXX       
+1625                      D866254-5 Lo Ni                               - -  - 403   NaXX       
+1626                      E696466-5 Ni                                  - -  - 604   NaXX       
+1721                      A68A999-E Hi Wa                               - -  - 504   NaXX       
+1723                      E3258A7-4                                     - -  - 912   NaXX       
+1725                      B443567-B Ni Po                               - RT - 900   NaXX       
+1726                      B210512-D Ni                                  - RT - 823   NaXX       
+1727                      A200547-F Ni Va                               - RT - 702   NaXX       
+1821                      C7C336B-6 Fl Lo Ni                            - D  A 623   NaXX       
+1826                      BAC5967-A Fl Hi                               - -  - 424   NaXX       
+1827                      E402437-7 Ic Ni Va                            - -  - 814   NaXX       
+1829                      C311100-C Ic Lo Ni                            - -  - 210   NaXX       
+1830                      C666300-7 Lo Ni                               - -  - 512   NaXX       
+1925                      C6748AB-3                                     - -  - 122   NaXX        
+1929                      A678853-A                                     - -  - 303   NaXX       
+1930 Klinair              E432886-8 Na Po                               - -  - 614   NaXX        
+2027                      C446688-4 Ag Ni                               - -  - 800   NaXX       
+2123                      D100677-8 Na Ni Va                            - -  B 104   NaXX       
+2124                      C7A3458-7 Fl Ni                               - V  - 402   NaXX       
+2125                      C99A56A-6 Ni Wa                               - -  - 305   NaXX       
+2126                      C210303-B Lo Ni                               - -  - 210   NaXX       
+2128                      C433745-6 Na Po                               - RT - 602   NaXX       
+2129                      B481653-B Ni Ri                               - RT - 913   NaXX       
+2221                      C242755-A Po                                  - -  - 823   NaXX       
+2223                      C998ADD-5 Hi In                               - -  - 705   NaXX       
+2224                      C100335-9 Lo Ni Va                            - V  - 304   NaXX       
+2226                      B642463-9 Ni Po                               - V  - 202   NaXX       
+2227                      C411647-8 Ic Na Ni                            - RT - 800   NaXX       
+2228                      C577310-5 Lo Ni                               - V  - 722   NaXX       
+2229                      C2657BD-7 Ag                                  - -  - 410   NaXX       
+2230                      C668853-5 Ri                                  - -  - 604   NaXX       
+2322                      E997445-7 Ni                                  - -  - 402   NaXX       
+2325                      A727100-C Lo Ni                               - -  - 404   NaXX       
+2326                      E3227CC-5 Na Po                               - -  - 300   NaXX       
+2329                      E3229BC-8 Hi In Na Po                         - -  - 802   NaXX       
+2330                      B324487-B Ni                                  - -  - 921   NaXX       
+2421                      C100100-9 Lo Ni Va                            - V  - 502   NaXX       
+2422                      C140489-6 De Ni Po                            - -  - 415   NaXX       
+2425                      C427448-6 Ni                                  - V  - 901   NaXX       
+2428                      D453747-5 Po                                  - RT - 814   NaXX       
+2430                      C323010-7 Lo Ni Po                            - -  - 100   NaXX       
+2521                      D556653-6 Ag Ni                               - RT - 600   NaXX       
+2523                      B201720-8 Ic Na Va                            - -  - 904   NaXX       
+2526                      E342775-7 Po                                  - -  B 404   NaXX       
+2529                      C000032-B As Lo Ni                            - -  - 204   NaXX       
+2530                      C752650-6 Ni Po                               - -  - 925   NaXX       
+2621                      B300200-C Lo Ni Va                            - V  - 912   NaXX       
+2623                      C7779AA-6 Hi In                               - W  - 812   NaXX       
+2625                      C667468-8 Ni                                  - -  - 424   NaXX       
+2721                      E150320-5 De Lo Ni Po                         - -  - 203   NaXX       
+2722                      C9EA549-8 Fl Ni Wa                            - -  - 300   NaXX       
+2723                      E775998-7 Hi In                               - -  - 304   NaXX       
+2725                      C674576-9 Ag Ni                               - -  B 210   NaXX       
+2822                      C333531-A Ni Po                               - RT - 603   NaXX       
+2825                      E237335-8 Lo Ni                               - -  - 604   NaXX       
+2826                      C777699-3 Ag Ni                               - -  - 523   NaXX       
+2830                      D434688-7 Ni                                  - RT - 602   NaXX       
+2921                      D738867-2                                     - -  - 704   NaXX       
+2922                      D565200-6 Lo Ni                               - V  - 304   NaXX       
+2927                      A200204-C Lo Ni Va                            - V  - 731   NaXX       
+3022                      C400244-A Lo Ni Va                            - -  - 102   NaXX       
+3024                      A8A1351-F Fl Lo Ni                            - V  - 300   NaXX       
+3025                      D7B1743-2 Fl                                  - D  A 713   NaXX       
+3028                      B8D1555-8 Fl Ni                               - -  - 810   NaXX       
+3121                      C79A635-6 Ni Wa                               - RT - 401   NaXX       
+3122                      B689465-8 Ni                                  - -  - 204   NaXX       
+3124                      C2337BG-6 Na Po                               - -  - 113   NaXX       
+3125                      A311533-D Ic Ni                               - W  - 113   NaXX       
+3128                      C000100-C As Lo Ni                            - -  - 420   NaXX       
+3129                      E554895-1                                     - -  - 922   NaXX       
+3130                      B232668-7 Na Ni Po                            - -  - 910   NaXX       
+3221                      C437310-A Lo Ni                               - -  - 104   NaXX       
+3222                      B200311-B Lo Ni Va                            - V  - 610   NaXX       
+3224                      E633153-4 Lo Ni Po                            - -  - 312   NaXX       
+3226                      B120467-B De Ni Po                            - V  - 600   NaXX       
+3228                      C423521-B Ni Po                               - RT - 402   NaXX        
+0131                      C768467-8 Ni                                  - V  - 304   NaXX       
+0133                      E9C98DE-3 Fl                                  - D  A 912   NaXX       
+0134                      C320654-6 De Na Ni Po                         - RT - 502   NaXX       
+0135                      E558355-6 Lo Ni                               - -  - 404   NaXX       
+0136                      C736657-9 Ni                                  - RT - 503   NaXX       
+0137                      C130657-8 De Na Ni Po                         - RT - 904   NaXX       
+0231                      C436965-8 Hi In                               - W  - 813   NaXX       
+0232                      B476999-D Hi In                               - W  - 100   NaXX       
+0233                      C365774-4 Ag Ri                               - -  B 904   NaXX       
+0235                      BA7A315-8 Lo Ni Wa                            - N  - 903   NaXX       
+0236                      C310324-6 Lo Ni                               - -  - 310   NaXX       
+0238                      C777544-4 Ag Ni                               - -  - 323   NaXX       
+0240                      C428365-8 Lo Ni                               - V  - 801   NaXX       
+0332                      B220736-7 De Na Po                            - -  - 604   NaXX         
+0336                      C673400-6 Ni                                  - -  - 724   NaXX       
+0338                      B376526-9 Ag Ni                               - -  - 202   NaXX       
+0340                      C454511-7 Ag Ni                               - RT - 100   NaXX         
+0435                      E783644-4 Ni Ri                               - -  - 510   NaXX       
+0436                      B325442-B Ni                                  - V  - 804   NaXX       
+0440                      C77899C-7 Hi In                               - W  - 703   NaXX       
+0532                      C465412-7 Ni                                  - V  - 202   NaXX       
+0537                      D88885A-4 Ri                                  - -  - 705   NaXX       
+0632                      C346622-4 Ag Ni                               - -  - 104   NaXX       
+0633                      C9C3000-9 Ba Fl Lo Ni                         - D  A 103   NaXX       
+0635                      C997230-5 Lo Ni                               - -  - 804   NaXX       
+0640                      D9B9220-9 Fl Lo Ni                            - D  A 900   NaXX       
+0731                      B655989-8 Hi                                  - -  - 403   NaXX       
+0733                      C564754-4 Ag Ri                               - W  - 705   NaXX       
+0734                      C5555AB-5 Ag Ni                               - RT - 624   NaXX       
+0735                      B410485-C Ni                                  - V  - 120   NaXX       
+0739                      B8648A8-A                                     - W  - 701   NaXX       
+0740                      B676120-6 Lo Ni                               - -  - 214   NaXX       
+0832                      E885745-4 Ag Ri                               - -  - 102   NaXX       
+0834                      D685003-7 Lo Ni                               - -  - 400   NaXX       
+0837                      B480668-A De Ni Ri                            - RT - 100   NaXX       
+0838                      B543557-A Ni Po                               - RT - 804   NaXX       
+0839                      C63897C-B Hi In                               - -  B 420   NaXX       
+0840                      A226469-A Ni                                  - -  - 413   NaXX       
+0931                      D664434-5 Ni                                  - V  - 604   NaXX       
+0932                      C887753-5 Ag Ri                               - -  - 410   NaXX       
+0934                      C67A8B9-5 Wa                                  - -  - 111   NaXX       
+0935                      B346765-9 Ag                                  - W  - 703   NaXX       
+0936                      A554632-7 Ag Ni                               - -  - 304   NaXX       
+0938                      E7B2277-4 Fl Lo Ni                            - D  A 823   NaXX       
+0939                      E2008AB-8 Na Va                               - -  - 414   NaXX       
+0940                      C449537-A Ni                                  - RT - 104   NaXX       
+1032                      C400200-7 Lo Ni Va                            - -  - 913   NaXX       
+1036                      C500573-5 Ni Va                               - -  B 215   NaXX       
+1037                      B697324-9 Lo Ni                               - V  - 500   NaXX       
+1038                      B110597-B Ni                                  - RT - 103   NaXX       
+1040                      B443558-C Ni Po                               - -  - 100   NaXX       
+1131                      C5A0100-8 De Lo Ni                            - -  - 703   NaXX       
+1133                      C8C6103-6 Fl Lo Ni                            - D  A 800   NaXX       
+1140                      E454200-8 Lo Ni                               - -  - 703   NaXX       
+1231                      C445675-9 Ag Ni                               - -  B 205   NaXX       
+1234                      A552679-B Ni Po                               - -  B 303   NaXX       
+1236                      C160651-A De Ni Ri                            - RT - 400   NaXX       
+1240                      E779565-6 Ni                                  - -  - 503   NaXX       
+1332                      E528623-5 Ni                                  - -  - 313   NaXX       
+1336                      E78A585-8 Ni Wa                               - -  - 810   NaXX       
+1337                      C7767BD-8 Ag                                  - -  - 404   NaXX        
+1433                      B53067A-7 De Na Ni Po                         - -  B 704   NaXX       
+1437                      B454697-B Ag Ni                               - RT - 512   NaXX       
+1438                      C593563-6 Ni                                  - -  - 824   NaXX       
+1531                      C444645-4 Ag Ni                               - -  - 303   NaXX       
+1536                      C439337-A Lo Ni                               - -  - 403   NaXX        
+1539                      D688104-6 Lo Ni                               - -  - 414   NaXX       
+1540                      C545457-A Ni                                  - V  - 402   NaXX       
+1631                      A658767-A Ag                                  - RT - 602   NaXX       
+1636                      B410559-C Ni                                  - -  - 301   NaXX       
+1639                      C300103-B Lo Ni Va                            - V  - 524   NaXX       
+1731                      C342485-5 Ni Po                               - V  - 704   NaXX       
+1732                      C75A027-A Lo Ni Wa                            - V  - 233   NaXX       
+1736                      E688787-2 Ag Ri                               - -  - 800   NaXX       
+1738                      C20069C-7 Na Ni Va                            - RT - 301   NaXX       
+1832                      C637743-8                                     - -  - 804   NaXX       
+1834                      A244552-B Ag Ni                               - -  - 512   NaXX       
+1835                      A000578-B As Ni                               - -  B 803   NaXX        
+1936                      B552450-7 Ni Po                               - -  - 303   NaXX       
+1937                      D8B679E-6 Fl                                  - D  A 503   NaXX       
+2031                      C55A514-6 Ni Wa                               - -  - 131   NaXX       
+2033                      D657488-6 Ni                                  - V  - 500   NaXX        
+2036                      E3429A7-4 Hi In Po                            - -  - 302   NaXX       
+2037                      C410130-A Lo Ni                               - -  - 902   NaXX       
+2039                      E321110-5 Lo Ni Po                            - -  - 502   NaXX       
+2131                      B577520-7 Ag Ni                               - RT - 103   NaXX       
+2135                      B502547-7 Ic Ni Va                            - RT - 222   NaXX       
+2231                      B691521-6 Ni                                  - -  - 602   NaXX       
+2234                      B257547-B Ag Ni                               - -  - 311   NaXX       
+2238                      C777210-5 Lo Ni                               - -  - 501   NaXX       
+2331                      D423A75-8 Hi In Na Po                         - -  B 604   NaXX       
+2332 Obreen               C476999-B Hi In                               - W  - 502   NaXX       
+2333                      C550589-6 De Ni Po                            - RT - 702   NaXX       
+2334                      A522510-A Ni Po                               - -  - 902   NaXX       
+2335                      B795245-A Lo Ni                               - V  - 800   NaXX       
+2336                      B885200-A Lo Ni                               - -  - 702   NaXX       
+2338                      D455794-7 Ag                                  - -  - 825   NaXX       
+2339                      C728744-7                                     - -  - 605   NaXX       
+2340                      E86A499-6 Ni Wa                               - -  - 614   NaXX       
+2435                      C364575-9 Ag Ni                               - -  B 221   NaXX       
+2437                      A232430-E Ni Po                               - -  - 200   NaXX       
+2438                      C221769-9 Na Po                               - -  - 700   NaXX       
+2439                      C202331-A Ic Lo Ni Va                         - -  - 813   NaXX       
+2440                      C796754-9 Ag                                  - -  - 605   NaXX       
+2534                      B9AA778-B Fl Wa                               - -  B 811   NaXX       
+2535 Phamar               C647764-8 Ag                                  - W  - 301   NaXX       
+2536                      C00067C-B As Na Ni                            - -  B 623   NaXX       
+2538                      B94A231-A Lo Ni Wa                            - -  - 215   NaXX       
+2633                      C669114-6 Lo Ni                               - -  - 301   NaXX       
+2640                      E78A426-6 Ni Wa                               - -  - 304   NaXX       
+2731                      C453874-7 Po                                  - -  B 804   NaXX       
+2736                      C321410-8 Ni Po                               - -  - 801   NaXX       
+2738 Tihada               D46459B-6 Ag Ni                               - -  - 611   NaXX       
+2832                      C676100-8 Lo Ni                               - V  - 105   NaXX       
+2834                      D763137-6 Lo Ni                               - V  - 200   NaXX       
+2837                      C310679-A Na Ni                               - -  B 702   NaXX       
+2839                      C5109AA-7 Hi Na                               - -  - 614   NaXX       
+2935                      C73A200-B Lo Ni Wa                            - -  - 903   NaXX       
+3037                      E677531-2 Ag Ni                               - -  - 303   NaXX       
+3039                      B6B3474-C Fl Ni                               - D  A 124   NaXX       
+3136                      D466698-4 Ag Ni Ri                            - RT - 904   NaXX       
+3140 Walli                B656264-B Lo Ni                               - -  - 402   NaXX       
+3238                      E130400-7 De Ni Po                            - -  - 312   NaXX       
+3239                      C411740-6 Ic Na                               - -  - 903   NaXX       
+3240                      B89A100-A Lo Ni Wa                            - V  - 713   NaXX
