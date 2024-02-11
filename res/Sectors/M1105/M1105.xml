@@ -1833,7 +1833,7 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Y>3</Y>
     <X>-8</X>
     <Name Lang="as">Hkakhaeaw</Name>
-    <DataFile Source="CORE" Ref="http://www.ocean-of-storms.com/core/astrogat/i4.htm">hkakhaeaw.sec</DataFile>
+    <DataFile Source="CORE" Ref="http://www.ocean-of-storms.com/core/astrogat/i4.htm" Type="TabDelimited">hkakhaeaw.tab</DataFile>
     <Subsectors Source="CORE">
       <Subsector Index="A">Iyye</Subsector>
       <Subsector Index="B">Yow</Subsector>
@@ -2188,7 +2188,7 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Y>4</Y>
     <X>-6</X>
     <Name Lang="as">Heakhafaw</Name>
-    <DataFile Source="Solomani and Aslan" Ref="https://travellermap.com/data/heakhafaw">heakhafaw.sec</DataFile>
+    <DataFile Source="Solomani and Aslan" Ref="https://travellermap.com/data/heakhafaw" Type="TabDelimited">heakhafaw.tab</DataFile>
     <Subsectors>
       <Subsector Index="A">Staiahio</Subsector>
       <Subsector Index="B">Aaotla</Subsector>
@@ -3204,40 +3204,46 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Routes>
       <Route Start="0139" End="0302" EndOffsetX="0" EndOffsetY="1" Color="Yellow" Style="Dashed" />
       <Route Start="0139" End="3036" EndOffsetX="-1" EndOffsetY="0" Color="Yellow" Style="Dashed" />
-
-
+      </Routes>
+  </Sector>  
 
   <!-- Names of the Rim Route -->
   <Sector>
     <Y>9</Y>
     <X>8</X>
-    <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Binaurie</Name>
+    <Name Source="General Turokan's Expedition to the Rim" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Binaurie</Name>
+    <DataFile>Binaurie.sec</DataFile>  
   </Sector>
   <Sector>
     <Y>9</Y>
     <X>9</X>
-    <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Grevanne</Name>
+    <Name Source="General Turokan's Expedition to the Rim" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Grevanne</Name>
+    <DataFile>Grevanne.sec</DataFile>
   </Sector>
 
   <Sector>
     <Y>10</Y>
     <X>9</X>
-    <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Femengaal</Name>
+    <Name Source="General Turokan's Expedition to the Rim" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Femengaal</Name>
+    <DataFile>Femengaal.sec</DataFile>
   </Sector>
   <Sector>
     <Y>10</Y>
     <X>10</X>
-    <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Wobanna</Name>
+    <Name Source="General Turokan's Expedition to the Rim" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Wobanna</Name>
+    <DataFile>Wobanna.sec</DataFile>
   </Sector>
   <Sector>
     <Y>11</Y>
     <X>10</X>
-    <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Poinmaali</Name>
+    <Name Source="General Turokan's Expedition to the Rim" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Poinmaali</Name>
+    <DataFile>Poinmaali.sec</DataFile>
   </Sector>
   <Sector>
     <Y>11</Y>
     <X>11</X>
-    <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Hintrab</Name>
+    <Name Source="General Turokan's Expedition to the Rim" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Hintrab</Name>
+    <DataFile>Hintrab.sec</DataFile>
   </Sector>
 
   <Sector>

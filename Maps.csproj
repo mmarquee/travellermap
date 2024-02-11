@@ -652,7 +652,6 @@
     <Content Include="res\Sectors\M1105\Julienne.sec" />
     <Content Include="res\Sectors\M1105\Gikmur.sec" />
     <None Include="res\Sectors\M1105\Haust.sec" />
-    <Content Include="res\Sectors\M1105\Heakhafaw.sec" />
     <Content Include="res\Sectors\M1105\Hfiywitir.txt" />
     <Content Include="res\Sectors\M1105\Hinterworlds.tab" />
     <Content Include="res\Sectors\M1105\Hinterworlds.xml" />
@@ -689,6 +688,7 @@
     <Content Include="res\Sectors\M1105\hkakhaeaw.tab" />
     <Content Include="res\Sectors\M1105\Ingresh.sec" />
     <Content Include="res\Sectors\M1105\Hiplinni.sec" />
+    <Content Include="res\Sectors\M1105\Heakhafaw.tab" />
     <None Include="res\Sectors\M1105\Iturokil.sec" />
     <Content Include="res\Sectors\M1105\Itvikiastaf.xml" />
     <Content Include="res\Sectors\M1105\Iwahfuah.tab" />
