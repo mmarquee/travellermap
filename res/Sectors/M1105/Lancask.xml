@@ -3,7 +3,6 @@
   <X>6</X>
   <Y>6</Y>
   <Name Lang="hv">Lancask</Name>
-  <DataFile Type="SecondSurvey">Lancask.txt</DataFile>  
   <Subsectors>
     <Subsector Index="A">Alanca</Subsector>
     <Subsector Index="B">Bancass</Subsector>

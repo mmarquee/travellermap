@@ -2,7 +2,6 @@
   <X>5</X>
   <Y>6</Y>
   <Name Lang="hv">Muarne</Name>
-  <DataFile Type="SecondSurvey">Muarne.txt</DataFile>
   <Subsectors>
     <Subsector Index="A">Amuar</Subsector>
     <Subsector Index="B">Barnes</Subsector>
