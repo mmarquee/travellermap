@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+  <Y>12</Y>
+  <X>12</X>
+  <Name>Tumluun</Name>
+  <Subsectors>
+    <Subsector Index="A">Atumlu</Subsector>
+    <Subsector Index="B">Buumkle</Subsector>
+    <Subsector Index="C">Chuumtu</Subsector>
+    <Subsector Index="D">Dretume</Subsector>
+    <Subsector Index="E">Etumluun</Subsector>
+    <Subsector Index="F">Fruumli</Subsector>
+    <Subsector Index="G">G</Subsector>
+    <Subsector Index="H">H</Subsector>
+    <Subsector Index="I">Itumlor</Subsector>
+    <Subsector Index="J">Jatumu</Subsector>
+    <Subsector Index="K">Klumluut</Subsector>
+    <Subsector Index="L">L</Subsector>
+    <Subsector Index="M">Mitumau</Subsector>
+    <Subsector Index="N">Nortuun</Subsector>
+    <Subsector Index="O">Okuutum</Subsector>
+    <Subsector Index="P">Puutum</Subsector>
+  </Subsectors>
+  <Allegiances>
+  </Allegiances>
+  <Borders>
+  </Borders>
+  <Routes>
+    <Route Start="0107" End="2905" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
+    <Route Start="0107" End="0310" Color="Blue" Style="Dashed" />
+
+    <Route Start="0310" End="0712" Color="Blue" Style="Dashed" />
+    <Route Start="0712" End="0915" Color="Blue" Style="Dashed" />
+    <Route Start="0915" End="1018" Color="Blue" Style="Dashed" />
+    <Route Start="1018" End="1122" Color="Blue" Style="Dashed" />
+    <Route Start="1122" End="1225" Color="Blue" Style="Dashed" />
+    <Route Start="1225" End="1528" Color="Blue" Style="Dashed" />
+    <Route Start="1528" End="1930" Color="Blue" Style="Dashed" />
+    <Route Start="1930" End="2332" Color="Blue" Style="Dashed" />
+    <Route Start="2332" End="2535" Color="Blue" Style="Dashed" />
+    <Route Start="2535" End="2738" Color="Blue" Style="Dashed" />
+    <Route Start="2738" End="3140" Color="Blue" Style="Dashed" />
+    <Route Start="3140" End="0102" EndOffsetX="1" EndOffsetY="1" Color="Blue" Style="Dashed" />
+  </Routes>
+</Sector>

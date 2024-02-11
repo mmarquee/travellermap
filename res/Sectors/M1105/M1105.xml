@@ -3278,31 +3278,14 @@ Left:   0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 00
     <Y>12</Y>
     <X>12</X>
     <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Tumluun</Name>
-    <DataFile>Tumluun.sec</DataFile>
-    <Routes>
-      <Route Start="0107" End="2905" EndOffsetX="-1" EndOffsetY="0" Color="Blue" Style="Dashed" />
-      <Route Start="0107" End="0310" Color="Blue" Style="Dashed" />
-
-      <Route Start="0310" End="0712" Color="Blue" Style="Dashed" />
-      <Route Start="0712" End="0915" Color="Blue" Style="Dashed" />
-      <Route Start="0915" End="1018" Color="Blue" Style="Dashed" />
-      <Route Start="1018" End="1122" Color="Blue" Style="Dashed" />
-      <Route Start="1122" End="1225" Color="Blue" Style="Dashed" />
-      <Route Start="1225" End="1528" Color="Blue" Style="Dashed" />
-      <Route Start="1528" End="1930" Color="Blue" Style="Dashed" />
-      <Route Start="1930" End="2332" Color="Blue" Style="Dashed" />
-      <Route Start="2332" End="2535" Color="Blue" Style="Dashed" />
-      <Route Start="2535" End="2738" Color="Blue" Style="Dashed" />
-      <Route Start="2738" End="3140" Color="Blue" Style="Dashed" />
-      <Route Start="3140" End="0102" EndOffsetX="1" EndOffsetY="1" Color="Blue" Style="Dashed" />
-    </Routes>
+    <DataFile  Author="Bari Z. Stafford Sr." Type="SecondSurvey">Tumluun.txt</DataFile>
+    <MetadataFile>Tumluun.xml</MetadataFile>
   </Sector>
 
   <Sector>
     <Y>13</Y>
     <X>12</X>
     <Name Source="The Core Route Project" Author="Bari Z. Stafford Sr." Ref="https://web.archive.org/web/20030406042613/http://www.geocities.com/traveller_core_route/proj004/proj004.html">Yasktier</Name>
-    <DataFile>Yasktier.sec</DataFile>
     <DataFile>Yasktier.sec</DataFile>
     <Routes>
       <Route Start="0101" End="3238" EndOffsetX="-1" EndOffsetY="-1" Color="Yellow" Style="Dashed" />
