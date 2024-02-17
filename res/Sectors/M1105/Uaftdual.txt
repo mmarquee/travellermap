@@ -78,184 +78,184 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 1804                      C4419AA-A He Hi In Po                         - -  - 805   NaXX        
 1805                      C449302-A Lo                                  - -  - 114   NaXX        
 1806                      C41087A-A Ph Na Pi                            - -  - 804   NaXX      
-1902                      C644223-9 Lo Ni                               - -  - 404   NaXX        
-1903                      C360100-A De Lo Ni                            - -  - 822   NaXX        
+1902                      C644223-9 Lo                                  - -  - 404   NaXX        
+1903                      C360100-A De Lo                               - -  - 822   NaXX        
 1904                      D67A422-9 Ni Wa                               - -  - 122   NaXX        
 1906                      B353677-9 Ni Po                               - -  - 303   NaXX      
-1909                      C578777-7 Ag                                  - -  - 612   NaXX      
-2002                      C672000-8 Ba Lo Ni                            - -  - 104   NaXX        
-2003                      A546111-9 Lo Ni                               - -  - 404   NaXX        
-2005                      B437344-9 Lo Ni                               - -  - 803   NaXX        
-2008                      A693303-A Lo Ni                               - -  - 723   NaXX        
-2009                      C4748AF-5                                     - -  - 603   NaXX        
-2010                      C6B2210-5 Fl Lo Ni                            - -  - 814   NaXX        
-2101                      C555413-9 Ni                                  - -  - 314   NaXX        
-2102                      C665577-4 Ag Ni                               - -  - 605   NaXX      
-2103                      D6B2114-4 Fl Lo Ni                            - -  - 404   NaXX        
-2104                      C200887-9 Na Va                               - -  - 410   NaXX        
+1909                      C578777-7 Ag Pi                               - -  - 612   NaXX      
+2002                      C672000-0 He Ba                               - -  - 004   NaXX        
+2003                      A546111-9 Lo                                  - -  - 404   NaXX        
+2005                      B437344-9 Lo                                  - -  - 803   NaXX        
+2008                      A693303-A Lo                                  - -  - 723   NaXX        
+2009                      C4748AF-5 Ph Pa Pi                            - -  - 603   NaXX        
+2010                      C6B2210-5 Fl He Lo                            - -  - 814   NaXX        
+2101                      C555413-9 Ni Pa                               - -  - 314   NaXX        
+2102                      C665577-4 Ag Ga Ni Pr                         - -  - 605   NaXX      
+2103                      D6B2114-4 Fl He Lo                            - -  - 404   NaXX        
+2104                      C200887-9 Na Va Ph Pi                         - -  - 410   NaXX        
 2108                      EAA7632-4 Fl Ni                               - -  - 703   NaXX        
-2109                      A645014-7 Lo Ni                               - -  - 400   NaXX        
+2109                      C645114-7 Lo                                  - -  - 400   NaXX        
 2110                      C7C3687-4 Fl Ni                               - -  - 624   NaXX        
-2203                      D857542-2 Ag Ni                               - -  - 112   NaXX        
-2204                      B4368CA-B                                     - -  - 503   NaXX        
-2205                      C593123-6 Lo Ni                               - -  - 602   NaXX        
-2209                      A411367-A Ic Lo Ni                            - -  - 504   NaXX        
-2210                      E448010-4 Lo Ni                               - -  - 503   NaXX        
-2301                      C464220-A Lo Ni                               - -  - 302   NaXX        
-2302 Cliaboo              B000421-9 As Ni                               - -  - 712   NaXX        
-2303                      C353048-4 Lo Ni Po                            - -  - 202   NaXX        
-2304                      B642574-9 Ni Po                               - -  - 503   NaXX        
+2203                      D857542-2 Ag Ga Ni                            - -  - 112   NaXX        
+2204                      B4368CA-B Ph                                  - -  - 503   NaXX        
+2205                      C593123-6 Lo                                  - -  - 602   NaXX        
+2209                      A411367-A Ic Lo                               - -  - 504   NaXX        
+2210                      E448110-4 Lo                                  - -  - 503   NaXX        
+2301                      C464220-A Lo                                  - -  - 302   NaXX        
+2302 Cliaboo              B000421-9 As Va Ni                            - -  - 712   NaXX        
+2303                      C353248-6 Lo Po                               - -  - 202   NaXX        
+2304                      B642574-9 He Ni Po                            - -  - 503   NaXX        
 2306                      C432521-B Ni Po                               - -  - 702   NaXX        
-2307                      B6A0777-9 De                                  - -  - 700   NaXX      
-2308                      C386201-6 Lo Ni                               - -  - 900   NaXX        
+2307                      B6A0777-9 He                                  - -  - 700   NaXX      
+2308                      C386201-6 Lo                                  - -  - 900   NaXX        
 2309                      A360434-9 De Ni                               - -  - 115   NaXX        
-2401                      DACA785-7 Fl Hi Wa                            - -  - 300   NaXX        
-2404                      B447311-9 Lo Ni                               - -  - 614   NaXX        
-2502                      C6B4002-6 Fl Lo Ni                            - -  - 702   NaXX      
-2504                      B3538A7-8 Po                                  - -  - 814   NaXX      
-2505                      C885434-6 Ni                                  - -  - 801   NaXX      
+2401                      DACA785-7 Fl                                  - -  - 300   NaXX        
+2404                      B447311-9 Lo                                  - -  - 614   NaXX        
+2502                      C6B4202-6 Fl Lo                               - -  - 702   NaXX      
+2504                      B3538A7-8 Po Ph                               - -  - 814   NaXX      
+2505                      C885434-6 Ga Ni Pa                            - -  - 801   NaXX      
 2506                      E777655-6 Ag Ni                               - -  - 522   NaXX      
 2507                      B7B4468-A Fl Ni                               - -  - 900   NaXX      
-2508                      C555113-5 Lo Ni                               - -  - 213   NaXX      
+2508                      C555113-5 Lo                                  - -  - 213   NaXX      
 2509                      C303679-5 Ic Na Ni Va                         - -  - 904   NaXX      
-2510                      C642853-9 Po                                  - -  - 810   NaXX      
+2510                      C642853-9 He Ph Pi Po                         - -  - 810   NaXX      
 2601                      C645546-4 Ag Ni                               - -  - 724   NaXX      
 2604 Schanjar             B743465-9 Ni Po                               - -  - 311   NaXX      
-2609                      D130599-7 De Hi In Na Po                      - -  - 200   NaXX      
-2610                      B694799-9 Ag                                  - -  - 624   NaXX      
-2703                      A200263-A Lo Ni Va                            - -  - 624   NaXX      
-2704                      A330021-9 De Lo Ni Po                         - -  - 503   NaXX      
-2705                      C240300-8 De Lo Ni Po                         - -  - 714   NaXX      
-2709                      D9A7335-5 Fl Lo Ni                            - -  - 714   NaXX      
-2710                      B1008C8-A Na Va                               - -  - 513   NaXX      
-2806                      C14078B-A De Po                               - -  - 603   NaXX      
-2807 Dikjum               B5A1742-6 Fl                                  - -  - 404   NaXX      
-2808                      A347899-A                                     - -  - 611   NaXX      
+2609                      D130599-7 De Ni Po                            - -  - 200   NaXX      
+2610                      B694799-9 Ag Pi                               - -  - 624   NaXX      
+2703                      A200263-A Lo Va                               - -  - 624   NaXX      
+2704                      D330121-9 De Lo Po                            - -  - 503   NaXX      
+2705                      C240300-8 De Lo Po                            - -  - 714   NaXX      
+2709                      D9A7335-5 Fl Lo                               - -  - 714   NaXX      
+2710                      B1008C8-A Va Na Pi Ph                         - -  - 513   NaXX      
+2806                      C14078B-A De Po Pi                            - -  - 603   NaXX      
+2807 Dikjum               B5A1742-9 He Fl                               - -  - 404   NaXX      
+2808                      A347899-A Ph Pa Pi                            - -  - 611   NaXX      
 2810                      E85A564-5 Ni Wa                               - -  - 424   NaXX      
-2901                      C656655-9 Ag Ni                               - -  - 724   NaXX      
+2901                      C656655-9 Ag Ga Ni                            - -  - 724   NaXX      
 2902                      X445152-1 Lo                                  - -  - 703   NaXX      
-2903                      C9558AA-5                                     - -  - 413   NaXX      
-2904                      E320752-7 De Na Po                            - -  - 310   NaXX      
-2906                      C412866-5 Ic Na                               - -  - 405   NaXX      
-2910                      D346221-7 Lo Ni                               - -  - 502   NaXX      
-3001                      D794587-5 Hi In                               - -  - 632   NaXX      
+2903                      C9558AA-5 Ph Pa                               - -  - 413   NaXX      
+2904                      E320752-7 He De Na Po Pi                      - -  - 310   NaXX      
+2906                      C412866-5 Ic Na Ph Pi                         - -  - 405   NaXX      
+2910                      D346221-7 Lo                                  - -  - 502   NaXX      
+3001                      D794587-5 Ni Ag                               - -  - 632   NaXX      
 3006                      D467644-5 Ag Ni Ri                            - -  - 204   NaXX      
-3007                      C354343-9 Lo Ni                               - -  - 200   NaXX      
-3008                      E000213-8 As Lo Ni                            - -  - 524   NaXX      
-3009                      C384466-5 Ni                                  - -  - 212   NaXX      
+3007                      C354343-9 Lo                                  - -  - 200   NaXX      
+3008                      E000213-8 As Va Lo                            - -  - 524   NaXX      
+3009                      C384466-5 Ni Pa                               - -  - 212   NaXX      
 3101                      B53A659-9 Ni Wa                               - -  - 100   NaXX      
-3103                      D69667B-5 Hi In                               - -  - 304   NaXX      
+3103                      D69687B-5 Ph Pa Pi                            - -  - 304   NaXX      
 3104                      C554796-5 Ag                                  - -  - 112   NaXX      
-3109                      C86A55A-9 Ni Wa                               - -  - 422   NaXX      
-3110 Arwiia               E423266-6 Lo Ni Po                            - -  - 921   NaXX      
-3202                      C767672-5 Ag Ni Ri                            - -  - 104   NaXX      
+3109                      C86A55A-9 Ni Wa Pr                            - -  - 422   NaXX      
+3110 Arwiia               C423266-A Lo Po                               - -  - 921   NaXX      
+3202                      C767672-5 Ag Ga Ni Ri                         - -  - 104   NaXX      
 3206                      B559572-8 Ni                                  - -  - 224   NaXX      
-0111                      C000555-9 As Ni                               - -  - 903   NaXX        
+0111                      C000555-9 As Va Ni                            - -  - 903   NaXX        
 0112                      E210667-7 Na Ni                               - -  - 715   NaXX        
-0118                      E98A542-7 Ni Wa                               - -  - 901   NaXX        
+0118                      E98A542-7 Ni Wa Pr                            - -  - 901   NaXX        
 0211                      E47857C-8 Ag Ni                               - -  - 804   NaXX      
-0212                      C4748A8-B Hi In                               - -  - 402   NaXX        
-0214                      C867534-6 Ag Ni                               - -  - 104   NaXX        
+0212                      B4748A8-B Ph Pa Pi                            - -  - 402   NaXX        
+0214                      C867534-6 Ag Ga Ni Pr                         - -  - 104   NaXX        
 0217                      E244689-2 Ag Ni                               - -  - 502   NaXX        
-0220                      D485404-4 Ni                                  - -  - 402   NaXX        
-0311                      E786699-3 Hi                                  - -  - 714   NaXX        
+0220                      D485404-4 Ni Pa                               - -  - 402   NaXX        
+0311                      E786699-3 Ga Ag Ni Ri                         - -  - 714   NaXX        
 0312                      D6337AA-4 Na Po                               - -  - 913   NaXX        
-0315                      C666221-9 Lo Ni                               - -  - 804   NaXX        
-0316                      B576400-9 Ni                                  - -  - 400   NaXX        
-0319                      D846853-5                                     - -  - 101   NaXX        
+0315                      C666221-9 Ga Lo                               - -  - 804   NaXX        
+0316                      B576400-9 Ni Pa                               - -  - 400   NaXX        
+0319                      D846853-5 Ph Pa Pi                            - -  - 101   NaXX        
 0320                      B653555-8 Ni Po                               - -  - 902   NaXX        
 0412 Csaanee              C505556-B Ic Ni Va                            - -  - 523   NaXX        
 0414                      E636666-2 Ni                                  - -  - 223   NaXX        
-0415                      B445884-6                                     - -  - 612   NaXX        
-0417                      C562314-8 Lo Ni                               - -  - 311   NaXX        
+0415                      B445884-6 Ph Pa Pi                            - -  - 612   NaXX        
+0417                      C562314-8 Lo                                  - -  - 311   NaXX        
 0511                      C8C8466-6 Fl Ni                               - -  - 302   NaXX        
-0513                      B300789-A Na Va                               - -  - 301   NaXX        
-0514                      D301643-8 Ic Na Ni Va                         - -  - 223   NaXX        
-0516 Flawarr              C525776-7                                     - -  - 703   NaXX      
-0517                      C79A200-A Lo Ni Wa                            - -  - 703   NaXX        
+0513                      B300789-A Na Va Pi                            - -  - 301   NaXX        
+0514                      D301643-8 Ic Na Va Ni                         - -  - 223   NaXX        
+0516 Flawarr              C525776-7 Pi                                  - -  - 703   NaXX      
+0517                      C79A200-A Lo Wa                               - -  - 703   NaXX        
 0518                      E65A762-3 Wa                                  - -  - 205   NaXX        
 0519                      A150420-A De Ni Po                            - -  - 704   NaXX        
-0611                      C7797BB-4                                     - -  - 914   NaXX        
+0611                      C7797BB-4 Pi                                  - -  - 914   NaXX        
 0612                      B89A58A-9 Ni Wa                               - -  - 112   NaXX        
 0613                      C100599-8 Ni Va                               - -  - 714   NaXX        
-0619 Ebbebaab             C200774-9 Na Va                               - -  - 223   NaXX      
+0619 Ebbebaab             C200774-9 Na Va Pi                            - -  - 223   NaXX      
 0620                      B200675-8 Na Ni Va                            - -  - 703   NaXX      
-0711                      E8C1445-3 Fl Ni                               - -  - 815   NaXX        
+0711                      E8C1445-3 Fl He Ni                            - -  - 815   NaXX        
 0712                      DA9958B-4 Ni                                  - -  - 212   NaXX        
 0713                      C88879B-5 Ag Ri                               - -  - 900   NaXX        
-0714                      C987320-8 Lo Ni                               - -  - 202   NaXX        
-0715                      X555645-2 Ag                                  - -  - 104   NaXX        
-0717                      C5A0568-8 De Ni                               - -  - 410   NaXX        
+0714                      C987320-8 Lo                                  - -  - 202   NaXX        
+0715 Ssill                X555645-2 Ag Ni (Ssill)                       - -  - 104   NaXX        
+0717                      C5A0568-8 He Ni                               - -  - 410   NaXX        
 0813                      C461765-4 Ri                                  - -  - 700   NaXX        
-0814                      C210120-6 Lo Ni                               - -  - 704   NaXX        
+0814                      C210120-6 Lo                                  - -  - 704   NaXX        
 0818                      A573561-A Ni                                  - -  - 302   NaXX        
-0913                      A667552-A Ag Ni                               - -  - 804   NaXX        
-0914                      E253338-4 Lo Ni Po                            - -  - 203   NaXX        
-0917                      B55586A-5                                     - -  - 503   NaXX        
+0913                      A667552-A Ag Ga Pr Ni                         - -  - 804   NaXX        
+0914                      E253338-4 Lo Po                               - -  - 203   NaXX        
+0917                      B55586A-5 Ph Pa                               - -  - 503   NaXX        
 0920                      EAB757C-5 Fl Ni                               - -  - 902   NaXX      
-1011                      A521767-A Hi In Na Po                         - -  - 824   NaXX        
-1013                      D88A552-A Ni Wa                               - -  - 115   NaXX        
-1014                      A5837CC-A                                     - -  - 703   NaXX        
+1011                      A521767-A He Pi Na Po                         - -  - 824   NaXX        
+1013                      D88A552-A Ni Wa Pr                            - -  - 115   NaXX        
+1014                      A5837CC-A Ri                                  - -  - 703   NaXX        
 1015                      E100657-7 Na Ni Va                            - -  - 502   NaXX        
-1018                      C477032-9 Lo Ni                               - -  - 420   NaXX      
-1019                      E444365-3 Lo Ni                               - -  - 100   NaXX      
-1111                      D733211-5 Lo Ni Po                            - -  - 403   NaXX        
+1018                      C477232-9 Lo                                  - -  - 420   NaXX      
+1019                      E444365-3 Lo                                  - -  - 100   NaXX      
+1111                      D733211-5 Lo Po                               - -  - 403   NaXX        
 1114                      BAB5420-9 Fl Ni                               - -  - 603   NaXX        
 1116                      C357656-9 Ag Ni                               - -  - 203   NaXX        
-1118                      D967110-6 Lo Ni                               - -  - 824   NaXX      
+1118                      D967110-6 Lo                                  - -  - 824   NaXX      
 1214                      CAC5679-4 Fl Ni                               - -  - 904   NaXX      
 1216                      E536477-3 Ni                                  - -  - 800   NaXX      
-1217                      C768544-4 Ag Ni                               - -  - 205   NaXX      
-1220                      C797689-8 Hi In                               - -  - 620   NaXX      
-1315                      C8A938A-6 Fl Lo Ni                            - -  - 320   NaXX      
+1217                      C768544-4 Ag Ni Pr                            - -  - 205   NaXX      
+1220                      C797689-8 Ag Ni                               - -  - 620   NaXX      
+1315                      C8A938A-6 Fl Lo                               - -  - 320   NaXX      
 1319                      B20057B-8 Ni Va                               - -  - 604   NaXX      
-1320                      E777868-3                                     - -  - 804   NaXX      
-1411                      C5666B9-7 Hi                                  - -  - 504   NaXX        
-1413                      B677400-8 Ni                                  - -  - 404   NaXX      
-1414                      C410100-B Lo Ni                               - -  - 705   NaXX      
+1320                      E777868-3 Ph Pa Pi                            - -  - 804   NaXX      
+1411                      C5666B9-7 Ni Ag Ri                            - -  - 504   NaXX        
+1413                      B677400-8 Ni Pa                               - -  - 404   NaXX      
+1414                      C410100-B Lo                                  - -  - 705   NaXX      
 1418                      C120556-8 De Ni Po                            - -  - 304   NaXX      
 1419                      C3475AB-7 Ag Ni                               - -  - 610   NaXX      
-1511                      D666515-2 Ag Ni                               - -  - 215   NaXX        
-1513                      D232866-7 Na Po                               - -  - 603   NaXX      
-1514                      C4008AC-7 Na Va                               - -  - 902   NaXX      
-1516                      A776778-A Ag                                  - -  - 704   NaXX      
-1518                      C672642-7 Ni                                  - -  - 904   NaXX      
-1519                      C9A7003-8 Fl Lo Ni                            - -  - 103   NaXX      
+1511                      D666515-2 Ag Ga Ni Pr                         - -  - 215   NaXX        
+1513                      D232866-7 Na Po Ph                            - -  - 603   NaXX      
+1514                      C4008AC-7 Na Va Ph Pi                         - -  - 902   NaXX      
+1516                      A776778-A Ag Pi                               - -  - 704   NaXX      
+1518                      C672642-7 He Ni                               - -  - 904   NaXX      
+1519                      C9A7103-8 Fl Lo                               - -  - 103   NaXX      
 1611                      C481747-7 Ri                                  - -  - 204   NaXX        
-1612                      C555433-5 Ni                                  - -  - 703   NaXX      
-1614                      B443754-B Hi In Po                            - -  - 914   NaXX      
-1616                      B8B3212-8 Fl Lo Ni                            - -  - 203   NaXX      
-1620                      B211333-9 Ic Lo Ni                            - -  - 212   NaXX      
-1713                      E695789-2 Ag                                  - -  - 105   NaXX      
+1612                      C555433-5 Ni Pa                               - -  - 703   NaXX      
+1614                      B443754-B Pi Po                               - -  - 914   NaXX      
+1616                      B8B3212-8 Fl Lo                               - -  - 203   NaXX      
+1620                      B211333-9 Ic Lo                               - -  - 212   NaXX      
+1713                      E695789-2 Ag Pi                               - -  - 105   NaXX      
 1718                      E87A422-5 Ni Wa                               - -  - 523   NaXX      
 1720                      B2505AC-7 De Ni Po                            - -  - 404   NaXX      
 1811                      DAB8551-8 Fl Ni                               - -  - 404   NaXX      
-1812                      C0005AE-A As Hi Na                            - -  - 104   NaXX      
+1812                      C0005AE-A As Va Ni                            - -  - 104   NaXX      
 1816                      A335625-9 Ni                                  - -  - 922   NaXX      
-1817                      E364366-5 Lo Ni                               - -  - 520   NaXX      
-1819                      B686444-6 Ni                                  - -  - 600   NaXX      
-1820                      D98A367-7 Lo Ni Wa                            - -  - 324   NaXX      
-1911                      B864420-6 Ni                                  - -  - 403   NaXX      
+1817                      E364366-5 Lo                                  - -  - 520   NaXX      
+1819                      B686444-6 Ga Pa Ni                            - -  - 600   NaXX      
+1820                      D98A367-7 Lo Wa                               - -  - 324   NaXX      
+1911                      B864420-6 Ni Pa                               - -  - 403   NaXX      
 1912                      E551486-4 Ni Po                               - -  - 902   NaXX      
-1913                      B622552-A Ni Po                               - -  - 403   NaXX      
-1915                      B888477-7 Ni                                  - -  - 825   NaXX      
-1917                      E738310-3 Lo Ni                               - -  - 513   NaXX      
-1919                      C8A5200-7 Fl Lo Ni                            - -  - 903   NaXX      
+1913                      B622552-A He Ni Po                            - -  - 403   NaXX      
+1915                      B888477-7 Ni Pa                               - -  - 825   NaXX      
+1917                      E738310-3 Lo                                  - -  - 513   NaXX      
+1919                      C8A5200-7 Fl Lo                               - -  - 903   NaXX      
 1920                      C63A678-A Ni Wa                               - -  - 203   NaXX      
 2011                      C300685-6 Na Ni Va                            - -  - 213   NaXX      
-2012                      C52616B-6 Lo Ni                               - -  - 700   NaXX      
+2012                      C52616B-6 Lo                                  - -  - 700   NaXX      
 2015                      A535650-9 Ni                                  - -  - 523   NaXX      
-2018                      C5A2524-7 Fl Ni                               - -  - 314   NaXX      
-2019                      C62A000-A Ba Lo Ni Wa                         - -  - 602   NaXX      
-2020                      E699105-5 Lo Ni                               - -  - 104   NaXX      
+2018                      C5A2524-7 He Fl Ni                            - -  - 314   NaXX      
+2019                      C62A101-A Lo                                  - -  - 602   NaXX      
+2020                      E699105-5 Lo                                  - -  - 104   NaXX      
 2111                      C223597-9 Ni Po                               - -  - 313   NaXX        
-2112                      C643123-5 Lo Ni Po                            - -  - 231   NaXX      
+2112                      C643123-5 Lo Po                               - -  - 231   NaXX      
 2115                      C53168A-9 Na Ni Po                            - -  - 103   NaXX      
 2116                      C749669-7 Ni                                  - -  - 614   NaXX      
 2117                      C88A748-8 Ri Wa                               - -  - 800   NaXX      
 2119                      A350630-A De Ni Po                            - -  - 304   NaXX      
-2211                      C454442-A Ni                                  - -  - 810   NaXX      
-2217                      X372853-2 Hi In (minor)                       - -  - 913   NaXX      
+2211                      C454442-A Ni Pa                               - -  - 810   NaXX      
+2217 Hansa'a              X372853-2 He Ph Pi (Hansa'a)                  - -  - 913   NaXX      
 2220                      C000513-9 As Ni                               - -  - 100   NaXX      
 2313                      C749421-9 Ni                                  - -  - 704   NaXX      
 2315                      C435112-9 Lo Ni                               - -  - 603   NaXX      
@@ -278,14 +278,14 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 2617                      C230866-8 De Na Po                            - -  - 403   NaXX      
 2618                      B000656-A As Na Ni                            - -  - 114   NaXX      
 2619                      B120210-9 De Lo Ni Po                         - -  - 904   NaXX      
-2712                      C796031-4 Lo Ni                               - -  - 713   NaXX      
+2712                      X796000-0 Ba                                  - -  - 013   NaXX      
 2715                      C3006BA-A Hi Na Va                            - -  - 704   NaXX      
 2717                      C566100-5 Lo Ni                               - -  - 124   NaXX      
 2812                      C452865-9 Po                                  - -  - 603   NaXX      
 2816                      B223402-A Ni Po                               - -  - 322   NaXX      
 2817                      C510553-8 Ni                                  - -  - 813   NaXX      
 2819                      C423469-A Ni Po                               - -  - 410   NaXX      
-2911                      C651000-8 Ba Lo Ni Po                         - -  - 104   NaXX      
+2911                      X651000-0 Ba                                  - -  - 004   NaXX      
 2912                      C430559-B De Ni Po                            - -  - 404   NaXX      
 2913                      E625777-3                                     - -  - 905   NaXX      
 2914                      B110551-A Ni                                  - -  - 804   NaXX      
@@ -348,7 +348,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 0830                      C200652-9 Na Ni Va                            - -  - 905   NaXX      
 0922                      C799883-9                                     - -  - 202   NaXX      
 0924                      C000587-A As Ni                               - -  - 713   NaXX      
-0926 Tooradin             C9B4035-7 Fl Lo Ni                            - -  - 324   NaXX      
+0926 Tooradin             C9B4335-7 Fl Lo Ni                            - -  - 324   NaXX      
 0927                      C96A546-B Ni Wa                               - -  - 200   NaXX      
 1022                      C677636-4 Ag Ni                               - -  - 801   NaXX      
 1024                      B326786-B                                     - -  - 614   NaXX      
@@ -385,13 +385,13 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 1629                      B300557-A Ni Va                               - -  - 303   NaXX      
 1630                      C425898-9                                     - -  - 600   NaXX      
 1722                      C534652-A Ni                                  - -  - 123   NaXX      
-1725                      C656688-3 Ag Ni                               - -  - 304   NaXX      
+1725                      C656688-7 Ag Ni                               - -  - 304   NaXX      
 1728                      C545669-8 Ag Ni                               - -  - 612   NaXX      
 1729                      E301556-7 Ic Ni Va                            - -  - 324   NaXX      
 1730                      B695634-6 Ag Ni                               - -  - 105   NaXX      
-1821                      C75879C-9 Hi                                  - -  - 920   NaXX      
+1821                      C75889C-7 Ph                                  - -  - 920   NaXX      
 1822                      X9595AB-0                                     - -  - 322   NaXX      
-1823                      B454003-A Lo Ni                               - -  - 403   NaXX      
+1823                      B454103-A Lo Ni                               - -  - 403   NaXX      
 1824                      C66855A-A Ag Ni                               - -  - 214   NaXX      
 1827                      C553752-7 Po                                  - -  - 103   NaXX      
 1828                      E54768B-3 Ag Ni                               - -  - 104   NaXX      
@@ -403,7 +403,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 2028                      E729389-8 Lo Ni                               - -  - 305   NaXX      
 2029                      D668975-5 Hi                                  - -  - 103   NaXX      
 2030                      C6496AA-4 Ni                                  - -  - 215   NaXX      
-2123 Klushan              A000689-B As Hi Na                            - -  - 623   NaXX      
+2123 Klushan              A000689-B As Va Na Ni                         - -  - 623   NaXX      
 2124                      X685541-0 Ag                                  - -  - 203   NaXX      
 2125                      C469878-7 Ri                                  - -  - 612   NaXX      
 2126                      E644403-8 Ni                                  - -  - 500   NaXX      
@@ -428,12 +428,12 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 2529                      A796651-A Ag Ni                               - -  - 515   NaXX      
 2530                      A9E4552-A Fl Ni                               - -  - 712   NaXX      
 2621                      C69A665-A Ni Wa                               - -  - 204   NaXX      
-2622                      D99A676-9 Hi In Wa                            - -  - 503   NaXX      
+2622                      C99A676-9 Ni Wa                               - -  - 503   NaXX      
 2623                      B659343-B Lo Ni                               - -  - 114   NaXX      
 2624                      E657789-6 Ag                                  - -  - 310   NaXX      
 2625                      C695100-5 Lo Ni                               - -  - 522   NaXX      
 2626                      B582433-A Ni                                  - -  - 613   NaXX      
-2627                      C2756AB-A Hi In                               - -  - 305   NaXX      
+2627                      B2756AB-A Hi In                               - -  - 305   NaXX      
 2628                      C225652-B Ni                                  - -  - 702   NaXX      
 2630                      C674620-6 Ag Ni                               - -  - 403   NaXX      
 2723                      C687766-3 Ag Ri                               - -  - 715   NaXX      
@@ -522,7 +522,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 1338                      C460552-9 De Ni                               - -  - 304   NaXX      
 1433                      B788754-8 Ag Ri                               - -  - 714   NaXX      
 1435                      D569565-6 Ni                                  - -  - 910   NaXX      
-1436                      C8A554H-B Fl Hi                               - -  - 410   NaXX      
+1436                      C8A5545-A Fl Ni                               - -  - 410   NaXX      
 1531 Nacarra              C34669B-7 Ag Ni                               - -  - 401   NaXX      
 1532                      C422765-7 Na Po                               - -  - 100   NaXX      
 1535                      D353761-3 Po                                  - -  - 900   NaXX      
@@ -534,7 +534,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 1636                      C597669-5 Ag Ni                               - -  - 121   NaXX      
 1638                      D723564-6 Ni Po                               - -  - 214   NaXX      
 1640                      B500743-7 Na Va                               - -  - 522   NaXX      
-1733                      X460003-2 De Lo                               - -  - 203   NaXX      
+1733 Iessami              X460103-2 De Lo (Iessami)                     - -  - 203   NaXX      
 1734                      B87A102-9 Lo Ni Wa                            - -  - 620   NaXX      
 1736                      C68A543-B Ni Wa                               - -  - 204   NaXX      
 1833                      C000149-A As Lo Ni                            - -  - 800   NaXX      
@@ -543,7 +543,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 1837                      A55578A-A Ag                                  - -  - 213   NaXX      
 1840                      C584335-5 Lo Ni                               - -  - 704   NaXX      
 1932                      C458758-6 Ag                                  - -  - 702   NaXX      
-1933 Oshush               A000754-B As Hi Na                            - -  - 723   NaXX      
+1933 Oshush               A000754-B As Va Pi Na                         - -  - 723   NaXX      
 1935                      C548455-A Ni                                  - -  - 801   NaXX      
 1936                      C584104-5 Lo Ni                               - -  - 204   NaXX      
 1938                      B646465-A Ni                                  - -  - 504   NaXX      
@@ -574,7 +574,7 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 2534                      C000665-6 As Na Ni                            - -  - 505   NaXX      
 2535                      A755200-9 Lo Ni                               - -  - 913   NaXX      
 2536 Uugnarr              C20059D-A Ni Va                               - -  - 721   NaXX      
-2539                      E5993AB-A Hi In                               - -  - 624   NaXX      
+2539                      E5993AB-8 Lo In                               - -  - 624   NaXX      
 2540                      D537664-6 Ni                                  - -  - 714   NaXX      
 2631                      C868884-6 Ri                                  - -  - 914   NaXX      
 2632                      B442331-8 Lo Ni Po                            - -  - 103   NaXX      
@@ -608,6 +608,6 @@ Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z P
 3232                      C9B65AC-7 Fl Ni                               - -  - 300   NaXX      
 3235                      B675247-7 Lo Ni                               - -  - 912   NaXX      
 3236                      B8C6320-8 Fl Lo Ni                            - -  - 502   NaXX      
-3237                      C222787-9 Hi In Na Po                         - -  - 703   NaXX      
+3237                      C222787-9 Pi Na Po                            - -  - 703   NaXX      
 3239                      B432544-9 Ni Po                               - -  - 814   NaXX      
 3240 Zall                 B635465-A Ni                                  - -  - 401   NaXX
