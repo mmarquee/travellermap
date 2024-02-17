@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Sector>
+  <Y>7</Y>
+  <X>6</X>
+  <Name>Uaftdual</Name>
+  <Name>Suaar</Name>
+  <Subsectors>
+    <Subsector Index="A">Ashuan</Subsector>
+    <Subsector Index="B">Baanah</Subsector>
+    <Subsector Index="C">Cashuar</Subsector>
+    <Subsector Index="D">Deschuia</Subsector>
+    <Subsector Index="E">Eeshuun</Subsector>
+    <Subsector Index="F">Fash</Subsector>
+    <Subsector Index="G">Ghuaar</Subsector>
+    <Subsector Index="H">Hushu</Subsector>
+    <Subsector Index="I">Ishfuaan</Subsector>
+    <Subsector Index="J">Juishan</Subsector>
+    <Subsector Index="K">Kiushu</Subsector>
+    <Subsector Index="L">Laaru</Subsector>
+    <Subsector Index="M">Muuaar</Subsector>
+    <Subsector Index="N">Naasch</Subsector>
+    <Subsector Index="O">Oshush</Subsector>
+    <Subsector Index="P">Pinshuar</Subsector>
+  </Subsectors>
+  <Routes> 
+  </Routes>
+  <Allegiances> 
+  </Allegiances>
+  <Borders> 
+  </Borders>
+</Sector>

@@ -1,0 +1,544 @@
+Hex  Name                 UWP       Remarks              {Ix} (Ex) [Cx] N B  Z PBG W A    Stellar
+---- -------------------- --------- -------------------- ---- ---- ---- - -- - --- - ---- -------
+0102 Arrshii              B100778-A Hi Na Va                            - -  - 112   NaXX      
+0103                      C7A2200-7 Fl Lo Ni                            - -  - 114   NaXX      
+0104                      E637555-6 Ni                                  - -  - 400   NaXX      
+0106                      B000147-A As Lo Ni                            - -  - 723   NaXX      
+0201                      C647523-6 Ag Ni                               - -  - 501   NaXX      
+0202                      A667785-A Ag Ri                               - -  - 612   NaXX      
+0204                      C23297B-8 Hi In Na Po                         - -  - 602   NaXX      
+0205                      E2027A8-5 Ic Na Va                            - -  - 824   NaXX      
+0207                      C410867-9 Na                                  - -  - 504   NaXX      
+0209                      C788642-3 Ag Ni Ri                            - -  - 802   NaXX      
+0210                      E528462-4 Ni                                  - -  - 714   NaXX      
+0301                      D5A0553-5 De Ni                               - -  - 901   NaXX      
+0302                      D77A400-9 Ni Wa                               - -  - 305   NaXX      
+0303                      B557368-6 Lo Ni                               - -  - 814   NaXX      
+0304                      C37678A-4 Ag                                  - -  - 902   NaXX      
+0306                      C875578-4 Ag Ni                               - -  - 614   NaXX      
+0310                      C333896-8 Hi In Na Po                         - -  - 904   NaXX      
+0402                      E61259A-3 Ic Ni                               - -  - 814   NaXX      
+0404                      E539668-5 Ni                                  - -  - 100   NaXX      
+0405                      D7A6564-6 Fl Ni                               - -  - 223   NaXX      
+0406                      D2456AC-2 Ag Ni                               - -  - 403   NaXX      
+0409                      C483777-4 Ri                                  - -  - 704   NaXX        
+0410                      A748427-B Ni                                  - -  - 924   NaXX      
+0501                      C567543-4 Ag Ni                               - -  - 304   NaXX      
+0504                      C674566-7 Ag Ni                               - -  - 200   NaXX      
+0507                      E351221-3 Lo Ni Po                            - -  - 914   NaXX      
+0510                      C65A668-7 Ni Wa                               - -  - 100   NaXX      
+0601                      B754678-8 Hi                                  - -  - 203   NaXX      
+0602                      B444686-A Ag Ni                               - -  - 914   NaXX      
+0603                      DA99230-4 Lo Ni                               - -  - 103   NaXX      
+0604                      A792255-A Lo Ni                               - -  - 114   NaXX      
+0608                      E454000-8 Ba Lo Ni                            - -  - 424   NaXX      
+0610                      D77A567-8 Ni Wa                               - -  - 200   NaXX      
+0703                      B547633-7 Ag Ni                               - -  - 703   NaXX      
+0705                      B574788-7 Ag                                  - -  - 603   NaXX      
+0708                      C658344-7 Lo Ni                               - -  - 821   NaXX      
+0709                      C65569B-3 Ag Ni                               - -  - 414   NaXX      
+0802                      X4775AC-0 Ag                                  - -  - 701   NaXX      
+0808                      C8B3310-6 Fl Lo Ni                            - -  - 423   NaXX      
+0810                      C586300-8 Lo Ni                               - -  - 514   NaXX      
+0902                      C9A6686-4 Fl Ni                               - -  - 304   NaXX      
+0905                      D576768-6 Hi In                               - -  - 520   NaXX      
+0906                      C745222-4 Lo Ni                               - -  - 113   NaXX      
+0907                      E100568-8 Ni Va                               - -  - 124   NaXX      
+1002                      B867476-9 Ni                                  - -  - 500   NaXX      
+1003                      B00059C-A As Ni                               - -  - 203   NaXX      
+1004                      C885452-8 Ni                                  - -  - 213   NaXX      
+1006                      E400665-5 Na Ni Va                            - -  - 303   NaXX      
+1007                      E0006AE-6 As Na Ni                            - -  - 710   NaXX      
+1103                      E2107BC-8 Hi Na                               - -  - 103   NaXX      
+1104                      D25269B-7 Ni Po                               - -  - 800   NaXX      
+1105                      E86A300-6 Lo Ni Wa                            - -  - 804   NaXX      
+1108                      C987143-4 Lo Ni                               - -  - 700   NaXX      
+1202                      C554235-9 Lo Ni                               - -  - 403   NaXX      
+1205                      D7977AB-6 Ag                                  - -  - 904   NaXX      
+1207                      E256669-2 Ag Ni                               - -  - 402   NaXX      
+1209                      B9B588D-9 Fl                                  - -  - 722   NaXX      
+1210                      D560673-7 De Hi                               - -  - 202   NaXX      
+1301                      C866133-4 Lo Ni                               - -  - 120   NaXX      
+1304                      C100521-9 Ni Va                               - -  - 803   NaXX      
+1305                      C312554-B Ic Ni                               - -  - 611   NaXX      
+1306                      C6A5879-4 Fl                                  - -  - 921   NaXX      
+1309                      C335100-7 Lo Ni                               - -  - 223   NaXX      
+1402                      E798776-4 Ag                                  - -  - 303   NaXX      
+1403                      C635666-7 Ni                                  - -  - 603   NaXX      
+1404                      A510473-9 Ni                                  - -  - 802   NaXX      
+1405                      CAF6566-6 Fl Ni                               - -  - 903   NaXX      
+1406                      E13087B-5 De Na Po                            - -  - 112   NaXX      
+1410                      B536535-8 Ni                                  - -  - 524   NaXX      
+1501                      D1005A9-7 Ni Va                               - -  - 614   NaXX      
+1502                      E210476-9 Ni                                  - -  - 303   NaXX      
+1503                      D6117BE-5 Ic Na                               - -  - 423   NaXX      
+1504                      B8C1797-9 Fl Hi                               - -  - 623   NaXX      
+1505                      A336899-9                                     - -  - 700   NaXX      
+1506                      E67A778-5 Wa                                  - -  - 303   NaXX      
+1507                      C432549-9 Ni Po                               - -  - 100   NaXX      
+1508                      CA7A546-9 Ni Wa                               - -  - 514   NaXX      
+1509                      C767664-6 Ag Ni Ri                            - -  - 200   NaXX      
+1604                      D984500-6 Ag Ni                               - -  - 500   NaXX      
+1607                      B789556-A Ni                                  - -  - 302   NaXX      
+1705                      X5277A8-3 Hi In                               - -  - 603   NaXX      
+1707                      C427899-A                                     - -  - 211   NaXX      
+1708                      C998731-3 Ag                                  - -  - 902   NaXX      
+1710                      C83A752-8 Wa                                  - -  - 413   NaXX      
+1802                      C579220-A Lo Ni                               - -  - 502   NaXX      
+1805                      C696899-3                                     - -  - 303   NaXX      
+1810                      A848608-A Hi In                               - -  - 714   NaXX      
+1903                      B75A324-A Lo Ni Wa                            - -  - 401   NaXX      
+1905                      C430454-9 De Ni Po                            - -  - 504   NaXX      
+1907                      X440210-3 De Lo Po                            - -  - 234   NaXX      
+1908                      C75A69B-8 Ni Wa                               - -  - 414   NaXX      
+1909                      CAE87A9-6 Fl                                  - -  - 124   NaXX      
+1910                      C301799-A Ic Na Va                            - -  - 605   NaXX      
+2004                      D664443-6 Ni                                  - -  - 403   NaXX      
+2006                      A5548AD-A                                     - -  - 504   NaXX      
+2008                      C567111-6 Lo Ni                               - -  - 501   NaXX      
+2010                      B200735-A Na Va                               - -  - 515   NaXX      
+2101                      C443455-6 Ni Po                               - -  - 910   NaXX      
+2102                      B78A446-A Ni Wa                               - -  - 502   NaXX      
+2110                      B200410-9 Ni Va                               - -  - 703   NaXX      
+2201                      D725110-8 Lo Ni                               - -  - 433   NaXX      
+2203                      C65A451-7 Ni Wa                               - -  - 602   NaXX      
+2304                      C727446-A Ni                                  - -  - 202   NaXX      
+2310                      D220862-7 De Na Po                            - -  - 904   NaXX      
+2401                      C110788-B Hi Na                               - -  - 600   NaXX      
+2402                      D5445AC-3 Ag Ni                               - -  - 114   NaXX      
+2404                      C8D779A-A Fl Hi                               - -  - 713   NaXX      
+2405                      C354100-6 Lo Ni                               - -  - 422   NaXX      
+2406                      E24389D-4 Po                                  - -  - 313   NaXX      
+2408                      D9B5523-4 Fl Ni                               - -  - 423   NaXX      
+2410                      C364612-4 Ag Ni                               - -  - 602   NaXX      
+2502                      B442798-A Po                                  - -  - 702   NaXX      
+2503                      C210256-7 Lo Ni                               - -  - 914   NaXX      
+2507                      B130678-A De Hi In Na Po                      - -  - 413   NaXX      
+2509                      B470225-9 De Lo Ni                            - -  - 404   NaXX      
+2602                      B54A7BC-A Wa                                  - -  - 511   NaXX      
+2603                      E432745-3 Na Po                               - -  - 204   NaXX      
+2604                      D558778-6 Ag                                  - -  - 412   NaXX      
+2608                      C573487-9 Ni                                  - -  - 402   NaXX      
+2609                      E431200-5 Lo Ni Po                            - -  - 302   NaXX      
+2610                      B9597B8-6                                     - -  - 703   NaXX      
+2701                      E200400-A Ni Va                               - -  - 603   NaXX      
+2707                      E663489-6 Ni                                  - -  - 324   NaXX      
+2709                      C7638CA-3                                     - -  - 820   NaXX      
+2710                      C335886-9                                     - -  - 920   NaXX      
+2804                      C655468-9 Ni                                  - -  - 322   NaXX      
+2808                      C44347C-6 Ni Po                               - -  - 713   NaXX      
+2902                      D445258-7 Lo Ni                               - -  - 110   NaXX      
+2905                      C85A385-9 Lo Ni Wa                            - -  - 813   NaXX      
+2906                      B11056A-A Ni                                  - -  - 104   NaXX      
+2910                      B98A879-A Hi Wa                               - -  - 822   NaXX      
+3001                      C767124-6 Lo Ni                               - -  - 603   NaXX      
+3006                      D500434-5 Ni Va                               - -  - 813   NaXX      
+3007                      E502859-9 Hi Ic Na Va                         - -  - 503   NaXX      
+3008                      E220564-6 De Ni Po                            - -  - 214   NaXX      
+3101                      C95A441-A Ni Wa                               - -  - 313   NaXX      
+3104                      C150456-9 De Ni Po                            - -  - 704   NaXX      
+3108                      D484368-3 Lo Ni                               - -  - 100   NaXX      
+3109                      CAE6458-6 Fl Ni                               - -  - 720   NaXX      
+3201                      B558778-6 Ag                                  - -  - 103   NaXX      
+3203                      D494410-6 Ni                                  - -  - 111   NaXX      
+3204                      C567436-7 Ni                                  - -  - 623   NaXX      
+3205                      C00078C-A As Hi Na                            - -  - 400   NaXX      
+3206                      E744745-4 Ag                                  - -  - 312   NaXX      
+3210                      B999789-6                                     - -  - 304   NaXX      
+0114                      X300762-3 Va                                  - -  - 925   NaXX      
+0115                      C300646-A Na Ni Va                            - -  - 724   NaXX      
+0116                      B464726-8 Ag                                  - -  - 921   NaXX      
+0117                      C536799-8 Hi In                               - -  - 311   NaXX      
+0119                      C785035-8 Lo Ni                               - -  - 605   NaXX      
+0212                      C5867BG-6 Ag                                  - -  - 500   NaXX      
+0213                      C98A276-B Lo Ni Wa                            - -  - 802   NaXX      
+0215                      D000555-B As Ni                               - -  - 624   NaXX      
+0311                      D4107AA-5 Na                                  - -  - 704   NaXX      
+0312 Ratiiv               B232566-A Ni Po                               - -  - 304   NaXX      
+0313                      B523678-A Hi In Na Po                         - -  - 300   NaXX      
+0314                      E504542-8 Ic Ni Va                            - -  - 524   NaXX      
+0317                      C11059A-7 Ni                                  - -  - 200   NaXX      
+0416                      C55169B-8 Ni Po                               - -  - 605   NaXX      
+0418                      E696543-6 Ag Ni                               - -  - 424   NaXX      
+0419                      C475544-9 Ag Ni                               - -  - 615   NaXX      
+0511                      C67A486-6 Ni Wa                               - -  - 500   NaXX      
+0512                      B400100-A Lo Ni Va                            - -  - 921   NaXX      
+0515                      C454445-9 Ni                                  - -  - 604   NaXX      
+0519                      C577465-4 Ni                                  - -  - 402   NaXX      
+0520                      C77A513-B Ni Wa                               - -  - 703   NaXX      
+0612                      C85A546-8 Ni Wa                               - -  - 702   NaXX      
+0613 Majjiig              B877773-6 Ag                                  - -  - 504   NaXX      
+0615                      C776355-5 Lo Ni                               - -  - 805   NaXX      
+0616                      C510698-8 Hi Na                               - -  - 502   NaXX      
+0619                      B140222-9 De Lo Ni Po                         - -  - 315   NaXX      
+0712                      C87A489-B Ni Wa                               - -  - 712   NaXX      
+0713                      C7A1412-5 Fl Ni                               - -  - 702   NaXX      
+0716                      B434767-A                                     - -  - 400   NaXX      
+0717 Paskuii              C66647B-6 Ni                                  - -  - 812   NaXX      
+0720                      C300525-A Ni Va                               - -  - 903   NaXX      
+0811                      C403313-B Ic Lo Ni Va                         - -  - 904   NaXX      
+0812                      C688124-9 Lo Ni                               - -  - 104   NaXX      
+0813                      C675465-6 Ni                                  - -  - 824   NaXX      
+0819                      C558449-9 Ni                                  - -  - 110   NaXX      
+0913                      E85A237-9 Lo Ni Wa                            - -  - 304   NaXX      
+0914                      B5A0643-9 De Ni                               - -  - 500   NaXX      
+0917                      C400644-A Na Ni Va                            - -  - 213   NaXX      
+0920                      B455411-A Ni                                  - -  - 603   NaXX      
+1011                      C512689-4 Ic Na Ni                            - -  - 704   NaXX      
+1017                      C130866-A De Na Po                            - -  - 200   NaXX      
+1019 Finagree             C310544-6 Ni                                  - -  - 525   NaXX      
+1020                      C97A56A-A Ni Wa                               - -  - 223   NaXX      
+1111                      D343878-2 Po                                  - -  - 414   NaXX      
+1113                      D2106BB-B Hi Na                               - -  - 901   NaXX      
+1115                      E787788-1 Ag Ri                               - -  - 922   NaXX      
+1120                      E453322-3 Lo Ni Po                            - -  - 723   NaXX      
+1211                      D257558-8 Ag Ni                               - -  - 101   NaXX      
+1212                      C768501-6 Ag Ni                               - -  - 120   NaXX      
+1213                      B483743-6 Ri                                  - -  - 522   NaXX      
+1216                      D20137C-8 Ic Lo Ni Va                         - -  - 414   NaXX      
+1218                      E441258-4 Lo Ni Po                            - -  - 420   NaXX      
+1312                      C579613-5 Ni                                  - -  - 210   NaXX      
+1317                      C574621-3 Ag Ni                               - -  - 225   NaXX      
+1412                      C659587-6 Hi                                  - -  - 512   NaXX      
+1414                      C88A577-6 Ni Wa                               - -  - 513   NaXX      
+1417                      C4278CB-A Hi In                               - -  - 602   NaXX      
+1512                      C56877C-6 Ag Ri                               - -  - 721   NaXX      
+1517                      C66A8B6-B Hi Wa                               - -  - 600   NaXX      
+1519                      A140120-B De Lo Ni Po                         - -  - 902   NaXX      
+1612                      C571642-8 Ni                                  - -  - 124   NaXX      
+1616                      E5337AA-6 Hi In Na Po                         - -  - 713   NaXX      
+1617                      C473103-A Lo Ni                               - -  - 623   NaXX      
+1619                      C545610-7 Ag Ni                               - -  - 224   NaXX      
+1717                      E2007CD-5 Na Va                               - -  - 304   NaXX      
+1720                      C200456-B Ni Va                               - -  - 323   NaXX      
+1812                      C563377-6 Lo Ni                               - -  - 104   NaXX      
+1820                      D749520-7 Ni                                  - -  - 514   NaXX      
+1912                      C483321-8 Lo Ni                               - -  - 403   NaXX      
+1913                      C453200-8 Lo Ni Po                            - -  - 403   NaXX      
+1914                      C357203-8 Lo Ni                               - -  - 714   NaXX      
+1915                      A89A332-A Lo Ni Wa                            - -  - 200   NaXX      
+2011                      X464663-0 Ag Ri                               - -  - 802   NaXX      
+2012                      C534557-9 Ni                                  - -  - 903   NaXX      
+2013                      E552234-3 Lo Ni Po                            - -  - 503   NaXX      
+2014                      B320788-9 De Na Po                            - -  - 205   NaXX      
+2019                      B310684-A Na Ni                               - -  - 904   NaXX      
+2020                      C8455A9-9 Ag Ni                               - -  - 802   NaXX      
+2112                      B8A8211-A Fl Lo Ni                            - -  - 700   NaXX      
+2113                      C000898-6 As Na                               - -  - 505   NaXX      
+2116                      A300468-B Ni Va                               - -  - 301   NaXX      
+2117                      B647001-B Lo Ni                               - -  - 324   NaXX      
+2118                      E77A444-4 Ni Wa                               - -  - 702   NaXX      
+2119                      C479884-5                                     - -  - 312   NaXX      
+2120                      D15078C-3 De Po                               - -  - 402   NaXX      
+2211                      C321546-7 Ni Po                               - -  - 100   NaXX      
+2214                      B658788-5 Ag                                  - -  - 214   NaXX      
+2215                      A585645-A Ag Ni Ri                            - -  - 214   NaXX      
+2217                      E68A567-7 Ni Wa                               - -  - 103   NaXX      
+2312                      C675567-4 Ag Ni                               - -  - 504   NaXX      
+2317                      C2006A8-A Na Ni Va                            - -  - 323   NaXX      
+2318                      B695212-8 Lo Ni                               - -  - 803   NaXX      
+2319                      CADA6BA-8 Fl Ni Wa                            - -  - 534   NaXX      
+2411                      E110584-5 Ni                                  - -  - 605   NaXX      
+2417                      C160744-5 De Ri                               - -  - 424   NaXX      
+2418                      B543555-B Ni Po                               - -  - 803   NaXX      
+2419                      C66A424-A Ni Wa                               - -  - 905   NaXX      
+2420                      C411443-9 Ic Ni                               - -  - 601   NaXX      
+2512                      C433630-9 Na Ni Po                            - -  - 403   NaXX      
+2513                      C452312-9 Lo Ni Po                            - -  - 303   NaXX      
+2514                      E140795-7 De Hi In Po                         - -  - 124   NaXX      
+2516                      A83788A-9                                     - -  - 220   NaXX      
+2517                      B201200-9 Ic Lo Ni Va                         - -  - 914   NaXX      
+2611                      C577131-6 Lo Ni                               - -  - 803   NaXX      
+2613                      E687567-3 Ag Ni                               - -  - 515   NaXX      
+2616                      C451846-7 Po                                  - -  - 610   NaXX      
+2619                      C350578-8 De Ni Po                            - -  - 202   NaXX      
+2711                      B69756A-9 Ag Ni                               - -  - 224   NaXX      
+2716                      E639200-9 Lo Ni                               - -  - 815   NaXX      
+2717                      B536500-A Ni                                  - -  - 612   NaXX      
+2718                      B410688-B Hi Na                               - -  - 110   NaXX      
+2811                      E458469-6 Ni                                  - -  - 802   NaXX      
+2816                      D69A775-7 Hi In Wa                            - -  - 621   NaXX      
+2911                      C77A474-7 Ni Wa                               - -  - 903   NaXX      
+2913                      B667000-6 Ba Lo Ni                            - -  - 414   NaXX      
+2915                      C10069A-6 Na Ni Va                            - -  - 120   NaXX      
+2918                      C8B6110-6 Fl Lo Ni                            - -  - 514   NaXX      
+2919                      E784200-7 Lo Ni                               - -  - 702   NaXX      
+2920                      C33257A-7 Ni Po                               - -  - 721   NaXX      
+3015                      C52A647-A Ni Wa                               - -  - 202   NaXX      
+3017                      B98A6BA-9 Hi Wa                               - -  - 932   NaXX      
+3018                      D687674-1 Ag Ni Ri                            - -  - 903   NaXX      
+3020                      D898764-3 Ag                                  - -  - 804   NaXX      
+3111                      C220445-A De Ni Po                            - -  - 904   NaXX      
+3112                      B545141-7 Lo Ni                               - -  - 224   NaXX      
+3115                      B344130-A Lo Ni                               - -  - 320   NaXX      
+3117                      B765726-A Ag                                  - -  - 712   NaXX      
+3212                      D561333-5 Lo Ni                               - -  - 900   NaXX      
+3214                      C554200-7 Lo Ni                               - -  - 804   NaXX      
+3215                      E773663-5 Ni                                  - -  - 513   NaXX      
+3216                      B203342-B Ic Lo Ni Va                         - -  - 603   NaXX      
+3217                      C647120-4 Lo Ni                               - -  - 414   NaXX      
+3219                      E671645-3 Ni                                  - -  - 214   NaXX      
+3220                      A200322-A Lo Ni Va                            - -  - 810   NaXX      
+0125                      X987635-0 Ag                                  - -  - 404   NaXX      
+0126                      B678420-8 Ni                                  - -  - 501   NaXX      
+0127                      E877243-7 Lo Ni                               - -  - 500   NaXX      
+0130                      C300678-A Hi Na Va                            - -  - 914   NaXX      
+0223                      B540540-B De Ni Po                            - -  - 912   NaXX      
+0230                      C7A28AA-5 Fl                                  - -  - 603   NaXX      
+0321                      E567610-5 Ag Ni                               - -  - 402   NaXX      
+0323                      D534543-8 Ni                                  - -  - 704   NaXX      
+0325                      C868542-5 Ag Ni                               - -  - 801   NaXX      
+0330                      B679455-A Ni                                  - -  - 813   NaXX      
+0421                      C440212-8 De Lo Ni Po                         - -  - 911   NaXX      
+0423                      E584525-6 Ag Ni                               - -  - 600   NaXX      
+0424                      E000476-8 As Ni                               - -  - 514   NaXX      
+0427                      D337163-5 Lo Ni                               - -  - 303   NaXX      
+0428                      B775300-A Lo Ni                               - -  - 210   NaXX      
+0429                      A454430-A Ni                                  - -  - 505   NaXX      
+0524                      B8B3464-9 Fl Ni                               - -  - 520   NaXX      
+0527                      B978456-8 Ni                                  - -  - 813   NaXX      
+0528                      C9A7624-5 Fl Ni                               - -  - 800   NaXX      
+0529                      E565311-3 Lo Ni                               - -  - 804   NaXX      
+0622                      D424340-5 Lo Ni                               - -  - 724   NaXX      
+0625                      B5A37CA-A Fl Hi                               - -  - 201   NaXX      
+0629                      C78448C-5 Ni                                  - -  - 712   NaXX      
+0722                      B748143-B Lo Ni                               - -  - 104   NaXX      
+0723                      X9C4268-0 Fl Lo                               - -  - 725   NaXX      
+0724                      E200676-8 Na Ni Va                            - -  - 302   NaXX      
+0727                      C000675-7 As Na Ni                            - -  - 320   NaXX      
+0729                      C548754-5 Ag                                  - -  - 901   NaXX      
+0730                      C553589-6 Ni Po                               - -  - 702   NaXX      
+0821                      C8898A8-8                                     - -  - 700   NaXX      
+0822                      E100678-A Hi Na Va                            - -  - 904   NaXX      
+0823                      C7C3388-7 Fl Lo Ni                            - -  - 623   NaXX      
+0824                      C424331-A Lo Ni                               - -  - 524   NaXX      
+0826                      B593268-A Lo Ni                               - -  - 412   NaXX      
+0827                      A400345-A Lo Ni Va                            - -  - 902   NaXX      
+0828                      C4257AD-B Hi In                               - -  - 103   NaXX      
+0829                      C655666-6 Ag Ni                               - -  - 303   NaXX      
+0923                      B673010-6 Lo Ni                               - -  - 500   NaXX      
+0925                      C4697BC-7                                     - -  - 311   NaXX      
+0929                      C537553-6 Ni                                  - -  - 424   NaXX      
+1021                      B434510-B Ni                                  - -  - 303   NaXX      
+1026                      B597343-7 Lo Ni                               - -  - 503   NaXX      
+1029                      EA9A775-4 Wa                                  - -  - 704   NaXX      
+1030                      C231225-A Lo Ni Po                            - -  - 404   NaXX      
+1121 Meeran               B576699-B Hi In                               - -  - 521   NaXX      
+1122                      D545020-4 Lo Ni                               - -  - 300   NaXX      
+1123                      B99A530-8 Ni Wa                               - -  - 320   NaXX      
+1127                      B97A567-A Ni Wa                               - -  - 902   NaXX      
+1221                      C000445-9 As Ni                               - -  - 900   NaXX      
+1223                      B566579-8 Ag Ni                               - -  - 802   NaXX      
+1224                      C576343-8 Lo Ni                               - -  - 914   NaXX      
+1227                      B300575-9 Ni Va                               - -  - 612   NaXX      
+1229                      C452764-4 Po                                  - -  - 702   NaXX      
+1230                      X65867A-1 Ag                                  - -  - 313   NaXX      
+1323                      C32156A-6 Ni Po                               - -  - 220   NaXX      
+1325                      C586557-A Ag Ni                               - -  - 301   NaXX      
+1327                      C883455-7 Ni                                  - -  - 514   NaXX      
+1330                      E485530-8 Ag Ni                               - -  - 900   NaXX      
+1523 Jaiiffi              A300696-A Hi Na Va                            - -  - 401   NaXX      
+1525                      C432342-6 Lo Ni Po                            - -  - 704   NaXX      
+1526                      E330673-5 De Na Ni Po                         - -  - 605   NaXX      
+1630                      C669643-7 Ni Ri                               - -  - 700   NaXX      
+1722                      A9D4157-A Fl Lo Ni                            - -  - 710   NaXX      
+1724                      B334879-8                                     - -  - 210   NaXX      
+1730                      E985126-2 Lo Ni                               - -  - 512   NaXX      
+1824 Ewwiikla             B594325-9 Lo Ni                               - -  - 202   NaXX      
+1825                      C000645-9 As Na Ni                            - -  - 712   NaXX      
+1921                      C866645-6 Ag Ni Ri                            - -  - 304   NaXX      
+1924                      B231200-9 Lo Ni Po                            - -  - 204   NaXX      
+1925                      C898576-A Hi In                               - -  - 722   NaXX      
+1926                      C200553-9 Ni Va                               - -  - 704   NaXX      
+1927                      C120331-A De Lo Ni Po                         - -  - 904   NaXX      
+2021                      D224469-8 Ni                                  - -  - 310   NaXX      
+2022                      C89A611-A Ni Wa                               - -  - 323   NaXX      
+2024                      DAE4112-7 Fl Lo Ni                            - -  - 802   NaXX      
+2027 Kolooli              C200497-A Ni Va                               - -  - 803   NaXX      
+2028                      E400566-8 Hi Na Va                            - -  - 602   NaXX      
+2029                      E424540-9 Ni                                  - -  - 210   NaXX      
+2121                      B86A6CC-A Hi Wa                               - -  - 305   NaXX      
+2122                      C77A312-7 Lo Ni Wa                            - -  - 813   NaXX      
+2123                      C667354-9 Lo Ni                               - -  - 302   NaXX      
+2125                      D63A633-6 Ni Wa                               - -  - 604   NaXX      
+2126                      C000725-9 As Na                               - -  - 911   NaXX      
+2222                      C447300-9 Lo Ni                               - -  - 624   NaXX      
+2223                      C98A653-A Hi Wa                               - -  - 905   NaXX      
+2224                      C665200-9 Lo Ni                               - -  - 803   NaXX      
+2225                      B355222-A Lo Ni                               - -  - 524   NaXX      
+2226                      B453533-A Ni Po                               - -  - 714   NaXX      
+2230 Gazziil              E765564-7 Ag Ni                               - -  - 422   NaXX      
+2322                      D300676-7 Na Ni Va                            - -  - 802   NaXX      
+2327                      C7837CH-5                                     - -  - 304   NaXX      
+2330                      E443889-7 Po                                  - -  - 502   NaXX      
+2423                      C6A4627-4 Fl Ni                               - -  - 713   NaXX      
+2424                      C100426-A Ni Va                               - -  - 702   NaXX      
+2427                      C642789-7 Po                                  - -  - 803   NaXX      
+2428                      C9D7696-A Fl Hi                               - -  - 724   NaXX      
+2430                      A866875-B Ri                                  - -  - 600   NaXX      
+2525                      C663669-5 Ni Ri                               - -  - 402   NaXX      
+2527                      X556667-2 Ag Ni                               - -  - 600   NaXX      
+2528                      B68645A-A Hi                                  - -  - 701   NaXX      
+2621                      C14077A-9 De Po                               - -  - 305   NaXX      
+2623                      C638355-9 Lo Ni                               - -  - 222   NaXX      
+2624                      D100479-9 Hi Na Va                            - -  - 905   NaXX      
+2625                      C502244-6 Ic Lo Ni Va                         - -  - 703   NaXX      
+2626                      E46855A-4 Ag Ni                               - -  - 210   NaXX      
+2628                      C568741-3 Ag Ri                               - -  - 504   NaXX      
+2721                      C53486A-9                                     - -  - 704   NaXX      
+2722                      B461437-7 Ni                                  - -  - 714   NaXX      
+2723                      B86A653-A Hi Wa                               - -  - 911   NaXX      
+2726                      XA6A335-3 Lo Ni Wa                            - -  - 404   NaXX      
+2727                      D100140-5 Lo Ni Va                            - -  - 604   NaXX      
+2729                      B899469-B Ni                                  - -  - 605   NaXX      
+2730                      B454669-9 Ag Ni                               - -  - 803   NaXX      
+2822                      C2457C8-4 Ag                                  - -  - 211   NaXX      
+2823                      D576677-1 Ag Ni                               - -  - 701   NaXX      
+2826                      B8A5252-A Fl Lo Ni                            - -  - 511   NaXX      
+2827                      B202443-A Ic Ni Va                            - -  - 104   NaXX      
+2921                      C879579-7 Ni                                  - -  - 723   NaXX      
+2922                      C546868-4                                     - -  - 302   NaXX      
+2923                      E682503-3 Ni                                  - -  - 404   NaXX      
+2924                      C9A5345-7 Fl Lo Ni                            - -  - 505   NaXX      
+2925                      E6A3416-5 Fl Ni                               - -  - 310   NaXX      
+2928                      E7C245A-5 Fl Ni                               - -  - 113   NaXX      
+2929                      C867232-4 Lo Ni                               - -  - 910   NaXX      
+3021                      XAAA832-2 Fl Wa                               - -  - 404   NaXX      
+3023                      B9788AA-7                                     - -  - 633   NaXX      
+3024                      C100422-7 Ni Va                               - -  - 301   NaXX      
+3029                      B240677-8 De Ni Po                            - -  - 602   NaXX      
+3030                      C429344-B Lo Ni                               - -  - 100   NaXX      
+3121                      B777321-7 Lo Ni                               - -  - 424   NaXX      
+3122                      D798457-8 Ni                                  - -  - 901   NaXX      
+3125                      B533432-8 Ni Po                               - -  - 214   NaXX      
+3127                      B53487B-8                                     - -  - 614   NaXX      
+3128                      B5537A7-A Hi Po                               - -  - 204   NaXX      
+3221                      A9C38A8-A Fl                                  - -  - 204   NaXX      
+3223                      C795469-6 Ni                                  - -  - 204   NaXX      
+3229                      C779666-4 Ni                                  - -  - 613   NaXX      
+0131                      B897511-7 Ag Ni                               - -  - 903   NaXX      
+0137                      C233411-9 Ni Po                               - -  - 604   Os        
+0331                      A430454-A De Ni Po                            - -  - 104   NaXX      
+0332                      X7966AD-0 Ag                                  - -  - 503   NaXX      
+0333                      C949433-8 Ni                                  - -  - 604   NaXX      
+0338                      C100667-7 Na Ni Va                            - -  - 603   NaXX      
+0339                      X471200-1 Lo                                  - -  - 112   NaXX      
+0432                      C311211-B Ic Lo Ni                            - -  - 602   NaXX      
+0433                      B873367-8 Lo Ni                               - -  - 501   NaXX      
+0440                      C440546-7 De Ni Po                            - -  - 614   NaXX      
+0537                      E240630-7 De Ni Po                            - -  - 402   NaXX      
+0538                      C421351-B Lo Ni Po                            - -  - 802   NaXX      
+0540                      C110665-9 Na Ni                               - -  - 403   NaXX      
+0632                      C210525-8 Ni                                  - -  - 503   NaXX      
+0731                      A9D9401-A Fl Ni                               - -  - 601   NaXX      
+0732                      C527554-B Ni                                  - -  - 213   NaXX      
+0738                      C44766A-4 Ag Ni                               - -  - 524   NaXX      
+0832                      C4137BC-6 Ic Na                               - -  - 424   NaXX      
+0840                      C427889-6                                     - -  - 104   NaXX      
+0936                      C57626B-4 Lo Ni                               - -  - 704   NaXX      
+0937                      CA677A9-3 Ag                                  - -  - 304   NaXX      
+0940                      E58535A-8 Lo Ni                               - -  - 902   NaXX      
+1031                      C6877CE-6 Ag                                  - -  - 502   NaXX      
+1035                      C89A574-6 Ni Wa                               - -  - 702   NaXX      
+1037                      E555894-1                                     - -  - 911   NaXX      
+1038                      C8B8886-8 Fl                                  - -  - 814   NaXX      
+1135                      C403623-8 Ic Na Ni Va                         - -  - 404   NaXX      
+1138                      D78A444-6 Ni Wa                               - -  - 100   NaXX      
+1139                      C461552-9 Ni                                  - -  - 403   NaXX      
+1234                      C786773-6 Ag Ri                               - -  - 914   NaXX      
+1236                      B454533-B Ag Ni                               - -  - 923   NaXX      
+1237                      C301531-8 Ic Ni Va                            - -  - 420   NaXX      
+1239                      E210003-7 Lo Ni                               - -  - 500   NaXX      
+1331                      E98A450-A Ni Wa                               - -  - 610   NaXX      
+1332                      B656565-7 Ag Ni                               - -  - 701   NaXX      
+1338                      C200678-9 Hi Na Va                            - -  - 610   NaXX      
+1340                      E220214-8 De Lo Ni Po                         - -  - 502   NaXX      
+1433                      D586748-4 Ag Ri                               - -  - 204   NaXX      
+1435                      D633136-5 Lo Ni Po                            - -  - 314   NaXX      
+1436                      X100457-6 Va                                  - -  - 903   NaXX      
+1438                      C434500-7 Ni                                  - -  - 104   NaXX      
+1532                      A371140-A Lo Ni                               - -  - 835   NaXX      
+1535                      B445320-7 Lo Ni                               - -  - 712   NaXX      
+1538                      B557333-A Lo Ni                               - -  - 804   NaXX      
+1637                      C402389-B Hi Ic Na Va                         - -  - 814   NaXX      
+1638                      X334430-1                                     - -  - 400   NaXX      
+1639                      E568526-7 Ag Ni                               - -  - 503   NaXX      
+1640                      B75A456-A Ni Wa                               - -  - 510   NaXX      
+1732                      B524320-9 Lo Ni                               - -  - 501   NaXX      
+1733                      D667666-4 Ag Ni Ri                            - -  - 704   NaXX      
+1734                      B444557-9 Ag Ni                               - -  - 113   NaXX      
+1737                      C150405-8 De Ni Po                            - -  - 103   NaXX      
+1739                      C736774-9                                     - -  - 504   NaXX      
+1740                      A859662-8 Ni                                  - -  - 613   NaXX      
+1832                      D2007A6-A Hi Na Va                            - -  - 202   NaXX      
+1835                      E564745-6 Ag Ri                               - -  - 904   NaXX      
+1836                      C7C0324-A De Lo Ni                            - -  - 903   NaXX      
+1837                      A667232-A Lo Ni                               - -  - 323   NaXX      
+1838                      A42169B-B Na Ni Po                            - -  - 120   NaXX      
+1839                      B7A0668-7 De Ni                               - -  - 613   NaXX      
+1840                      C524553-9 Ni                                  - -  - 403   NaXX      
+1931                      C5A3540-7 Fl Hi                               - -  - 912   NaXX      
+1934                      E326113-7 Lo Ni                               - -  - 623   NaXX      
+1939                      E65A6BE-8 Hi Wa                               - -  - 803   NaXX      
+2031                      C388232-A Lo Ni                               - -  - 801   NaXX      
+2032                      C573387-5 Lo Ni                               - -  - 303   NaXX      
+2033                      B866301-8 Lo Ni                               - -  - 713   NaXX      
+2034                      B53657A-9 Ni                                  - -  - 503   NaXX      
+2036                      B1109AC-A Hi Na                               - -  - 414   NaXX      
+2040                      C130535-8 De Ni Po                            - -  - 811   NaXX      
+2135                      C729110-7 Lo Ni                               - -  - 213   NaXX      
+2137                      A898210-A Lo Ni                               - -  - 322   NaXX      
+2139                      C598100-5 Lo Ni                               - -  - 913   NaXX      
+2232                      X785565-0 Ag                                  - -  - 901   NaXX      
+2235                      A200666-A Na Ni Va                            - -  - 425   NaXX      
+2236                      E435122-8 Lo Ni                               - -  - 713   NaXX      
+2237                      C300746-A Na Va                               - -  - 701   NaXX      
+2238                      C7777A9-6 Ag                                  - -  - 615   NaXX      
+2331                      C3007BC-B Hi Na Va                            - -  - 505   NaXX      
+2334 Tyorran              CAA7899-6 Fl Ni                               - -  - 525   NaXX      
+2335                      C656542-4 Ag Ni                               - -  - 415   NaXX      
+2337                      C659410-8 Ni                                  - -  - 302   NaXX      
+2338                      C443586-6 Ni Po                               - -  - 503   NaXX      
+2340                      C643442-8 Ni Po                               - -  - 802   NaXX      
+2431                      C485455-9 Ni                                  - -  - 700   NaXX      
+2434                      C270510-A De Ni                               - -  - 713   NaXX      
+2436                      A656304-9 Lo Ni                               - -  - 902   NaXX      
+2437 Korriil              C56589E-7 Hi                                  - -  - 221   NaXX      
+2438                      C647678-7 Ag Ni                               - -  - 500   NaXX      
+2439                      A442331-A Lo Ni Po                            - -  - 600   NaXX      
+2532                      E7B5433-7 Fl Ni                               - -  - 602   NaXX      
+2534                      C643564-5 Ni Po                               - -  - 820   NaXX      
+2535                      C335640-5 Ni                                  - -  - 600   NaXX      
+2536                      A677500-A Ag Ni                               - -  - 603   NaXX      
+2537                      C858300-8 Lo Ni                               - -  - 320   NaXX      
+2538                      B676576-B Ag Ni                               - -  - 214   NaXX      
+2632                      B8B5678-B Fl Ni                               - -  - 205   NaXX      
+2635                      DAA526B-8 Fl Lo Ni                            - -  - 902   NaXX      
+2640 Vigree               B328145-A Lo Ni                               - -  - 124   NaXX      
+2732                      C446102-B Lo Ni                               - -  - 702   NaXX      
+2735                      C251532-A Ni Po                               - -  - 900   NaXX      
+2736                      D678200-3 Lo Ni                               - -  - 912   NaXX      
+2740                      D447656-5 Ag Ni                               - -  - 213   NaXX      
+2833                      A210102-A Lo Ni                               - -  - 200   NaXX      
+2835                      D581543-5 Ni                                  - -  - 223   NaXX      
+2837                      C41478B-A Ic                                  - -  - 503   NaXX      
+2840                      C549564-9 Ni                                  - -  - 914   NaXX      
+2931                      D300575-7 Ni Va                               - -  - 601   NaXX      
+2932                      C83A620-8 Ni Wa                               - -  - 210   NaXX      
+2933                      B160220-9 De Lo Ni                            - -  - 404   NaXX      
+2934                      B999795-6                                     - -  - 121   NaXX      
+2936                      A10086A-A Na Va                               - -  - 104   NaXX      
+2938                      D677023-2 Lo Ni                               - -  - 404   NaXX      
+3032                      E26157B-6 Ni                                  - -  - 831   NaXX      
+3037                      X64A79E-6 Hi In Wa (minor)                    - -  - 301   NaXX      
+3038                      E310679-8 Na Ni                               - -  - 404   NaXX      
+3039                      C43646A-8 Ni                                  - -  - 215   NaXX      
+3132                      C484667-8 Ag Ni Ri                            - -  - 524   NaXX      
+3133                      B210524-A Ni                                  - -  - 403   NaXX      
+3137                      D302668-5 Ic Na Ni Va                         - -  - 210   NaXX      
+3139                      C774210-8 Lo Ni                               - -  - 523   NaXX      
+3140                      B9C5899-9 Fl Hi                               - -  - 702   NaXX      
+3232                      B370767-A De                                  - -  - 202   NaXX      
+3233                      C586411-6 Ni                                  - -  - 310   NaXX      
+3234                      C548588-9 Ag Ni                               - -  - 402   NaXX      
+3236                      C570321-8 De Lo Ni                            - -  - 533   NaXX 

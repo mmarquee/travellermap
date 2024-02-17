@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Sector>
+  <X>7</X>
+  <Y>7</Y>
+  <Name>Orna</Name>
+  <Name>Tushiile</Name>
+  <Subsectors>
+    <Subsector Index="A">Arrshii</Subsector>
+    <Subsector Index="B">Bgiili</Subsector>
+    <Subsector Index="C">Candiik</Subsector>
+    <Subsector Index="D">Duiill</Subsector>
+    <Subsector Index="E">Eiiyyi</Subsector>
+    <Subsector Index="F">Fliigarr</Subsector>
+    <Subsector Index="G">Ghuniis</Subsector>
+    <Subsector Index="H">Hiiamm</Subsector>
+    <Subsector Index="I">Ikiili</Subsector>
+    <Subsector Index="J">Jaiiffi</Subsector>
+    <Subsector Index="K">Kiiob</Subsector>
+    <Subsector Index="L">Lawii</Subsector>
+    <Subsector Index="M">Miiassa</Subsector>
+    <Subsector Index="N">Nuiid</Subsector>
+    <Subsector Index="O">Opliiss</Subsector>
+    <Subsector Index="P">Poniilli</Subsector>
+  </Subsectors>
+  <Routes>
+  </Routes>
+  <Allegiances>
+  </Allegiances>
+  <Borders>
+  </Borders>
+</Sector>
