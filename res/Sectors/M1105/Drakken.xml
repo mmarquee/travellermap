@@ -127,5 +127,10 @@
     <Route Start="2902" End="2600" Type="Trade"/>
     <Route Start="2701" End="2600" Type="Trade"/>
     <Route Start="2902" End="3301" Type="Trade"/>
+    
+    <Route Start="0518" End="0217" Type="Trade"/>
+    <Route Start="0217" End="3018" EndOffsetX="-1" EndOffsetY="0" Type="Trade"/>
+    <Route Start="0324" End="0125" Type="Trade"/>
+    <Route Start="0125" End="3025" EndOffsetX="-1" EndOffsetY="0" Type="Trade"/>
   </Routes>
 </Sector>
